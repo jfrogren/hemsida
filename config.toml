@@ -14,10 +14,10 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "Om"
-    url  = "om-mig/"
+    url  = "https://frogren.se/om-mig/"
 [[menu.main]]
     name = "Github"
     url  = "https://github.com/jfrogren"
 [[menu.main]]
     name = "Lösa anteckningar"
-    url  = "losa-anteckningar/"
+    url  = "https://frogren.se/losa-anteckningar/"
