@@ -1,0 +1,23 @@
+baseurl = "https://www.frogren.se/"
+title = "Joakim Frögrens hemsida"
+author = "Joakim Frögren"
+canonifyurls = true
+languagecode = "sv"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Joakim Frögren"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "Om"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Mikroblogg"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Bilder"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
