@@ -16,8 +16,8 @@ pygmentscodefences  = true
     name = "Om"
     url  = "om-mig/"
 [[menu.main]]
-    name = "Mikroblogg"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Github"
+    url  = "https://github.com/jfrogren"
 [[menu.main]]
-    name = "Bilder"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Lösa anteckningar"
+    url  = "losa-anteckningar/"
