@@ -1,6 +1,6 @@
 ---
 title: "Ny hemsida!"
-date: 2022-11-20T09:03:20-08:00
+date: 2023-10-19T09:03:20-08:00
 draft: false
 ---
 
