@@ -1,7 +1,7 @@
 ---
 title: "Avled stilla"
 date: 2020-05-19T02:42:48+02:00
-draft: false
+draft: true
 categories: ["Litteratur", "de Beauvoir", "Filosofi"]
 ---
 
