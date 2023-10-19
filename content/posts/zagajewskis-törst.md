@@ -23,5 +23,6 @@ draft: false
 >jag var mycket ung eller ganska gammal,<br>
 >jag kunde välja, jag kunde leva.<br>
 <br>
+
 (Dikten "Jag gick genom medeltidsstaden" ur Adam Zagajewski: Törst, Norstedts förlag 2003,)
 

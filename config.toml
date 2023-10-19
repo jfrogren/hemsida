@@ -12,12 +12,12 @@ pygmentscodefences  = true
   sitename = "Joakim Frögren"
   disableWebFonts = false
 
-[[params.navlinks]]
+[[menu.main]]
     name = "Om"
     url  = "om-mig/"
-[[params.navlinks]]
+[[menu.main]]
     name = "Mikroblogg"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[params.navlinks]]
+[[menu.main]]
     name = "Bilder"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"

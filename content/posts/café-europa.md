@@ -1,7 +1,7 @@
 ---
 title: "Café Europa"
 date: 2020-09-07T01:23:59+02:00
-draft: true
+draft: false
 ---
 
 Från skivan: Brustna Hjärtans hotell <br>
