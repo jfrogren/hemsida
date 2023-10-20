@@ -4,7 +4,6 @@ author = "Joakim Frögren"
 canonifyurls = true
 languagecode = "sv"
 theme = "black-and-light"
-
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
