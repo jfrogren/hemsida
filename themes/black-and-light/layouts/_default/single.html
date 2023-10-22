@@ -5,7 +5,7 @@
 
   {{ if .Params.date }}
     <div id=sub-header>
-      {{ .Date | time.Format ":date_long" }} · {{ .ReadingTime }} minuters läsning
+      {{ .Date.Format (.Site.Params.dateform | default "January 2, 2006") }} · {{ .ReadingTime }} minuters läsning
     </div>
   {{ end }}
 
