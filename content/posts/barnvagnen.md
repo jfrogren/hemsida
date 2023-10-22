@@ -2,7 +2,7 @@
 title: "Barnvagnen"
 date: 2023-10-16T19:16:46+02:00
 draft: false
-tags = ["film", "Bo Widerberg", "Tommy Berggren", "Malmö", "Inger Taube"]
+tags: ["film", "Bo Widerberg", "Tommy Berggren", "Malmö", "Inger Taube"]
 ---
 
 ![Barnvagnen](/images/barnvagnen.png)
