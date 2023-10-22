@@ -14,13 +14,10 @@ defaultContentLanguage = "sv"
   sitename = "Joakim Frögren"
   dateform = "January 2, 2006"
 
-
 [[menu.main]]
     name = "Om"
     url  = "/om-mig"
-[[menu.main]]
-  name = "Tags"
-  url  = "/tags"
+
 [[menu.main]]
     name = "Lösa anteckningar"
     url  = "/losa-anteckningar"
