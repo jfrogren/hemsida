@@ -3,11 +3,12 @@ title = "Joakim Frögren"
 author = "Joakim Frögren"
 canonifyurls = true
 enableEmoji = true
-defaultContentLanguage = "sv-se"
 theme = "black-and-light"
-
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
+
+[languages.sv]
+    languageCode = 'sv'
 
 [params]
   sitename = "Joakim Frögren"
