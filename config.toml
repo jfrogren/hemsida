@@ -7,8 +7,6 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
-[languages.sv]
-    languageCode = 'sv'
 
 [params]
   sitename = "Joakim Frögren"
