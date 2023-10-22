@@ -19,8 +19,8 @@ defaultContentLanguage = "sv"
     name = "Om"
     url  = "/om-mig"
 [[menu.main]]
-  name = "Taggar"
-  url  = "/taggar"
+  name = "Tags"
+  url  = "/tags"
 [[menu.main]]
     name = "Lösa anteckningar"
     url  = "/losa-anteckningar"
