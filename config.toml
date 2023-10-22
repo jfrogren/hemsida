@@ -4,6 +4,7 @@ author = "Joakim Frögren"
 canonifyurls = true
 enableEmoji = true
 languagecode = "sv_se"
+defaultContentLanguage = "sv-se"
 theme = "black-and-light"
 
 pygmentsstyle       = "bw"
@@ -11,7 +12,6 @@ pygmentscodefences  = true
 
 [params]
   sitename = "Joakim Frögren"
-  description = "Ramblings of Ryan Frazier: Programmer, Musician, and Educator"
   dateform = "January 2, 2006"
   github = "pianomanfrazier"
   linkedin = "pianomanfrazier"
