@@ -24,4 +24,4 @@ defaultContentLanguage = "sv"
 
 [[menu.main]]
   name = "Taggar"
-  url  = "/taggar
+  url  = "/taggar"
