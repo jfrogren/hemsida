@@ -3,7 +3,6 @@ title = "Joakim Frögren"
 author = "Joakim Frögren"
 canonifyurls = true
 enableEmoji = true
-languagecode = "sv_se"
 defaultContentLanguage = "sv-se"
 theme = "black-and-light"
 
