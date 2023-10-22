@@ -16,7 +16,6 @@ pygmentscodefences  = true
   linkedin = "pianomanfrazier"
   twitter = "pianomanfrazier"
 
-
 [[menu.main]]
     name = "Om"
     url  = "https://frogren.se/om-mig/"
