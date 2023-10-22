@@ -6,6 +6,8 @@ enableEmoji = true
 theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
+languageCode = "sv-SE"
+defaultContentLanguage = "sv"
 
 
 [params]
