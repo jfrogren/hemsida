@@ -23,5 +23,5 @@ defaultContentLanguage = "sv"
     url  = "/losa-anteckningar"
 
 [[menu.main]]
-  name = "Tags"
-  url  = "/tags"
+  name = "Taggar"
+  url  = "/taggar
