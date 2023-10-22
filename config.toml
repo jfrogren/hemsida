@@ -12,7 +12,6 @@ defaultContentLanguage = "sv"
 
 [params]
   sitename = "Joakim Frögren"
-  timeform = ":date_long"
   dateform = "January 2, 2006"
   github = "pianomanfrazier"
   linkedin = "pianomanfrazier"
