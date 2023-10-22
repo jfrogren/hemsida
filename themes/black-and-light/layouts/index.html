@@ -7,7 +7,7 @@
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div class=date>
           {{if not .Date.IsZero }}
-            {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
+            {{ .Date.Format "January 2006" }}
           {{end}}
         </div>
       </li>
