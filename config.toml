@@ -13,16 +13,14 @@ defaultContentLanguage = "sv"
 [params]
   sitename = "Joakim Frögren"
   dateform = "January 2, 2006"
-  github = "pianomanfrazier"
-  linkedin = "pianomanfrazier"
-  twitter = "pianomanfrazier"
+
 
 [[menu.main]]
     name = "Om"
-    url  = "https://frogren.se/om-mig/"
+    url  = "/om-mig"
 [[menu.main]]
-    name = "Github"
-    url  = "https://github.com/jfrogren"
+  name = "Taggar"
+  url  = "/taggar"
 [[menu.main]]
     name = "Lösa anteckningar"
-    url  = "https://frogren.se/losa-anteckningar/"
+    url  = "/losa-anteckningar"
