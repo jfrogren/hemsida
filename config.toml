@@ -12,6 +12,7 @@ pygmentscodefences  = true
 [params]
   sitename = "Joakim Frögren"
   description = "Ramblings of Ryan Frazier: Programmer, Musician, and Educator"
+  dateform = "January 2, 2006"
   github = "pianomanfrazier"
   linkedin = "pianomanfrazier"
   twitter = "pianomanfrazier"
