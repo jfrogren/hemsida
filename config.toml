@@ -12,7 +12,7 @@ defaultContentLanguage = "sv"
 
 [params]
   sitename = "Joakim Frögren"
-  dateform = "January 2, 2006"
+  dateform = " 2 januari, 2006"
   github = "pianomanfrazier"
   linkedin = "pianomanfrazier"
   twitter = "pianomanfrazier"
