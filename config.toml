@@ -2,14 +2,20 @@ baseurl = "https://www.frogren.se/"
 title = "Joakim Frögren"
 author = "Joakim Frögren"
 canonifyurls = true
+enableEmoji = true
 languagecode = "sv_se"
 theme = "black-and-light"
+
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
   sitename = "Joakim Frögren"
-  disableWebFonts = false
+  description = "Ramblings of Ryan Frazier: Programmer, Musician, and Educator"
+  github = "pianomanfrazier"
+  linkedin = "pianomanfrazier"
+  twitter = "pianomanfrazier"
+
 
 [[menu.main]]
     name = "Om"
