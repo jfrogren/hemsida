@@ -6,9 +6,8 @@ tags: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 ---
 
 
-{{% blockquote %}} Douglas Adams, The Hichhikers Guide to the Galaxy
-Flying is learning how to throw yourself at the ground and miss.
-{{% /blockquote %}}
+{{< blockquote />}} Douglas Adams, The Hichhikers Guide to the Galaxy
+Flying is learning how to throw yourself at the ground and 
 
 
 {{<  'Don liked to drop in and do his thing'; 
