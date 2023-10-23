@@ -2,7 +2,7 @@
 title: "Robert Korkiainen i Purple"
 date: 2021-04-16T01:18:56+02:00
 draft: false
-categories: ["Fotografi", "Bildkonst", "Robert Korkiainen", "Kim Ramberghaug", "Jessika Thörnqvist", "Simone de Beauvoir"]
+tags: ["Fotografi", "Bildkonst", "Robert Korkiainen", "Kim Ramberghaug", "Jessika Thörnqvist", "Simone de Beauvoir"]
 ---
 
 ![](/images/robert-korkiainen.png)
