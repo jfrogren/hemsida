@@ -5,4 +5,6 @@ draft: false
 tags: ["Sven-Eric Liedman", "Åldrande", "Essä", "Politik"]
 ---
 
+![Sven-Eric Liedman](/images/sven-eric-liedman.png)
+
 Sven-Eric Liedman skrev [en text](/pdfs/sven-eric-liedman-om-att-aldras.pdf) i DN i dag om att åldras, där han också nämnde en för mig tidigare okände bok som heter [A History of Old Age](https://archive.fo/bpa8M). 
