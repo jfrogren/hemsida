@@ -1,6 +1,6 @@
 ---
 title: "Kackerlackan i litteraturen"
-date: 2023-06-18T18:36:44+02:00
+date: 2019-06-18T18:36:44+02:00
 draft: false
 tags: ["Litteratur", "Clarice Lispector"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Det naturliga eller oförställda i Pasolinis Teorema"
-date: 2023-10-23T18:39:06+02:00
+date: 2019-06-18T18:39:06+02:00
 draft: false
 tags: ["Film", "Litteratur","Pier Paolo Pasolini"]
 ---

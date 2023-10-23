@@ -1,6 +1,6 @@
 ---
 title: "Polen vs Spanien i BNP per capita 1950-1989"
-date: 2023-10-23T18:54:21+02:00
+date: 2019-06-20T18:54:21+02:00
 draft: false
 tags: ["Politik", "Spanien", "Polen", "Anne Applebaum"]
 ---
