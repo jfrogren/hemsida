@@ -2,7 +2,7 @@
 title: "Om Boris Lehman"
 date: 2021-04-16T00:27:44+02:00
 draft: false
-categories: ["Film", "Belgien", "Boris Lehman", "Bryssel"]
+tags: ["Film", "Belgien", "Boris Lehman", "Bryssel"]
 ---
 
 ![Boris Lehman](/images/boris-lehman.png)
