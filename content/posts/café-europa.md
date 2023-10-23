@@ -2,6 +2,7 @@
 title: "Café Europa"
 date: 2020-09-07T01:23:59+02:00
 draft: false
+tags: ["Musik", "Blå tåget", "Mats G. Bengtsson", "Progg"]
 ---
 
 Från skivan: Brustna Hjärtans hotell <br>

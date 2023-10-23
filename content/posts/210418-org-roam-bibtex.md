@@ -2,7 +2,7 @@
 title: "Org Roam BibTeX - det ultimata akademiska arbetsverktyget?"
 date: 2021-04-18T14:35:25+02:00
 draft: false
-categories: ["Emacs", "Zettelkasten"]
+tags: ["Emacs", "Zettelkasten"]
 ---
 
 Nu när man genom [Doom Emacs](https://archive.fo/6YEPi) inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan [Markdown](https://en.wikipedia.org/wiki/Markdown) och [Org-mode](https://en.wikipedia.org/wiki/Org-mode). Har hittills lutat åt Markdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Markdown inte riktigt rår på:

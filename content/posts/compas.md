@@ -2,6 +2,7 @@
 title: "Compas"
 date: 2014-05-12
 draft: false
+tags: ["Musik"]
 ---
 
 Les Frères Déjean - La Foi

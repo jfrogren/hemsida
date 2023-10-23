@@ -2,6 +2,7 @@
 title: "Några recept från Ica"
 date: 2020-09-06
 draft: false
+tags: ["Mat och dryck", "Recept"]
 ---
 
 Behövde lite inspiration så här inför hösten så jag letade fram några rätter som verkade hyfsat enkla att laga.

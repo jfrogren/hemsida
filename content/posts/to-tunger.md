@@ -2,6 +2,7 @@
 title: "To tunger"
 date: 2014-05-15T17:13:40+01:00
 draft: false
+tags: ["Litteratur", "Poesi", "Inger Hagerup"]
 ---
 
 

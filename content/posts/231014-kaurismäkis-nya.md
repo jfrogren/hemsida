@@ -2,7 +2,7 @@
 title: "Kaurismäkis nya"
 date: 2023-10-14T17:19:32+02:00
 draft: false
-tags: ["Film"]
+tags: ["Film", "Aki Kaurismäki", "Finland"]
 ---
 
 ![Höstlöv som faller](/images/hostlov-som-faller.png)

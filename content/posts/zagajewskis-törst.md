@@ -2,6 +2,7 @@
 title: "Zagajewskis Törst"
 date: 2014-05-18T18:49:56+01:00
 draft: false
+tags: ["Litteratur", "Poesi", "Adam Zagajewski", "Polen"]
 ---
 
 
