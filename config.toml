@@ -11,7 +11,7 @@ defaultContentLanguage = "sv"
 
 
 [permalinks]
-  posts = '/:2006/:1/:title/'
+  posts = '/:2006/:01/:title'
 
 
 [params]
