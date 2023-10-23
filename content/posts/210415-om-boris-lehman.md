@@ -5,6 +5,8 @@ draft: false
 categories: ["Film", "Belgien", "Boris Lehman", "Bryssel"]
 ---
 
+![Boris Lehman](/images/boris-lehman.png)
+
 [Boris Lehman  à la recherche du tombeau idéal](https://archive.fo/7Ss2O) - ett utmärkt radioprogram från France Culture om Boris Lehmans jakt på den plats där allt det han samlat och dokumenterat under sitt liv skulle kunna få en värdig plats. Avsnittet har en filosofisk ådra eftersom det som frågan bottnar i handlar så mycket om vad det blir kvar av ett människoliv och hur det ska bevaras för eftervärden. Vad har en människas livsverk för betydelse när allt kommer omkring. Det handlar om vad ett arkiv egentligen tjänar för syfte. I anslutning till avsnittet hittade jag också följande två artiklar:
 
 * [La Cinémathèque de Boris Lehman : l’art de s’égarer‪](https://arki.vet/pdfs/albera2017.pdf)
