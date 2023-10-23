@@ -2,7 +2,7 @@
 title: "Om vårt behov av att sätta ord på tankar och känslor"
 date: 2018-11-18T13:40:57+02:00
 draft: false
-tags = ["Litteratur", "Jenny Erpenbeck", "Tyskland"]
+tags: ["Litteratur", "Jenny Erpenbeck", "Tyskland"]
 ---
 
 >"Jag ser ett träd och säger träd, jag känner lukten av kaka, som mamma bakar på söndag, och säger kaka, jag hör en fågel kvittra i trädgården och säger: Ja, en fågel. Vi stoppar kakan i våra munnar, den försvinner där, mun, ögon och näsa hål, början på vägar, vart de leder vet ingen exakt, magen säger mamma, men inifrån har jag aldrig sett magen, åtminstone kommer det som jag äter ut igen nertill, men det som jag tar in i mina ögon, vart går det, ska allt det rymmas i mitt huvud, även om jag skulle trava det som vår hemhjälp gör med tvätten, vika ihop och lägga det ovanpå vartannat, tror jag inte det skulle få plats, därför säger jag det som jag ser, för då gör det en sväng inuti mitt huvud och går ut igen genom munnen. Skit, säger jag när jag senare ser vad det har blivit av kakan. Det är ett smutsigt ord, säger mamma, medan hon torkar mig i stjärten."
