@@ -6,14 +6,8 @@ tags: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 ---
 
 
-{{< blockquote />}} Douglas Adams, The Hichhikers Guide to the Galaxy
-Flying is learning how to throw yourself at the ground and 
-
-
-{{<  'Don liked to drop in and do his thing'; 
-> 'He always wanted to travel light'
-
-   -- Sonny Rollins (i en intervju med Adam Shatz)
+>  'Don liked to drop in and do his thing'; 'He always wanted to travel light'
+>   -- Sonny Rollins (i en intervju med Adam Shatz)
     
 Enligt Adam Shatz var Don Cherry's musik (s. 30):
 
