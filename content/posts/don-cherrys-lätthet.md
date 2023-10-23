@@ -6,12 +6,12 @@ tags: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 ---
 
 
-{% blockquote Douglas Adams, The Hichhikers Guide to the Galaxy %}
+{{% blockquote %}} Douglas Adams, The Hichhikers Guide to the Galaxy
 Flying is learning how to throw yourself at the ground and miss.
-{% endblockquote %}
+{{% /blockquote %}}
 
 
-> 'Don liked to drop in and do his thing'; 
+{{<  'Don liked to drop in and do his thing'; 
 > 'He always wanted to travel light'
 
    -- Sonny Rollins (i en intervju med Adam Shatz)
