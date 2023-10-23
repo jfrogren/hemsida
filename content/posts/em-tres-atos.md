@@ -5,9 +5,12 @@ draft: false
 tags: ["Lúcia Murat", "Brasilien", "Simone de Beauvoir", "Film"]
 ---
 
-- A poetic movie by Brazilian director Lúcia Murat
-- Inspired by two books by Simone de Beauvoir:
-  + Une morte très douce (about her mother's death)
-  + La vieillesse (about her own aging)
-
 {{< youtube CTrMTRinA5Q >}} 
+
+
+En poetisk film av den brasilianska regissören Lúcia Murat. Inspirerad av följande två böcker av Simone de Beauvoir:
+  + Une morte très douce (om moderns död)
+  + La vieillesse (om sitt eget åldrande)
+
+
+
