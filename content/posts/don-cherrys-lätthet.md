@@ -6,13 +6,12 @@ tags: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 ---
 
 
->  'Don liked to drop in and do his thing'; 'He always wanted to travel light'
+>  'Don liked to drop in and do his thing'; 'He always wanted to travel light' <br>
 >   -- Sonny Rollins (i en intervju med Adam Shatz)
     
 Enligt Adam Shatz var Don Cherry's musik (s. 30):
 
 > ...buoyed by what Italo Calvino called "the secret of lightness", the gift  of the artist "who raises himself above the weight of the world". 
-
 > Cherry's lightness inspired the musicians he met, but it has obscured the depth of his achievement, as if he were too celestial to leave a footprint in musical memory.
  
 Shatz formuleringar är nästan för bra för att vara sanna, och kanske är de det också? Det är snyggt detta med metaforerna att han tyckte om att resa lätt och att han därför inte lämnat så tydliga avtryck i musikhistorieböckerna.
@@ -27,7 +26,7 @@ Och enligt nedanstående essä (s. 30) kallade Don Cherry:
 
 och att Don Cherry var:
 
-> an extraordinarily innovative figure, first as an apostle in Coleman's free jazz movement, which liberated improvisation from the chord progressions of bebop; then as a leader of musical globalism - what later became known as world music.
+> ...an extraordinarily innovative figure, first as an apostle in Coleman's free jazz movement, which liberated improvisation from the chord progressions of bebop; then as a leader of musical globalism - what later became known as world music.
 
 Detta väcker två tankar hos mig, först och främst att Shatz ser det som att den fria jazzen frigjorde improvisationen från ackordsföljdernas bebop - så kanske det var? - men 'liberated' är här ett intressant och mycket "shatzskt" ordval eftersom han gärna svänger sig med mångbottnade och lite underfundiga formuleringar. Sen att det som nu heter 'world music' tidigare benämndes 'musical globalism', det var för mig något nytt.
 
