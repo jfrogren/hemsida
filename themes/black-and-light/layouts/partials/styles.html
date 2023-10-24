@@ -109,7 +109,7 @@
   blockquote {
     font-family:"Old Standard TT",serif;
     text-align:center;
-    padding:3px;
+    padding:2px;
   }
 
   blockquote p {
@@ -119,10 +119,14 @@
   blockquote:before,blockquote:after {
     font-family:"Old Standard TT",serif;
     content:'\00AB';
-    font-size:30px;
+    font-size:2px;
     color:#403c3b;
   }
 
+  blockquote:after {
+    content:'\00BB';
+  }
+  
   hr {
     width:40%;
     height: 1px;
