@@ -5,9 +5,9 @@ draft: false
 tags: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 ---
 
+![Don Cherry](/images/don-cherry.png)
 
-
-Sonny Rollins (i en intervju med Adam Shatz): "*Don liked to drop in and do his thing; He always wanted to travel light*". Enligt Adam Shatz var Don Cherry's musik (s. 30):
+Sonny Rollins (i en intervju med Adam Shatz): "*Don liked to drop in and do his thing; He always wanted to travel light*". Enligt Adam Shatz var Don Cherry's musik [^1] :
 
 > ...buoyed by what Italo Calvino called "the secret of lightness", the gift  of the artist "who raises himself above the weight of the world". 
 > Cherry's lightness inspired the musicians he met, but it has obscured the depth of his achievement, as if he were too celestial to leave a footprint in musical memory.
@@ -21,4 +21,4 @@ Detta väcker två tankar hos mig, först och främst att Shatz ser det som att 
 Baserat på vad Shatz skriver om Don Cherrys musikglobalism, ses innovativitet implicit som en befrielse från ett etablerat format och
 en syntetisering av till synes disparata enheter till något nytt. Innovativitet kan alltså vara att syntetisera till synes olika enheter till något nytt. Innovativitet kan också vara att "befria" något från ett etablerat format. Med andra ord att vara innovativ om det verkar innehålla en del av att göra det oväntade eller bryta mot reglerna.
 
-* Shatz, Adam. _“The Apostle of Now-Ness"_. Review of Four Re-Issued Albums by Don Cherry. New York Review of Books 66 no. 10 (2019), <https://www.nybooks.com/articles/2019/06/06/don-cherry-apostle-now-ness/>.
+[^1]: Shatz, Adam. _“The Apostle of Now-Ness"_. Review of Four Re-Issued Albums by Don Cherry. New York Review of Books 66 no. 10 (2019), <https://www.nybooks.com/articles/2019/06/06/don-cherry-apostle-now-ness/>.
