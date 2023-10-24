@@ -14,6 +14,8 @@ I filmen _Jeune et Jolie_ av François Ozon spelades _A quoi ça sert_ av Franç
 > À quoi ça sert de le cacher?
 > À quoi ça sert d’y échapper?
 
-Hardy har skrivit den själv vad jag förstår. Det den skildrar så skickligt är i min tolkning just det där hur lättvindigt en relation tar slut eller fortsätter bottnat delvis i rädsla över att själv bli sårad eller i en föreställning om att ensamheten är att föredra. Kanske upplevs det starkast i ungdomen för att erfarenheten av förälskelse då ofta även om den är nyväckt hos de flesta kan sättet att hantera känslorna variera väldeliga. Och i ungdomen är vikten av att framställa sig på ett visst sätt inför andra viktigare än senare i livet. Det skildras i filmen med den jämnåriga pojkvännen i slutet av filmen och det skildras även bitterljuvt i _En kärlekshistoria_ av Roy Andersson i scenen med moped på grusplanen.
+{{< soundcloud-track 934732222 >}}
 
-{{< youtube vqRBDopJ3Ts >}}
+Hardy har skrivit den själv vad jag förstår. Den skildrar stillsamt och fint lättvindigheten med vilken en relation kan ta slut och vilken rädsla och vanmakt det innebär inför att själv bli sårad eller såra någon annan. Kanske upplevs det starkast i ungdomen för att erfarenheten av förälskelse då ofta även om den är nyväckt hos de flesta kan sättet att hantera känslorna variera väldeliga. Och i ungdomen är vikten av att framställa sig på ett visst sätt inför andra viktigare än senare i livet. Det är också något som jag tycker skildras trovärdigt i filmen med den jämnåriga pojkvännen i slutet av Ozons film. Och det är också något som skildras med stort mått av igenkännande i _En kärlekshistoria_ av Roy Andersson bland annt i scenen med moppen på grusplanen.
+
+
