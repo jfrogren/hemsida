@@ -9,10 +9,11 @@ pygmentscodefences  = true
 languageCode = "sv"
 defaultContentLanguage = "sv"
 
+[frontmatter]
+	date = [":filename", ":default", ":fileModTime"]
 
 [permalinks]
   posts = '/:2006/:01/:title'
-
 
 [params]
   sitename = "Joakim Frögren"
