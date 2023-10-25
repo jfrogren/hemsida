@@ -1,6 +1,6 @@
 ---
 title: "Lars Gustafsson om detaljer och sammanhang"
-date: 2023-10-25T23:10:11+02:00
+date: 2019-08-08T23:10:11+02:00
 draft: false
 tags: ["Lars Gustafsson", "Filosofi", "Litteratur", "Uppmärksamhet"]
 ---

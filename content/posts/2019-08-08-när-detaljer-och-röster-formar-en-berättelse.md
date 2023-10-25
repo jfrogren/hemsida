@@ -1,5 +1,5 @@
 ---
-title: "När detaljer och röster (och inte en plan) formar en berättelse"
+title: "När detaljer och röster formar en berättelse"
 date: 2019-08-08T21:04:40+02:00
 draft: false
 tags: ["Jens Linder", "Essä", "Litteratur", "Henry Mayhew", "London", "Politik", "Lars Gustafsson"]

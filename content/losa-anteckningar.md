@@ -1,5 +1,6 @@
 +++
 title = "Lösa anteckningar"
+date = "2014-04-09"
 +++
 
 Didier Eribon's book Returning to Reims (Eribon, 2013)

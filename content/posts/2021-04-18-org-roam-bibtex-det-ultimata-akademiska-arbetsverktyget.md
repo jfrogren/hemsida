@@ -1,5 +1,5 @@
 ---
-title: "Org Roam BibTeX - det ultimata akademiska arbetsverktyget?"
+title: "Org-Roam BibTeX - det ultimata akademiska arbetsverktyget?"
 date: 2021-04-18T14:35:25+02:00
 draft: false
 tags: ["Emacs", "Zettelkasten"]
