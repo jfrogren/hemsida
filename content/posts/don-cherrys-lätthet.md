@@ -19,6 +19,6 @@ Shatz formuleringar är nästan för bra för att vara sanna, och kanske är de 
 Detta väcker två tankar hos mig, först och främst att Shatz ser det som att den fria jazzen frigjorde improvisationen från ackordsföljdernas bebop - så kanske det var? - men 'liberated' är här ett intressant och mycket "shatzskt" ordval eftersom han gärna svänger sig med mångbottnade och lite underfundiga formuleringar. Sen att det som nu heter 'world music' tidigare benämndes 'musical globalism', det var för mig något nytt.
 
 Baserat på vad Shatz skriver om Don Cherrys musikglobalism, ses innovativitet implicit som en befrielse från ett etablerat format och
-en syntetisering av till synes disparata enheter till något nytt. Innovativitet kan alltså vara att syntetisera till synes olika enheter till något nytt. Innovativitet kan också vara att "befria" något från ett etablerat format. Med andra ord att vara innovativ om det verkar innehålla en del av att göra det oväntade eller bryta mot reglerna.
+en syntetisering av till synes disparata enheter till något nytt. Med andra ord att vara innovativ om det verkar innehålla en del av att göra det oväntade eller bryta mot reglerna.
 
 [^1]: Shatz, Adam. _“The Apostle of Now-Ness"_. Review of Four Re-Issued Albums by Don Cherry. New York Review of Books 66 no. 10 (2019), <https://www.nybooks.com/articles/2019/06/06/don-cherry-apostle-now-ness/>.
