@@ -9,13 +9,15 @@ tags: ["Lars Gustafsson", "Filosofi", "Litteratur", "Uppmärksamhet"]
 
 Lars Gustafsson skriver i _Spegelskärvor_ om hur han sent omsider insett hur djupt han påverkats av sina biologilärare. Det som de lärde ut beskriver han som  "värdet av en detaljerad naturiakttagelse" eller "betydelsen av att se detaljer", och han ger exempel på att det gällde att (s. 5):
 
-> "_se den skillnad i stjärtens siluett som skilde den ena sortens hök från den andra, den chokladfärgade undersida som skiljer den läckra snöbollschampinjonen från den livsfarliga vita flugsvampen._"
+> "se den skillnad i stjärtens siluett som skilde den ena sortens hök från den andra,
+> den chokladfärgade undersida som skiljer den läckra snöbollschampinjonen från
+> den livsfarliga vita flugsvampen."
 
 Boken utgör också, med otaliga exempel, en hyllning till detaljen. Enligt författaren bygger den småprosa som samlats i boken på "en sådan uppmärksamhetsprincip". Vidare skriver Gustafsson om hur de olika korta prosastyckena som utgör boken är "tänkta som logiskt oberoende av varandra" och vidare (s. 5):
 
 > "De avbildar ingen livsåskådning, de utgör inte heller steg i ett resonemang. Jag tänker mig dem som skärvor av en spegel utslagna över ett stort golv, och var och en envist speglande sin detalj."
 
-Jag fängslas av det han skriver om detaljerna och skärvorna men jag skulle säga att han dessa skärvor till viss del faktiskt står i ett förhållande till varandra; att de går att lägga i mönster och därigenom kan knytas till varandra och att det är just denna koppling som de olika skärvorna har till varandra som utgör en del av syftet och som gör bilden än rikare än om man bara betraktar dem som oberoende av varandra. Men även om Gustafsson tänker sig skärvorna som "logiskt oberoende" så skriver han på nästa sida [p. 6]:
+Jag fängslas av det han skriver om detaljerna och skärvorna men jag skulle säga att han dessa skärvor till viss del faktiskt står i ett förhållande till varandra; att de går att lägga i mönster och därigenom kan knytas till varandra och att det är just denna koppling som de olika skärvorna har till varandra som utgör en del av syftet och som gör bilden än rikare än om man bara betraktar dem som oberoende av varandra. Men även om Gustafsson tänker sig skärvorna som "logiskt oberoende" så skriver han på nästa sida (s. 6):
 
 >"Behovet av att skapa sammanhang i allt vi skriver bygger inte sällan för oss författare ett självpåtaget fängelse och det känns ibland som ett steg mot en djupare sanning att uppge alla kongruensens ambitioner."
 
