@@ -5,6 +5,6 @@ draft: false
 tags: ["Politik", "Islam", "Irshad Manji", "Debatt"]
 ---
 
-Mehdi Hassan goes [Head to Head](https://www.aljazeera.com/program/episode/2013/6/23/what-is-wrong-with-islam-today/) with reformist muslim Irshad Manji. Check out the other episodes of Head to Head too! It's a great show.
+Mehdi Hassan går [Head to Head](https://www.aljazeera.com/program/episode/2013/6/23/what-is-wrong-with-islam-today/) med reformistiska muslimen Irshad Manji. Kolla in de andra avsnitten av Head to Head också! Det är ett bra program.
 
 

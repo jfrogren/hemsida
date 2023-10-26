@@ -13,4 +13,4 @@ Hur som helst tillhör de en privilegierad klass vars tillgångar funnits där i
 
 Men den bekymmersfria, priviligierade tillvaro som de har förmånen att leva i är inte den verklighet som de allra flesta britter idag upplever och har erfarenhet av. Och hur 'Great' Britain var och är, nu när det romantiska skimret kring imperiet lagt sig och genomlysts av till exempel Sven Lindqvist (som Wood nämner) och Brexit står för dörren, det är en inte oväsentlig fråga. Det lättvindiga sätt som David Cameron och Boris Johnson fattar beslut och kommunicerar, tycks Wood mena, är till viss del ett uttryck för den 'effortless superiority' de är fostrade i, men frågan är hur lämplig och ansvarstagande den andan är för politiska ledare av idag.
 
-[^1]: Wood, J., 2019. Diary. London Review of Books [Online] vol. 41 no. 13 pp. 36-37. Available from <https://www.lrb.co.uk/v41/n13/james-wood/diary > [Accessed 27 June 2019].
+[^1]: Wood, J., 2019. Diary. London Review of Books [Online] vol. 41 no. 13 pp. 36-37. Available from <https://www.lrb.co.uk/v41/n13/james-wood/diary>.

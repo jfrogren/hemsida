@@ -13,5 +13,5 @@ Under filmens gång kom jag att tänka på pappa många gånger. Hur han var i s
 
 Jag tyckte mycket om hur den trevande förälskelsen mellan dessa två personer skildrades. Hur blickarna möttes och hur de liksom var inne i sin egen bubbla oavsett var de befann sig. Det var skildrat med stor ömsinthet. Särskilt rörande var sceenen inne på biblioteket när de lyssnar på Vivaldi. Det är en film jag gärna skulle se om och rent av vilja äga. 
 
-Samtidigt var den inte utan fel och brister och mest reagerade jag på utbrottet från Tommy Berggrens karaktär i slutet av filmen, hur det liksom kom från ingenstans. Det kändes inte rikigt trovärdigt.     
+Samtidigt var den inte utan fel och brister och mest reagerade jag på utbrottet från Tommy Berggrens karaktär i slutet av filmen, hur det liksom kom från ingenstans. Det kändes inte rikigt trovärdigt.
 
