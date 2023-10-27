@@ -5,7 +5,7 @@ draft: false
 tags: ["Litteratur", "Jean Giono", "Frankrike", "Provence"]
 ---
 
-Jean Giono menar att det finns olika sorters kännedom; en av intellektuell karaktär och en av sensuell karaktär. Så här skildrar han hur de skiljer sig åt  [[^1]] (s. 76-77):
+Jean Giono menar att det finns olika sorters kännedom om världen; en av intellektuell karaktär och en av sensuell karaktär. Så här skildrar han hur de skiljer sig åt  [[^1]] (s. 76-77):
 
 > Ce que je veux écrire sur la Provence pourrait également s'intituler : "Petit traité de la connaissance des choses." On ne peut pas connaître un pays par la simple science géographique. On ne peut, je crois, rien connaître par la science; c'est un instrument trop exact et trop dur. 
 
@@ -15,6 +15,6 @@ Jean Giono menar att det finns olika sorters kännedom; en av intellektuell kara
 
 Lika litet som kirurgen kan lära sig om våra passioner genom att studera hjärtat; lika litet kan geografen förstå ett landskap genom de instrument han eller hon har till sitt förfogande. Det liknar det jag har nedtecknat av Tegnér nånstans på en lapp om att det är poesin som kommer närmast beskrivningen av det verkliga eller sanna.
 
-Även om Giono skriver prosa knyter det han skriver också an till poesin eftersom denna sensuella kännedomen får mig att associera till ett sensibelt, och därmed också poetiskt sinnelag. På det sättet knyter det också an till det som den flanderska poeten Paul van Ostaijen skriver om ['Poesin och extasen som förundran inför det outsägliga']({{< relref "/posts/2022-06-09-poesin-och-extasen-som-forundran-infor-det-outsagliga.md" >}} "Poesin och extasen som förundran inför det outsägliga").
+Även om Giono skriver prosa knyter det han skriver också an till poesin eftersom den sensuella kännedomen han talar om får mig att associera till ett sensibelt, och därmed också poetiskt sinnelag. På det sättet knyter det också an till det som den flanderska poeten Paul van Ostaijen skriver när han beskriver ['poesin och extasen som förundran inför det outsägliga']({{< relref "/posts/2022-06-09-poesin-och-extasen-som-forundran-infor-det-outsagliga.md" >}} "Poesin och extasen som förundran inför det outsägliga").
 
  [^1]: Jean Giono (1993): _Provence_, Gallimard.

@@ -23,6 +23,5 @@ Jag fängslas av det han skriver om detaljerna och skärvorna men jag skulle sä
 
 När han pratar om ett "självpåtaget fängelse" och att det bara "känns ibland" som en djupare sanning läser jag in att jakten på kongruens har ett kostsamt pris, och att det kanske inte alltid är mödan värd att som författare göra sig det besväret. Detta är intressant. Det beskriver egentligen skillnaden mellan fragment/skärvor och idéer (som är det som en Zettelkasten är uppbyggd kring och där syftet är att de små tankarna tillsammans ska forma en större helhet). Kan ett fragment ha ett värde i sig utan ett större sammanhang? Idealet är väl att fragmentet utgör ett mikrokosmos som speglar ett makrokosmos.
 
-
 <!-- Finns viss likhet med Rokkans teori om detaljernas respektive modellernas tyranni som ju med lite god vilja kan sägas vara motsvarigheten inom vetenskap:
 [[201812101729 - Social sciences vs. Humanities]] -->
