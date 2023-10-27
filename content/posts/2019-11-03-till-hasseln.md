@@ -1,6 +1,6 @@
 ---
-title: "Till hasseln"
-date: 2019-11-03T15:36:32+02:00
+title: "Till hasseln - dikt av Czesław Miłosz"
+date: 2019-11-03T16:36:32+02:00
 draft: false
 tags: ["Czesław Miłosz", "Litteratur", "Poesi", "Polen"]
 ---
