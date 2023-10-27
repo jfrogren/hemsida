@@ -1,6 +1,6 @@
 ---
 title: "Yann Andréa"
-date: 2023-10-27T04:08:48+02:00
+date: 2019-11-23T04:08:48+02:00
 draft: false
 tags: ["Marguerite Duras", "Frankrike", "Litteratur"]
 ---
