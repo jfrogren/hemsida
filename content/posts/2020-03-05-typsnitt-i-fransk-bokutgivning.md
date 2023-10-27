@@ -5,7 +5,7 @@ draft: false
 tags: ["Litteratur", "Formgivning"]
 ---
 
-I en akademisk uppsats om typografin i flera franska litteraturserier identifieras _Didot_ som typsnitt för Gallimand Blanche och _Bodoni_ som typsnitt för Les editions de Minuit:
+I en akademisk uppsats om typografin i flera franska litteraturserier identifieras _Didot_ som typsnitt för Gallimard Blanche och _Bodoni_ som typsnitt för Les editions de Minuit:
 
 > Editions Gallimard and Les editions de Minuit display the information on their covers with two different, yet very similar-looking typefaces; the former uses the Didot typeface, the latter the Bodoni typeface. Although an untrained eye probably would not distinguish Didot characters from Bodoni characters [[^1]]
 
