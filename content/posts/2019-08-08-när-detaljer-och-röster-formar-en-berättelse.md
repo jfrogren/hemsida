@@ -11,4 +11,4 @@ Läser i DN en artikel av Jens Linder [[^1]] i vilken han tar upp Henry Mayhews 
 
 Likt uttrycket "att inte se skogen för alla träd" är det en konst att hitta balansen mellan detalj och övergripande analys. Det är också det "fängelse" som författaren, för att tala med Lars Gustafsson, eller för den delen journalisten lätt hamnar i - att i den mån det behövs varva in det övergripande sammanhanget. Kanske är Zettelkasten en lösning. Att samla sina iakttagelser och reflektioner där möjliggör såväl en detaljrikedom som en struktur.
 
-[^1]: Linder, Jens. *Därför har vi mycket att lära av de fattigaste i 1800-talets London**. Dagens Nyheter - Kulturdebatt. [2019-07-29].  
+[^1]: Linder, Jens. _Därför har vi mycket att lära av de fattigaste i 1800-talets London_. Dagens Nyheter - Kulturdebatt. [2019-07-29].  
