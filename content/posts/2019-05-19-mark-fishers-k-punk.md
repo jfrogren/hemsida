@@ -5,6 +5,8 @@ draft: false
 tags: ["Musik", "Politik", "Mark Fisher", "Essä", "Jenny Turner"]
 ---
 
+![Mark Fisher](/images/mark-fisher.png "Mark Fisher")
+
 Jenny Turner skriver i en essä i London Review of Books om Mark Fisher i samband med att en bok med hans samlade texter nyligen har givits ut [[^1]]. Där redogör hon bland annat för och reflekterar kring ett antal begrepp som han har kommit att ha förknippats med.
 
 ## "Popular modernism" eller "Pulp modernism"
@@ -16,6 +18,8 @@ Ett exempel på populärmodernismen är tidningen New Musical Express (NME) som 
 Själv känner jag igen det synsättet till viss del, men jag föddes 10 år för sent för att egentligen uppleva det. Känner mest igen det från Gradvalls _Jörvars gosskör_ och Lokkos tal om _NME_ från den tiden. _Pop_ var ett försök till just popmodernism och kanske var det ett lyckat försök. Allt det Gradvall skrev och fortfarande skriver likaså. Läste nyligen  (på Vagants blogg) att Karl-Ove Knaussgård började vid sexton års ålder som just musikrecensent och sen började utifrån det vidga sitt ämnesområde.
 
 Även Susanne Ljung, som har programmet Stil i P1 och skriver i DN om mode ibland, läste jag - i Aftonbladet - har inspirerats av NME, och tydligen var det NME som introducerade detta med lustiga bildtexter på det där sättet som Pop sen använde. Ljung pratar visserligen om "rockjournalistik" i samband med det men det känns som att definitionerna på "rock" och "pop" är rätt flytande. Ändå intressant att se hur inflytelserik brittisk kultur har varit. Essän i sin moderna humoristisk form föddes där också på kaffehusen. Virginia Woolf och _stream of consciousness_ likaså, liksom, verkar det som, popkulturjournalistiken. För när man pratar om 'Popular modernism' är det svårt att inte associera till just popkultur.
+
+![k-punk](/images/k-punk.png "k-punk")
 
 ## "Capitalism realism"
 
