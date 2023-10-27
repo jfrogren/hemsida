@@ -20,8 +20,6 @@ Pet Shop Boys, den engelska syntpopduon lät sig i sin tur inspireras av Nymans 
 
 {{< soundcloud-track 294262840 >}}
 
-Här är den officiella videon till *Love Is a Bourgeois Construct* med flörtar till såväl Purcell som Greenaways film:
+Till Pet Shop Boys låt finns också en fan-video med en dans som vad jag förstår fansen har skapat som ser ut så här:
 
-{{< youtube-enhanced id="jdQvVNxnM_s" title="Pet Shop Boys - Love is a Bourgeois Construct" >}}
-
-<!-- Det finns också en fan-video med en dans som vad jag förstår fansen har skapat men den lyckas jag inte hitta nu --> 
+{{< youtube-enhanced id="OMkQ2PPUE6E" >}}
