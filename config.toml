@@ -17,7 +17,7 @@ defaultContentLanguage = "sv"
 
 [params]
   sitename = "Joakim Frögren"
-  dateform = "January, 2 2006"
+  dateform = "2006-01-02"
 
 [[menu.main]]
     name = "Om"
