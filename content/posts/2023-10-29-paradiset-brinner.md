@@ -7,7 +7,7 @@ tags: ["Film", "Mika Gustafson"]
 
 ![Paradiset brinner](/images/paradiset-brinner.png)
 
-Gick på Panora ikväll och såg *Paradiset brinner*. En film utan moraliska pekpinnar där tre unga systrar både tillåts och tvingas forma sin tillvaro efter bästa förmåga utan föräldrars inblandning, men där vuxenvärldens krav och måsten gör sig alltmer påminda tills dess en upplösning av den starka och frihetligt präglade symbiosen systrarna emellan blir oundviklig.
+Gick på Panora ikväll och såg *Paradiset brinner*. En film utan moraliska pekpinnar där tre unga systrar både tillåts och tvingas forma sin tillvaro efter bästa förmåga utan föräldrars inblandning, men där vuxenvärldens krav och måsten gör sig alltmer påminda tills dess en upplösning av den starka och frihetligt präglade symbiosen systrarna emellan tycks oundviklig.
 
 Det jag tyckte bäst om i filmen var de två äldre tjejernas imponerande rollprestationer, och personkemin dem emellan; hur deras syskonkärlek skildrades, stundtals innefattande en maktkamp, men bottnad i en så stark ömsesidig respekt och kärlek. Det var fångat med stor ömhet och känslighet på ett sätt som är ovanligt i svensk film. Scenen när den äldre systern rörde vid den ynge systerns läppar för att se om hon andades, och dialogen dem emellan efter maktkampen hörde för mig till de starkaste scenerna i filmen 
 
@@ -15,6 +15,8 @@ Det jag tyckte bäst om i filmen var de två äldre tjejernas imponerande rollpr
 
 Däremot tyckte jag mindre om karaoke-scenerna och hur de vuxna grannarna skildrades. Hela karaoke-grejen kändes något iscensatt och konstlad även om den i sig också hade vissa humoristiska inslag. 
 
-Jag tyckte mig se vissa influenser från bröderna Dardennes filmer, och då kanske främst *Rosetta*, inte minst i arbetarklassperspektivet och i hur kameran arbetade. Därtilltycks också viss inspiration hämtats från *Fish Tank* i karaktärernas uppkäftighet, liksom ifrån Harmony Korines *Kids* och *Gummo* i det sätt som den föräldrafria tillvaron skildrades ocensurerat. Samtidigt har regissören Mika Gustafson, som vad jag förstår långfilmsdebuterar med filmen, en tydlig egen röst i sitt berättande, där hon på ett skickligt sätt blandar det befriande utlevande och humoristiska sidorna hos karaktärerna med ett visst suggestivt allvar och djup.
+Jag tyckte mig se vissa influenser från bröderna Dardennes filmer, och då kanske främst *Rosetta*, inte minst i arbetarklassperspektivet och i hur kameran arbetade. Därtill tycks också viss inspiration ha hämtats från *Fish Tank* i karaktärernas uppkäftighet, liksom ifrån Harmony Korines *Kids* och *Gummo* i det sätt som den föräldrafria tillvaron skildrades ocensurerat. Scenen där den äldsta systern bjuds på vitt vin i köket är också en tydlig blinkning till Vivaldi-scenen på biblioteket i Bo Widerbergs *Barnvagnen* som jag nyligen sett och skriver om [här]({{< relref "/posts/2023-10-16-barnvagnen.md" >}}). 
+
+Samtidigt har regissören Mika Gustafson, som vad jag förstår långfilmsdebuterar med filmen, en tydlig egen röst i sitt berättande, där hon på ett skickligt sätt blandar det befriande utlevande och humoristiska sidorna hos karaktärerna med ett visst suggestivt allvar och djup.
 
 Som helhet var det en stark film och en regissör och ett gäng skådespelare som det ska bli spännande att följa framöver.
