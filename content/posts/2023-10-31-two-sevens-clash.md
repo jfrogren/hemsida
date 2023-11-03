@@ -5,6 +5,6 @@ draft: false
 tags: ["Musik", "Reggae", "Jamaica", "Culture", "Joe Gibbs"]
 ---
 
-Lånade Soul Jazz-samlingen [Joe Gibbs Productions ](https://soundsoftheuniverse.com/sjr/product/joe-gibbs-roots-culture-djs-and-the-birth-of-dancehall) från Stadsbiblioteket här i Malmö och föll för flera spår, bland annat detta:
+Lånade Soul Jazz-samlingen [Joe Gibbs Productions ](https://soundsoftheuniverse.com/sjr/product/joe-gibbs-roots-culture-djs-and-the-birth-of-dancehall) från Stadsbiblioteket här i Malmö och föll för flera spår, bland annat denna låt från Culture:
 
 {{< soundcloud-track 287247359 >}}
