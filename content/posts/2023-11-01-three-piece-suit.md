@@ -2,7 +2,7 @@
 title: "Three Piece Suit"
 date: 2023-11-01T13:19:50+01:00
 draft: false
-tags: ["Musik", "Reggae", "Trinity", "Jamaica", "Dancehall", "Marcia Aitken", "Althea & Donna"]
+tags: ["Musik", "Reggae", "Trinity", "Jamaica", "Dancehall", "Marcia Aitken", "Althea and Donna"]
 ---
 
 På plattan [Joe Gibbs Productions](https://soundsoftheuniverse.com/sjr/product/joe-gibbs-roots-culture-djs-and-the-birth-of-dancehall) upptäckte jag flera fina spår av gruppen Trinity, varav det bästa tycker jag var följande: 
