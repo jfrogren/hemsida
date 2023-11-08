@@ -13,11 +13,11 @@ När det gäller Israel-Palestina-konflikten uppskattar jag hur han öppenhjärt
 
 En av de bärande frågorna som han går in i de olika intervjuerna och debatterna med är vad som för Israels del är ett "proportionellt" gensvar på Hamas attack den 7 oktober. 
 
-En av de första intervjuerna jag lyssnade på var med Jordan Peterson, som tydligt to Israels parti och som tydligt såg de nu sannolikt brutna Abraham-avtalen som en tydlig väg framåt till en ökad stabilitet i Mellanöstern:
+En av de första intervjuerna jag lyssnade på var med Jordan Peterson:
 
 {{< youtube kv8dmelNRk8 >}}
 
-Jag tyckte att han hade vissa poänger men kände samtidigt att han var alltför okritisk till Israels agerande gentemot palestinierna. Därefter tittade jag på den video som tycks ha fått mest spridning av alla och där han diskuterar frågan med Bassem Youssef, som på ett väldigt befriande humoristiskt sätt bemöter Piers Morgan som blir väldigt ställde och inte vet hur han ska agera:
+Jag tyckte att han hade vissa poänger men kände samtidigt att han var alltför okritisk till Israels agerande gentemot palestinierna. Därefter tittade jag på den video som tycks ha fått mest spridning av alla och där Piers Morgan diskuterar frågan med Bassem Youssef, som på ett väldigt befriande humoristiskt sätt bemöter en Piers Morgan som blir väldigt ställd och inte vet hur han ska agera:
 
 {{< youtube 4idQbwsvtUo >}}
 
