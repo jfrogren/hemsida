@@ -17,3 +17,9 @@ https://www.kiroule.com/article/use-video-embeds-in-hugo-theme/
 # Providing values for named id, title, and start parameters
 {{< youtube-enhanced id="qtIqKaDlqXo" title="Hugo Introduction" start="120" >}}
 -->
+
+
+Jag hittade också en intressant analys av ögonkontakten mellan filmens huvudpersoner och hur den kan tolkas:
+
+{{< youtube-enhanced IszWRnZ5XGo >}}
+
