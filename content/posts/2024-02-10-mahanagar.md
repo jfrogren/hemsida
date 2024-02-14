@@ -7,4 +7,4 @@ tags: ["Film", "Satyajit Ray"]
 
 Var på Cinemateket i Köpenhamn och såg Satyajit Rays film Mahanagar (Den stora staden) från 1963.
 
-{{< youtube HGA8WBTvQco >}}
+{{< yt HGA8WBTvQco >}}
