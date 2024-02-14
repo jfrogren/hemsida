@@ -30,3 +30,9 @@ defaultContentLanguage = "sv"
 [[menu.main]]
   name = "Taggar"
   url  = "/tags"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.youtube]
+    disable = true
