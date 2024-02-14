@@ -5,7 +5,7 @@ draft: false
 tags: ["Film", "Satyajit Ray"]
 ---
 
-Var på Cinemateket i Köpenhamn och såg Satyajit Rays film Mahanagar (Den stora staden) från 1963.
+Var på Cinemateket i Köpenhamn och såg Satyajit Rays film Mahanagar (Den stora staden) från 1963. Den kom alltså ut samma år som Bo Widerbergs [Barnvagnen]( {{< relref "posts/2023-10-16-barnvagnen" >}})
 
 {{< youtube-enhanced HGA8WBTvQco >}}
 
