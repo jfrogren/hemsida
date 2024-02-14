@@ -5,4 +5,4 @@ draft: false
 tags: ["Politik", "Islam", "Hamed Abdel-Samad", "Tal"]
 ---
 
-{{< youtube 8HdE--WnypE >}}
+{{< youtube-enhanced 8HdE--WnypE >}}
