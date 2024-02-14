@@ -5,4 +5,4 @@ draft: false
 tags: ["Music", "C.W. Stoneking"]
 ---
 
-{{< youtube l9JXWhM8QXw >}}
+{{< youtube-enhanced l9JXWhM8QXw >}}

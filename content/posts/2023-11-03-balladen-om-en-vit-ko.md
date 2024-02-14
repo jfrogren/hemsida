@@ -5,6 +5,6 @@ draft: false
 tags: ["Film", "Iran"]
 ---
 
-{{< youtube 2MSNXnr74io >}}
+{{< youtube-enhanced 2MSNXnr74io >}}
 
 [Balladen om en vit ko](https://www.imdb.com/title/tt11773484/)

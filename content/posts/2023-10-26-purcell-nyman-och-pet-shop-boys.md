@@ -2,7 +2,7 @@
 title: "Purcell, Nyman och Pet Shop Boys"
 date: 2023-10-26T12:30:31+02:00
 draft: false
-tags: [""]
+tags: ["Musik"]
 ---
 
 
@@ -22,4 +22,4 @@ Pet Shop Boys, den engelska syntpopduon lät sig i sin tur inspireras av Nymans 
 
 Till Pet Shop Boys låt finns också en fan-video med en dans som vad jag förstår fansen har skapat som ser ut så här:
 
-{{< youtube-enhanced id="OMkQ2PPUE6E" >}}
+{{< youtube-enhanced OMkQ2PPUE6E >}}

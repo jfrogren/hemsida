@@ -15,11 +15,11 @@ En av de bärande frågorna som han går in i de olika intervjuerna och debatter
 
 En av de första intervjuerna jag lyssnade på var med Jordan Peterson:
 
-{{< youtube kv8dmelNRk8 >}}
+{{< youtube-enhanced kv8dmelNRk8 >}}
 
 Jag tyckte att han hade vissa poänger men kände samtidigt att han var alltför okritisk till Israels agerande gentemot palestinierna. Därefter tittade jag på den video som tycks ha fått mest spridning av alla och där Piers Morgan diskuterar frågan med Bassem Youssef, som på ett väldigt befriande humoristiskt sätt bemöter en Piers Morgan som blir väldigt ställd och inte vet hur han ska agera:
 
-{{< youtube 4idQbwsvtUo >}}
+{{< youtube-enhanced 4idQbwsvtUo >}}
 
 Anledningen till att just den videon setts så många gånger är tror jag att han dels använder humor i en fråga som är väldigt laddad och allvarstyngd, och samtidigt har en väldigt lugn och resonerande framtoning. Särskilt från den palestinska sidan är de röster som hörs annars ofta närmast oresonabla på grund av att de är så känslosvallande. 
 
@@ -27,7 +27,7 @@ Anledningen till att just den videon setts så många gånger är tror jag att h
 
 Denna video med Bassam Youssef ledde också till att Piers Morgon bjöd in honom till en längre, mer ingående och mer seriöst betonad intervju:
 
-{{< youtube rqjO5Z9Lt_M>}}
+{{< youtube-enhanced rqjO5Z9Lt_M>}}
 
 
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["David Grossman", "Litteratur", "Israel"]
 ---
 
-{{< youtube apJo8FO1iEY >}}
+{{< youtube-enhanced apJo8FO1iEY >}}
 
 Såg en israelisk dokumentär på svtplay från 2021 som hette [Grossman - författare mellan krig och fred](https://www.svtplay.se/video/KBM7gJB/grossman-forfattare-mellan-krig-och-fred). Länk till dokumentären på [IMDB](https://www.imdb.com/title/tt15138678/). 
 

@@ -7,4 +7,4 @@ tags: ["Rabindranath Tagore", "Musik", "Film", "Bengali"]
 
 Sången *Akash Bhora Surjo Tara* från Ritwik Ghataks film [Komal Gandhar](https://en.wikipedia.org/wiki/Komal_Gandhar) från 1961. Debabrata Biswas är den egentliga sångaren.
 
-{{< youtube wT-yb4NeLVs >}} 
+{{< youtube-enhanced wT-yb4NeLVs >}} 

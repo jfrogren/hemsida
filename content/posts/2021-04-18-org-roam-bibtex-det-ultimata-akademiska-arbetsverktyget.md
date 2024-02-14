@@ -7,7 +7,7 @@ tags: ["Emacs", "Zettelkasten"]
 
 Nu när man genom [Doom Emacs](https://archive.fo/6YEPi) inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan [Markdown](https://en.wikipedia.org/wiki/Markdown) och [Org-mode](https://en.wikipedia.org/wiki/Org-mode). Har hittills lutat åt Markdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Markdown inte riktigt rår på:
 
-{{< youtube Wy9WvF5gWYg>}}
+{{< youtube-enhanced Wy9WvF5gWYg>}}
 
 Det som [Org Roam BibTeX](https://github.com/org-roam/org-roam-bibtex) (ORB) möjliggör är det som jag har saknat i mitt akademiska arbetsflöde nämligen att på ett smidigt sätt integrera de anteckningarna man gör när man läser akademiska texter med de mer genomarbetade så kallade *zettels* man skapar för att inkludera i sin [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Och inte bara det utan framför allt ligger problemet i hur man sedan på ett smidigt sätt vid läsning av en ny text kan relatera dessa komprimerade tankekort till den text man för tillfället läser. Här tycker jag att Zaeph i videon verkligen lyckas.
 

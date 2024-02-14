@@ -5,6 +5,6 @@ draft: false
 tags: ["Indien", "Kläder", "Mode", "Dokumentärfilm"]
 ---
 
-{{< youtube FzRsg7zIzOU >}}
+{{< youtube-enhanced FzRsg7zIzOU >}}
 
 [Madhu's saris](http://actproject.ca/act/madhus-saris/) är en dokumentär om en indisk-kanadensisk äldre kvinna och den relation hon har till sina saris.
