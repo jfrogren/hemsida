@@ -11,5 +11,3 @@ Upptäckte en fin bild av en konstnär som heter [**Harry Moberg**](https://sv.w
 
 Fler av hans verk kan man se [här](https://web.archive.org/web/20201105163718/http://www.nordensljus.se/2019/09/utstallning-november-2019/), [här](https://web.archive.org/web/20201105164007/http://www.leilaskonstbutik.se/KB%20391.htm), [här](https://web.archive.org/web/20201105165024/https://auctionet.com/sv/1309139-kustparti-jylland-olja-pa-panna-signerad-moberg/images) och [här](https://web.archive.org/web/20201105164513/https://www.bukowskis.com/sv/bukipedia/19771-harry-moberg).
 
-> 
-
