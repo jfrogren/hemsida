@@ -11,9 +11,11 @@ Anders Gaardmand, Henrik Gunde, Daniel Franck & Frands Rifbjerg spelade på La F
 
 
 {{< rawhtml >}} 
+
 <video width=100% controls autoplay>
     <source src="/videos/la-fontaine-jazz.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
+
 {{< /rawhtml >}}
 
