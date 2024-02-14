@@ -10,3 +10,12 @@ tags: ["Musik", "Jazz", "Konsert"]
 
 {{< video "/videos/la-riviere-jazz.mp4" "my-5" >}}
 
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="/videos/la-riviere-jazz.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
+
