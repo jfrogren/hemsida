@@ -17,4 +17,7 @@ Lika litet som kirurgen kan lära sig om våra passioner genom att studera hjär
 
 Även om Giono skriver prosa knyter det han skriver också an till poesin eftersom den sensuella kännedomen han talar om får mig att associera till ett sensibelt, och därmed också poetiskt sinnelag. På det sättet knyter det också an till det som den flanderska poeten Paul van Ostaijen skriver när han beskriver ['poesin och extasen som förundran inför det outsägliga']({{< relref "/posts/2022-06-09-poesin-och-extasen-som-forundran-infor-det-outsagliga.md" >}} "Poesin och extasen som förundran inför det outsägliga").
 
+
+![Provence](/images/provence.png)
+
  [^1]: Jean Giono (1993): _Provence_, Gallimard.

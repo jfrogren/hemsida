@@ -5,6 +5,8 @@ draft: false
 tags: ["Poesi", "Litteratur", "Lasse Söderberg"]
 ---
 
+![Paul van Ostaijen](/images/ostaijen.jpg)
+
 Paul van Ostaijen (1896-1928), poet från Flandern, såg enligt Lasse Söderberg likheter mellan poesin och extasen [[^1]] (s. 97):
 
 > I likhet med extasen har poesin ingenting att meddela utöver sin förundran-inför-det-outsägliga
