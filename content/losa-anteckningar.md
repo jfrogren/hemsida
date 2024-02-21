@@ -5,9 +5,6 @@ date = "2014-04-09"
 
 2024-02-14:
 
-- https://brainbaking.com/post/2024/01/how-to-search-the-internet/
-- https://search.marginalia.nu/
-- https://www.youtube.com/watch?v=WVAqWdxuPhs
 - https://www.downhomemusic.com/product/ngoma-the-soul-of-congo-treasures-of-the-ngoma-label-planet-ilunga-lp-pi10/
 - https://brainbaking.com/post/2024/01/publish-your-work/
 - https://brainbaking.com/post/2024/01/why-i-am-leaving-academia-for-now/

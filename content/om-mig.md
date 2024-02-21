@@ -7,5 +7,6 @@ Jag är 43 år, disputerade nyligen i medicinsk vetenskap vid Lunds universitet 
 
 Den här digitala platsen är tänkt som en slags ventil för mina lösa tankar och funderingar om allt det som jag tar intryck av. Främst utgör den ett sätt för mig själv att dokumentera, sortera och bygga upp ett slags personligt arkiv. Men den kan också tjäna som inspiration för andra som råkar ha vägarna förbi. 
 
+<!--
 ![](/images/självporträtt-med-solglasögon.png)
-
+-->
