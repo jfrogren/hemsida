@@ -7,7 +7,7 @@ Categories: ["Frankrike", "Litauen", "Musik", "Noir Désir", "Bernard Cantat", "
 
 En låt av Noir Désir från 2001 som jag har hört tidigare men som jag påmindes om då jag såg den erotiska filmen _Q_ där den utgör ett ledmotiv. Kollade då också musikvideon som är fantastisk och skildrar en mor och son på en strand när vinden tilltar. 
 
-{{< youtube NrgcRvBJYBE >}}
+{{< youtube-enhanced NrgcRvBJYBE >}}
 
 Det går att tolka in mycket i texten om hur vinden kommer att bära oss. Handlar det om tro och förvissa sig om att allt kommer att gå bra eller handlar det om att vi står maktlösa inför krafter som vi inte rår på? 
 
