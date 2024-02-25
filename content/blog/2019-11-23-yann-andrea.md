@@ -8,7 +8,7 @@ categories: ["Marguerite Duras", "Frankrike", "Litteratur"]
 
 Av en slump fann jag boken liggande underst i en hög på franska bokhandeln här i Lund. Är ju lite såld på Duras som så många andra och minns artikel om Yann Andréa i Purple som jag tror hade rubriken _L'Homme Atlantique_ om jag inte missminner mig. En fängslande historia om hur han som stor beundrare, närmast besatt av hennes böcker och filmer, sökte upp henne och hur de kom att tillbringa många år tillsammans i slutet av hennes liv. 
 
-Kände inte till att han skrivit en bok om relationen till henne, åtminstone kom jag inte ihåg det, men när jag såg namnet _Yann Andréa_ [[^1]] blev jag nyfiken och kände mig tvungen att slå till. Har hunnit drygt halvvägs nu och det här är tankarna så långt:
+Kände inte till att han skrivit en bok om relationen till henne, åtminstone kom jag inte ihåg det, men när jag såg namnet _Yann Andréa_[^1] blev jag nyfiken och kände mig tvungen att slå till. Har hunnit drygt halvvägs nu och det här är tankarna så långt:
 
 I början så härlig, så stor igenkänning i att läsa _De små hästarna_ och Campari, bitter Campari. Att minnas hur jag också blev frälst (även om den inte boken var den första jag läste av Duras). Hur jag i Tyrislöt läste och suktade efter Campari och tog mig till en bar i Norrköping så fort jag kunde för att jag bara var tvungen att känna smaken av det som de drack där i värmen. Något jag nog aldrig nämnt för någon. Har inte haft nån att prata Duras med. 
 

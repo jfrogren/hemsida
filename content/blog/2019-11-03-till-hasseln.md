@@ -5,7 +5,7 @@ draft: false
 categories: ["Czesław Miłosz", "Litteratur", "Poesi", "Polen"]
 ---
 
-Vackra rader om hasseln i Czesław Miłosz dikt _Till hasseln_ [[^1]] (s. 11):
+Vackra rader om hasseln i Czesław Miłosz dikt _Till hasseln_[^1] (s. 11):
 
 > Jag gläds åt dem som överlevt, ekarna och askarna  
 > men du gladde mig ännu mer,  

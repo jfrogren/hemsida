@@ -7,7 +7,7 @@ categories: ["Oliver Sacks", "Litteratur", "Primo Levi", "Essä"]
 
 När Oliver Sacks vid 10 års ålder såg ett periodiskt system i ett vetenskapsmuseum blev han övertygad om att:
 
-> "these were indeed the elemental building blocks of the universe, that the whole universe was here, in microcosm, in South Kensington." [[^1]]
+> these were indeed the elemental building blocks of the universe, that the whole universe was here, in microcosm, in South Kensington.[^1]
 
 Sådana insikter eller infall känner jag igen mig i också; önskan att fånga universum i en tabell, en modell eller en samling av tecken - representationer - denna idé väcker många tankar.
 
