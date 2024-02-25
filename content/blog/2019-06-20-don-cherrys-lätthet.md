@@ -7,7 +7,7 @@ categories: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
 
 ![Don Cherry](/images/don-cherry.png)
 
-Sonny Rollins (i en intervju med Adam Shatz): "*Don liked to drop in and do his thing; He always wanted to travel light*". Enligt Adam Shatz var Don Cherry's musik [^1] :
+Sonny Rollins (i en intervju med Adam Shatz): "*Don liked to drop in and do his thing; He always wanted to travel light*". Enligt Adam Shatz var Don Cherry's musik[^1] :
 
 > ...buoyed by what Italo Calvino called "the secret of lightness", the gift  of the artist "who raises himself above the weight of the world". 
 > Cherry's lightness inspired the musicians he met, but it has obscured the depth of his achievement, as if he were too celestial to leave a footprint in musical memory.
