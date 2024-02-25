@@ -2,7 +2,7 @@
 title: "Duras första mening"
 date: 2019-11-26T12:35:02+02:00
 draft: false
-categories: [""]
+categories: ["Litteratur", "Marguerite Duras", "Frankrike"]
 ---
 
 > Maud ouvrit la fenêtre et la rumeur de la vallée emplit la chambre.[^1]
