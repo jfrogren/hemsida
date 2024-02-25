@@ -4,7 +4,7 @@ body {
 	font-family: 'Alegreya', 'Hoefler Text', Times, Serif;
 	font-size: 1.05em;
 	line-height: 1.6em;
-	background-color: #faf8f8;
+	background-color: #fefefe;
 	src: url('/fonts/alegreya-v35-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 h1, h2, h3, h4, h5 {
@@ -18,7 +18,7 @@ h2, h3, h4, h5 {
 	font-style: italic;
 }
 h2, h3 {
-	font-family: 'AlegreyaSC';
+	font-family: 'Alegreya';
 	font-style: normal;
-	src: url('/fonts/alegreya-sc-v25-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+	src: url('/fonts/alegreya-v35-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
