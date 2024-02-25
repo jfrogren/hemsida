@@ -1,38 +1,187 @@
-baseurl = "https://www.frogren.se/"
-title = "Joakim Frögren"
-author = "Joakim Frögren"
-canonifyurls = true
-enableEmoji = true
-theme = "black-and-light"
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
-languageCode = "sv"
-defaultContentLanguage = "sv"
+MetaDataFormat = "yaml"
+baseurl = "https://frogren.se/"
+title = "frogren.se"
 
-[frontmatter]
-	date = [":filename", ":default", ":fileModTime"]
+
+CanonifyUrls = true
+rssLimit = 20
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+languageCode = "sv"
+defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field enableRobotsTXT = true
+enableEmoji = false
+theme = ["hugo-video", "even"]
+
+# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
+pygmentsOptions = "linenos=table"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+hasCJKLanguage = false     # has chinese/japanese/korean ?
+paginate = 10
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+[author]                  # essential
+  name = "Joakim Frögren"
+
+[sitemap]                 # essential
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[services.rss]
+  limit = 20
+
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Publicerat"
+  url = "/publications"
+  weight = 2.0
+
+  [[menu.main]]
+  name = "Resurser"
+  url = "/resources"
+  weight = 3.0
+
+  [[menu.main]]
+  name = "Undervisning"
+  url = "/teaching"
+  weight = 4.0
+
+  [[menu.main]]
+  name = "Aktuellt"
+  url = "/prints"
+  weight = 5.0
+
+  [[menu.main]]
+  name = "Blogg"
+  url = "/blog"
+  weight = 6.0
 
 [permalinks]
-  posts = '/:2006/:01/:title'
+blog = "/blog/archives/:year/:month/:day/:slug"
 
 [params]
-  sitename = "Joakim Frögren"
-  dateform = "2006-01-02"
+  version = "4.x"           # Used to give a friendly message when you have an incompatible update
+  debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-[[menu.main]]
-    name = "Om"
-    url  = "/om-mig"
+  since = "2018"            # Site creation time
+  # site info (optional)
+  logoTitle = "joakim frögren"        # default: the title value
+  keywords = ["", "",""]
+  description = "."
 
-[[menu.main]]
-    name = "Lösa anteckningar"
-    url  = "/losa-anteckningar"
+  # paginate of archives, tags and categories
+  # general archives
+  archivePaginate = 10
+  # blog archive. This indexes n /posts/ not n /years/ for pagination purposes
+  blogPaginate = 100
 
-[[menu.main]]
-  name = "Taggar"
-  url  = "/tags"
+  # show 'xx Posts In Total' in archive page ?
+  showArchiveCount = false
 
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # show word count and read time ?
+  moreMeta = false
+
+  # Syntax highlighting by highlight.js
+  highlightInClient = false
+
+  #  archetypes/default.md
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = false                                                                            #
+  autoCollapseToc = false   # Auto expand and collapse toc                              #
+  fancybox = true           # see https://github.com/fancyapps/fancybox                 #
+
+  # mathjax
+  mathjax = false           # see https://www.mathjax.org/                              #
+  mathjaxEnableSingleDollar = false                                                     #
+  mathjaxEnableAutoNumber = false                                                       #
+  mathjaxUseLocalFiles = false  # You should install mathjax in `your-site/static/lib/mathjax`
+
+  postMetaInFooter = false   # contain author, lastMod, markdown link, license           #
+  linkToMarkDown = false    # Only effective when hugo will output .md files.           #
+  contentCopyright = ''     # e.g. '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  baiduPush = false        # baidu push                  # 百度
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = ['dark.css','bigfoot-default.css','codeblock.css','mine.css','codeblock.css']
+  customJS = ['bigfoot.min.js','codeblock.js']
+
+  uglyURLs = false          # please keep same with uglyurls setting
+
+  [params.publicCDN]        # load these files from public cdn                          #
+    enable = true
+    jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>'
+    slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
+    fancyboxJS = '<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>'
+    fancyboxCSS = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />'
+    timeagoJS = '<script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>'
+    timeagoLocalesJS = '<script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>'
+    flowchartDiagramsJS = '<script src="https://cdn.jsdelivr.net/npm/raphael@2.2.7/raphael.min.js" integrity="sha256-67By+NpOtm9ka1R6xpUefeGOY8kWWHHRAKlvaTJ7ONI=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/flowchart.js@1.8.0/release/flowchart.min.js" integrity="sha256-zNGWjubXoY6rb5MnmpBNefO0RgoVYfle9p0tvOQM+6k=" crossorigin="anonymous"></script>'
+    sequenceDiagramsCSS = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bramp/js-sequence-diagrams@2.0.1/dist/sequence-diagram-min.css" integrity="sha384-6QbLKJMz5dS3adWSeINZe74uSydBGFbnzaAYmp+tKyq60S7H2p6V7g1TysM5lAaF" crossorigin="anonymous">'
+    sequenceDiagramsJS = '<script src="https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.js" integrity="sha256-4O4pS1SH31ZqrSO2A/2QJTVjTPqVe+jnYgOWUVr7EEc=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/snapsvg@0.5.1/dist/snap.svg-min.js" integrity="sha256-oI+elz+sIm+jpn8F/qEspKoKveTc5uKeFHNNVexe6d8=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/underscore@1.8.3/underscore-min.js" integrity="sha256-obZACiHd7gkOk9iIL/pimWMTJ4W/pBsKu+oZnSeBIek=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/gh/bramp/js-sequence-diagrams@2.0.1/dist/sequence-diagram-min.js" integrity="sha384-8748Vn52gHJYJI0XEuPB2QlPVNUkJlJn9tHqKec6J3q2r9l8fvRxrgn/E5ZHV0sP" crossorigin="anonymous"></script>'
+
+
+# See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
   [privacy.googleAnalytics]
-    disable = true
+    anonymizeIP = true      # 12.214.31.144 -> 12.214.31.0
   [privacy.youtube]
-    disable = true
+    privacyEnhanced = true
+
+# Uncomment these options to make hugo output .md files.
+#[mediaTypes]
+#  [mediaTypes."text/plain"]
+#    suffixes = ["md"]
+#
+#[outputFormats.MarkDown]
+#  mediaType = "text/plain"
+#  isPlainText = true
+#  isHTML = false
+#
+
+
+[outputFormats]
+    [outputFormats.RSS]
+        baseName = "index"
+
+[outputs]
+ home = ["HTML", "RSS"]
+ page = ["HTML"]
+ section = ["HTML", "RSS"]
+ term = ["HTML", "RSS"]
+
+
+# builddrafts = false
+# buildFuture = true
+
+# pygmentsOptions = "linenos=table"
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# pygmentsCodefencesGuessSyntax = true
+
+
+# baseurl = "https://kieranhealy.org/"
+# title = "kieranhealy.org"
+# CanonifyUrls = true
+# rssLimit = 20.0
+
+# disableKinds = "taxonomyTerm"
+# preserveTaxonomyNames = true
+
+# disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]

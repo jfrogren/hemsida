@@ -1,0 +1,27 @@
+{{- define "title" }}{{ T "archive" }} - {{ .Site.Title }}{{ end -}}
+
+{{- define "content" }}
+
+{{ $baseurl := .Site.BaseURL }}
+
+<div class="posts">
+      <h1 class="post-title">{{ .Title }}</h1>
+
+<p>Some of the graduate and undergraduate courses I regularly teach.</p>
+    
+{{ range .Pages.ByDate.Reverse }}
+    <h3>{{ .Params.title | safeHTML }} &nbsp;
+     {{ if isset .Params "syllabus" }}<span class = "smaller"> &rarr; <a class="scp" href="{{ .Params.syllabus }}">syllabus</a></span> {{ end }}
+     {{ if isset .Params "website" }}<span class = "smaller"> &rarr; <a  class="scp" href="{{ .Params.website }}">website</a></span> {{ end }}</h3>
+     <p>{{ .Content }}</p>
+{{- end}}
+
+<br />    
+</div>
+
+    
+{{ end }}
+
+
+
+ 

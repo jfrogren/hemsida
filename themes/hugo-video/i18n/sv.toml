@@ -1,0 +1,24 @@
+[long_month_1 ]
+other = "januari"
+[long_month_2 ]
+other = "februari"
+[long_month_3 ]
+other = "mars"
+[long_month_4 ]
+other = "april"
+[long_month_5 ]
+other = "maj"
+[long_month_6 ]
+other = "juni"
+[long_month_7 ]
+other = "juli"
+[long_month_8 ]
+other = "augusti"
+[long_month_9 ]
+other = "september"
+[long_month_10]
+other = "oktober"
+[long_month_11]
+other = "november"
+[long_month_12]
+other = "december"

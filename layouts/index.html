@@ -1,19 +1,30 @@
-{{ partial "header.html" . }}
+{{- define "content" -}}
 
-<section id=content>
-  <ul class=posts_listing>
-    {{ range .Site.RegularPages }}
-      <li>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <div class=date>
-          {{if not .Date.IsZero }}
-            {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
-          {{end}}
-        </div>
-      </li>
-    {{ end }}
-  </ul>
+<p> Välkommen till min hemsida! Den här platsen är tänkt som en slags ventil för mina lösa tankar och funderingar kring det som jag tar intryck av. Främst utgör den ett sätt för mig själv att dokumentera, sortera och bygga upp ett slags personligt arkiv. Men den kan också tjäna som inspiration för andra som råkar ha vägarna förbi. Mycket nöje!  &rarr; <a href = "about/">Mer om mig.</a>
+
+
+  
+</ul>  
 </section>
-
-{{ partial "footer.html" . }}
-
+<section>
+<hr>  
+</section>
+<section id="posts" class="posts">
+<br />  
+<h1>Senaste blogginläggen</h1>
+  {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p> <em>{{ .Date.Day }} {{ i18n (printf "long_month_%d" .PublishDate.Month) }}</em>
+<!-- 
+  {{ if .Truncated }}
+  {{ .Summary }}
+ -->
+ {{ .Summary }}
+  &nbsp; <em><a href="{{ .RelPermalink }}">Fortsatt läs…</a></em></p>
+<!-- 
+  {{ else }}
+  {{ .Content }}
+  {{ end }}	
+ -->
+{{ end }}	
+</section>
+{{- end -}}

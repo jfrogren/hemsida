@@ -1,0 +1,19 @@
+// ==============================
+// Custom style
+// ==============================
+// You can override the variables in _variables.scss to customize the style
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.full-width {
+  width: 100%;
+}
+
+
+// Border color of the table.
+$content-table-border-color: none !default;
