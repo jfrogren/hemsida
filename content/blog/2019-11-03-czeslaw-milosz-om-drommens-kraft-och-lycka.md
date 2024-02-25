@@ -8,17 +8,17 @@ categories: ["Czesław Miłosz", "Litteratur", "Poesi", "Anders Bodegård", "Pol
 Czesław Miłosz skriver i dikten _Snabba steg_ om hur han som 88-åring förvandlas till en 8-åring i drömmen [[^1]] (s. 26):
 
 > **Snabba steg**
- 
+</br></br> 
 > Mina steg rör sig muntert i höstens mörka parker,  
 > med nedfallna barr och lövprassel längs gångarna,  
 > och gläntorna under ekarna blir öde.  
 > Då slocknar tevens blygrå öglor.  
- 
+</br> 
 > En sådan lätthet i stegen har jag aldrig haft,  
 > om inte för längesen, en åttaårings morgon.  
 > Lyft ovan marken, drucken av ljuset,  
 > hejdar jag inte mina steg i luften.  
- 
+ </br>
 > Illvilligt möter mig min nakna vakenhet.  
 > På dagen linkar jag med käppen, astmatisk.  
 > Men natten tar mig med på långväga resor  
