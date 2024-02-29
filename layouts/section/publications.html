@@ -10,27 +10,33 @@
     <header class="post-header">
       <h1 class="post-title">{{ .Title }}</h1>
     </header>
+
+        	<br />
+
+<p><em>Här kommer jag så småningom att placera längre texter och saker som jag publicerat.Eventuellt också annat kreativt material såsom fotografier och teckningar.</em></p>
+
+<!--
 	<br />
-    &rarr; <a href = "https://kieranhealy.org/vita.pdf"><em>Full Curriculum Vitae in</em> <span class="scp">pdf</span> <em>format</em></a>
+    &rarr; <a href = "https://frogren.se"><em>Mitt Curicumum Vitae i</em> <span class="scp">PDF</span><em>-format</em></a>
     <br />
-    &rarr; <a href = "https://scholar.google.com/citations?user=YWEuPuIAAAAJ&hl=en"><em>Google Scholar Profile</em></a>
+    &rarr; <a href = "https://frogren.se"><em>Google Scholar-profil</em></a>
 
 <div class="posts">
 
 <h3>Books</h3>
+
 <ul class = "publication">
 {{ range (where .Data.Pages "Params.kind" "book").GroupByPublishDate "2006" "desc" }}
-
 <!-- <h3>{{ .Key }}</h3> -->
 
-{{ range .Pages.ByPublishDate.Reverse }}
+<!--{{ range .Pages.ByPublishDate.Reverse }}
 <li>{{ .Params.citation | safeHTML }}
   <a class="scp" href="{{ .Permalink }}"> &middot; overview</a>
   {{ if isset .Params "file" }}
   <a class="scp" href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> &middot; pdf</a>
   {{ end }}
 
-  <!-- >{{ if isset .Params "buy" }} &middot; {{ .Params.buy | safeHTML }} {{ end }} -->
+   >{{ if isset .Params "buy" }} &middot; {{ .Params.buy | safeHTML }} {{ end }} 
 
 </li>
 {{ end }}
@@ -45,8 +51,8 @@
 
 <!-- <h3>{{ .Key }}</h3> -->
 
-{{ range .Pages.ByDate.Reverse }}
-<li>{{ .Params.citation | safeHTML }} 
+<!--{{ range .Pages.ByDate.Reverse }}
+<li><!--{{ .Params.citation | safeHTML }}
   <a class="scp" href="{{ .Permalink }}"> &middot; abstract</a> 
   {{ if isset .Params "file" }}
   <a class="scp" href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> &middot; pdf</a>
@@ -63,8 +69,9 @@
 
 <!-- <h3>{{ .Key }}</h3> -->
 
+<!--
 {{ range .Pages.ByDate.Reverse }}
-<li>{{ .Params.citation | safeHTML }} 
+<li><!--{{ .Params.citation | safeHTML }}
   <a class="scp" href="{{ .Permalink }}"> &middot; abstract</a> 
   {{ if isset .Params "file" }}
   <a class="scp" href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> &middot; pdf</a>
@@ -81,9 +88,9 @@
 {{ range (where (where .Data.Pages "Type" "published") ".Params.kind" "!=" "book").GroupByPublishDate "2006" "desc" }}
 
 <!-- <h3>{{ .Key }}</h3> -->
-{{ range .Pages.ByPublishDate.Reverse }}
+<!--{{ range .Pages.ByPublishDate.Reverse }}
 {{ if ne .Params.kind "book" }}
-<li>{{ .Params.citation | safeHTML }} 
+<li>{{ .Params.citation | safeHTML }}
   <a class="scp" href="{{ .Permalink }}"> &middot; abstract</a> 
   {{ if isset .Params "file" }}
   <a class="scp" href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> &middot; pdf</a>
@@ -99,9 +106,9 @@
 {{ range (where (where .Data.Pages "Type" "other") ".Params.kind" "!=" "book").GroupByPublishDate "2006" "desc" }}
 
 <!-- <h3>{{ .Key }}</h3> -->
-{{ range .Pages.ByPublishDate.Reverse }}
+<!--{{ range .Pages.ByPublishDate.Reverse }}
 {{ if ne .Params.kind "book" }}
-<li>{{ .Params.citation | safeHTML }} 
+<li>{{ .Params.citation | safeHTML }}
   <a class="scp" href="{{ .Permalink }}"> &middot; abstract</a> 
   {{ if isset .Params "file" }}
   <a class="scp" href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> &middot; pdf</a>
@@ -111,7 +118,7 @@
 {{ end }}
 {{ end }}
 </ul class = "publication">
-  </div>
+  </div> -->
   </div>
 {{- end }}
 
