@@ -29,7 +29,7 @@ Ett annat centralt begrepp i Mark Fishers diskurs är "Capitalism realism". Begr
 
 Såsom Mark Fisher ser det är människor meningssökande djur, och i det ligger att ha något att drömma om, något att arbeta mot, något att hoppas på. Vid postkommunismens intåg och i kapitalismrealismens tidevarv dog dessa stora drömmar och vi människor stod då kvar konfronterade med en hård verklighet beskriven och mätt endast i affärsmässiga termer.
 
-i> 'Capitalist realism,’ [Mark Fisher] says, ‘treats mental health as if it were a natural fact, like weather’: too much of this neurotransmitter makes you schizophrenic, too little of that one and you’ll get depressed. But, actually, the ‘mental health plague’ in capitalist societies suggests that ‘instead of being the only social system that works, capitalism is inherently dysfunctional, and the cost of it appearing to work is very high.’[^1] 
+> 'Capitalist realism,’ [Mark Fisher] says, ‘treats mental health as if it were a natural fact, like weather’: too much of this neurotransmitter makes you schizophrenic, too little of that one and you’ll get depressed. But, actually, the ‘mental health plague’ in capitalist societies suggests that ‘instead of being the only social system that works, capitalism is inherently dysfunctional, and the cost of it appearing to work is very high.’[^1] 
 
 [^1]: Turner, Jenny. "Not No Longer but Not Yet." Review of _k-punk: The Collected and Unpublished Writings of Mark Fisher_, edited by Darren Ambrose. London Review of Books 41 no. 9 (2019): 3-8, <https://www.lrb.co.uk/v41/n09/jenny-turner/not-no-longer-but-not-yet>.
 
