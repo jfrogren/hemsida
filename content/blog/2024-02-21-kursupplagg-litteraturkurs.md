@@ -81,5 +81,5 @@ categories: ["Litteratur", "Medicin"]
 - [Gawande: Doctors who don't know how to talk about death](/pdfs/LIVA19/2024-04-24-gawande-on-ivan-ilych.pdf)
 - [Brombert: The ambiguity of Ivan Ilych](/pdfs/LIVA19/2024-04-24-brombert-the-ambiguity.pdf) (i mån av tid)
 
-### Slutuppgiften - deadline 8 Maja
+### Slutuppgiften - deadline 8 maj
 - [Slutuppgift](/pdfs/LIVA19/slutuppgift.pdf)
