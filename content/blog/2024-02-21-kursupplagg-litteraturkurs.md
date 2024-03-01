@@ -8,7 +8,7 @@ categories: ["Litteratur", "Medicin"]
 ### Information 
 
 - [Schema med läsanvisningar](/pdfs/LIVA19/schema-med-läsanvisningar.pdf)
-- [Kursplan](/pdfs/LIVA19/kursplan)
+- [Kursplan](/pdfs/LIVA19/kursplan.pdf)
 - [Kursens externa sida](https://www.sol.lu.se/kurs/LIVA19/)
 - [Instruktioner med kompensationsuppgift för missat tillfälle](/pdfs/LIVA19/kompensationsuppgift-för-missat-tillfälle.pdf)
 
@@ -40,7 +40,7 @@ categories: ["Litteratur", "Medicin"]
 <!-- Zoom-länk: https://lu-se.zoom.us/j/62210095302 -->
 - Läs [Susan Sontag: Sjukdom som metafor](/pdfs/LIVA19/2024-03-13-sontag-illness-as-metaphor.pdf)
 - [Boyer: The Undying](/pdfs/LIVA19/2024-03-13-boyer-the-undying.pdf)
-- [Stoddard Holmes: After Sontag](/pdfs/LIVA19/2024-03-13-stoddard-holmes-after-sontag)
+- [Stoddard Holmes: After Sontag](/pdfs/LIVA19/2024-03-13-stoddard-holmes-after-sontag.pdf)
 - [Rieff: Swimming in a sea of death](/pdfs/LIVA19/2024-03-13-rieff-swimming-in-the-sea-of-death.pdf)
 - [Jurecic: Illness as narrative](/pdfs/LIVA19/2024-03-13-jurecic-illness-as-narrative.pdf)
 
