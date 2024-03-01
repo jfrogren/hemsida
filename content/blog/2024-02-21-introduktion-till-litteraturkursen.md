@@ -1,5 +1,5 @@
 ---
-title: "Indroduktion till litteraturkursen"
+title: "Introduktion till litteraturkursen"
 date: 2024-02-21T07:07:35+01:00
 draft: false
 categories: ["Litteratur", "Medicin"]
