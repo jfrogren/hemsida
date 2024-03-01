@@ -10,7 +10,7 @@ I dag började litteraturkursen. Lärarna tipsade om en del böcker, såsom [Vad
 
 ### Att tolka litteratur
 
-Det pratades också om *litteraritet*, som är ett begrepp som belyser vad som gör litteratur till skönlitteratur. En av kursledarna menade att det inte går att säga att en text bara har *en* mening. Snarare än att beskriva litteratur som riktig eller oriktig är det lämpligare att analysera litteratur utifrån hur välgrundad den är. Här nämndes en text av Andera Palm som vi hade i uppgift att läsa till i dag, [Att tolka texten](), som talar om *texttolkningens primärfaktorer*. Palm menar att det är en omöjlig uppgft att göra en fullödig analys av litterär text utan att vi får nöja oss med några tårtbitar (kontexter) eftersom man inte kan få med alla utan att man oundvikligen får göra vissa val.
+Det pratades också om *litteraritet*, som är ett begrepp som belyser vad som gör litteratur till skönlitteratur. En av kursledarna menade att det inte går att säga att en text bara har *en* mening. Snarare än att beskriva litteratur som riktig eller oriktig är det lämpligare att analysera litteratur utifrån hur välgrundad den är. Här nämndes en text av Anders Palm som vi hade i uppgift att läsa till i dag, [Att tolka texten](), som talar om *texttolkningens primärfaktorer*. Palm menar att det är en omöjlig uppgft att göra en fullödig analys av litterär text utan att vi får nöja oss med några tårtbitar (kontexter) eftersom man inte kan få med alla utan att man oundvikligen får göra vissa val.
 
 ### Strategier för tolkning
 
