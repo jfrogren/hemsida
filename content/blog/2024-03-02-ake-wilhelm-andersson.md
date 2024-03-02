@@ -5,5 +5,5 @@ draft: false
 categories: ["Konst"]
 ---
 
-![Åke Wilhelm Andersson - Landskap](images/åwa.jpg "Åke Wilhelm Andersson - Landskap")
+![Åke Wilhelm Andersson](/images/awa.jpg)
 
