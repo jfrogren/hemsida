@@ -11,5 +11,4 @@ categories: ["Konst"]
 
 ![Åke Wilhelm Andersson](/images/awa3.jpg)
 
-![Åke Wilhelm Andersson](/images/awa4.jpg)
-
+![Åke Wilhelm Andersson](/images/awa4.jpg) 
