@@ -7,3 +7,7 @@ categories: ["Konst"]
 
 ![Åke Wilhelm Andersson](/images/awa.jpg)
 
+![Åke Wilhelm Andersson](/images/awa2.jpg)
+
+![Åke Wilhelm Andersson](/images/awa3.jpg)
+
