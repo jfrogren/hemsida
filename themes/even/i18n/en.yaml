@@ -26,22 +26,22 @@ pagePV:
 
 # ===== post =====
 prevPage:
-  other: "Prev"
+  other: "Förra"
 
 nextPage:
-  other: "Next"
+  other: "Nästa"
 
 prevPost:
-  other: "Prev"
+  other: "Förra"
 
 nextPost:
-  other: "Next"
+  other: "Nästa"
 
 toc:
-  other: "Contents"
+  other: "Innehåll"
 
 readMore:
-  other: "Read more..."
+  other: "Läs vidare..."
 
 reward:
   other: "Reward"
