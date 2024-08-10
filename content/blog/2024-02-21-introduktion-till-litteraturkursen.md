@@ -1,7 +1,7 @@
 ---
 title: "Introduktion till litteraturkursen"
 date: 2024-02-21T07:07:35+01:00
-draft: false
+draft: true
 categories: ["Litteratur", "Medicin"]
 ---
 ### Några litteraturtips och grundläggande begrepp
