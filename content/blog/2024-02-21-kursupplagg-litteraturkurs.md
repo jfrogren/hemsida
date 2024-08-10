@@ -1,7 +1,7 @@
 ---
 title: "Kursupplägg litteraturkurs"
 date: 2024-02-21T12:06:03+01:00
-draft: false
+draft: true
 categories: ["Litteratur", "Medicin"]
 ---
 
