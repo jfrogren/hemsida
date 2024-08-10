@@ -1,6 +1,6 @@
 ---
 title: "Slutuppgift i litteraturkurs"
-date: 2024-08-10T04:21:49+02:00
+date: 2024-05-10T04:21:49+02:00
 draft: false
 categories: ["Litteratur"]
 ---
