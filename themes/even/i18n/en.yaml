@@ -26,13 +26,13 @@ pagePV:
 
 # ===== post =====
 prevPage:
-  other: "Förra"
+  other: "Föregående"
 
 nextPage:
   other: "Nästa"
 
 prevPost:
-  other: "Förra"
+  other: "Föregående"
 
 nextPost:
   other: "Nästa"
