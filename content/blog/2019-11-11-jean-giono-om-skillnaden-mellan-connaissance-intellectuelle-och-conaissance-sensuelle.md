@@ -5,7 +5,7 @@ draft: false
 categories: ["Litteratur", "Jean Giono", "Frankrike", "Provence"]
 ---
 
-Jean Giono menar att det finns olika sorters kännedom om världen; en av intellektuell karaktär och en av sensuell karaktär. Så här skildrar han hur de skiljer sig åt  [[^1]] (s. 76-77):
+Jean Giono menar att det finns olika sorters kännedom om världen; en av intellektuell karaktär och en av sensuell karaktär. Så här skildrar han hur de skiljer sig åt[^1] (s. 76-77):
 
 > Ce que je veux écrire sur la Provence pourrait également s'intituler : "Petit traité de la connaissance des choses." On ne peut pas connaître un pays par la simple science géographique. On ne peut, je crois, rien connaître par la science; c'est un instrument trop exact et trop dur. 
 
