@@ -200,13 +200,14 @@ $content-table-border-color: darken($deputy-color, 10%) !default;
 
 // ========== Code ========== //
 // Color of the code.
-$code-color: #c7254e !default;
+//$code-color: #c7254e !default;
+$code-color: #ababab !default;
 
 // Font size of code.
 $code-font-size: 0.8em !default;
 
 // Font family of the code.
-$code-font-family: "Berkeley Mono", input-mono-narrow, PragmataPro, Monaco, Menlo, "DejaVu Sans Mono",
+$code-font-family: 'ubuntu', "Berkeley Mono", input-mono-narrow, PragmataPro, Monaco, Menlo, "DejaVu Sans Mono",
  "Bitstream Vera Sans Mono", "Lucida Console" "Courier New", monospace !default;
 
 // Color of code highlight, solarized.

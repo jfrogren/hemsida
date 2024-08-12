@@ -14,6 +14,117 @@
   width: 100%;
 }
 
+// ========== Header ========== //
+// Padding of the site header.
+$header-padding: 20px 20px !default;
+
+// Font family:
+@font-face {
+  font-family: 'alegreya', serif;
+//  font-style: bold;
+}
+
+// Font size of the logo.
+$logo-font-size: 23px !default;
+
+// Font family of the logo.
+$logo-font-family: Adobe Garamond Pro !default;
+
+// Font weight of the logo.
+$logo-font-weight: 550 !default;
+
+// Margin of menu item.
+$menu-item-margin-left: 10px !default;
+
+// Margin of menu item in mobile.
+$menu-item-mobile-margin: 5px !default;
+
+// Font size of menu item link.
+$menu-link-font-size: 18px !default;
+
+// Height of the mobile header.
+$mobile-navbar-height: 50px !default;
+
+// ========== Code ========== //
+// Color of the code.
+$code-color: #c7254e !default;
+
+// Font size of code.
+$code-font-size: 1.0em !default;
+
+// Font family of the code.
+$code-font-family: Ubuntu Mono !default;
+
+// Color of code highlight, solarized.
+// $code-highlight-color: (
+//   comment: #93a1a1,
+//   keyword: #859900,
+//   number: #2aa198,
+//   title: #268bd2,
+//   attribute: #b58900,
+//   symbol: #cb4b16,
+//   built_in: #dc322f,
+//   formula: #eee8d5
+// ) !default;
+
+// Code type list.
+$code-type-list: (
+  // Custom code type
+  language-bash: "Bash",
+  language-c: "C",
+  language-cs: "C#",
+  language-cpp: "C++",
+  language-css: "CSS",
+  language-coffeescript: "CoffeeScript",
+  language-html: "HTML",
+  language-xml: "XML",
+  language-http: "HTTP",
+  language-json: "JSON",
+  language-java: "Java",
+  language-js: "JavaScript",
+  language-javascript: "JavaScript",
+  language-makefile: "Makefile",
+  language-markdown: "Markdown",
+  language-objectivec: "Objective-C",
+  language-php: "PHP",
+  language-perl: "Perl",
+  language-python: "Python",
+  language-r: "R",
+  language-ruby: "Ruby",
+  language-sql: "SQL",
+  language-shell: "Shell",
+  language-erlang: "Erlang",
+  language-go: "Go",
+  language-go-html-template: "Go HTML Template",
+  language-groovy: "Groovy",
+  language-haskell: "Haskell",
+  language-kotlin: "Kotlin",
+  language-clojure: "Clojure",
+  language-less: "Less",
+  language-lisp: "Lisp",
+  language-lua: "Lua",
+  language-matlab: "Matlab",
+  language-rust: "Rust",
+  language-scss: "Scss",
+  language-scala: "Scala",
+  language-swift: "Swift",
+  language-typescript: "TypeScript",
+  language-yml: "YAML",
+  language-yaml: "YAML",
+  language-toml: "TOML",
+  language-diff: "Diff"
+) !default;
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Border color of the table.
