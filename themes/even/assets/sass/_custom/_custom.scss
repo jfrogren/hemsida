@@ -19,15 +19,13 @@
 $header-padding: 20px 20px !default;
 
 
-
-
 //  font-style: bold;
 
 // Font size of the logo.
 $logo-font-size: 23px !default;
 
 // Font family of the logo.
-$logo-font-family: 'adobe' !default;
+$logo-font-family: 'garamond' !default;
 
 // Font weight of the logo.
 $logo-font-weight: 550 !default;
@@ -119,17 +117,6 @@ $code-type-list: (
 ) !default;
 
 
-
-
-
-
-
-
-
-
-
-
-
 // Border color of the table.
 $content-table-border-color: none !default;
 
@@ -206,12 +193,38 @@ $content-table-border-color: none !default;
   src: url('../fonts/alegreya-sc-v25-latin-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-// Font family:
+/* adobe garamond pro - regular */
 @font-face {
-  font-display: swap;
-  font-family: 'adobe';
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Garamond';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/adobe.otf')
-    format('otf');
+  src: url('../fonts/AGaramondPro-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* adobe garamond pro - italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/AGaramondPro-Italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* adobe garamond pro - semibold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Garamond';
+  font-style: bold;
+  font-weight: 500;
+  src: url('../fonts/AGaramondPro-Semibold.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* adobe garamond pro - semibold-italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Garamond';
+  font-style: bolditalic;
+  font-weight: 500;
+  src: url('AGaramondPro-SemiboldItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }

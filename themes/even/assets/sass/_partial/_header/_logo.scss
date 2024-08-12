@@ -7,13 +7,10 @@
   margin-top: 22px;
 
   .logo {
-    font-display: swap;
-    font-family: 'adobe garamond pro';
-    font-style: normal;
-    font-weight: 500;
-    src: url('../fonts/adobe.otf')
-    format('otf');
-}
+    font-size: $logo-font-size;
+    font-family: $logo-font-family;
+    font-face: bold;
+  }
 }
 
 @include max-screen() {
