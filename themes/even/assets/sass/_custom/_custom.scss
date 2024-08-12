@@ -14,6 +14,13 @@
   width: 100%;
 }
 
+
+
+$global-serif-font-family: 'alegreya' !default;
+$global-sans-serif-font-family: 'alegreya-sans' !default;
+
+
+
 // ========== Header ========== //
 // Padding of the site header.
 $header-padding: 20px 20px !default;
@@ -22,10 +29,10 @@ $header-padding: 20px 20px !default;
 //  font-style: bold;
 
 // Font size of the logo.
-$logo-font-size: 23px !default;
+$logo-font-size: 22px !default;
 
 // Font family of the logo.
-$logo-font-family: 'garamond' !default;
+$logo-font-family: $global-sans-serif-font-family !default;
 
 // Font weight of the logo.
 $logo-font-weight: 550 !default;
@@ -35,6 +42,9 @@ $menu-item-margin-left: 10px !default;
 
 // Margin of menu item in mobile.
 $menu-item-mobile-margin: 5px !default;
+
+//Font family of meny item link
+$menu-link-font-family: 'alegreya-sans', regular !default;
 
 // Font size of menu item link.
 $menu-link-font-size: 18px !default;
@@ -193,9 +203,41 @@ $content-table-border-color: none !default;
   src: url('../fonts/alegreya-sc-v25-latin-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* alegreya-sans - regular */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alegreya-Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/AlegreyaSans-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
+/* alegreya-sans - italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alegreya-Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/AlegreyaSans-LightItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
+/* alegreya-sans - bold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alegreya-Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/AlegreyaSans-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
+/* alegreya-sans - bolditalic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alegreya-Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: url('../fonts/AlegreyaSans-Italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 
 /* adobe garamond pro - regular */
