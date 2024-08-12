@@ -13,10 +13,10 @@ Det som [Org Roam BibTeX](https://github.com/org-roam/org-roam-bibtex) (ORB) mö
 
 Till Org-modes nackdel är dock skulle jag säga den i jämförelse med Markdown och Rmarkdown något klumpigare och estetiskt mindre tilltalande syntaxen, och även - anar jag - exporteringsmöjligheterna, men här vet jag emellertid lite för lite för att kunna uttala mig.
 
-På den [här](https://archive.fo/PWvJm) sidan hittade jag också ett sätt att konvertera `.md` eller `.Rmd` till `.org`, nämligen genom att köra följande kommando i terminalen:
-
-```find . -name \*.md -type f -exec pandoc  -f markdown -t org -o {}.org {} \;```
-
+På den [här](https://archive.fo/PWvJm) sidan hittade jag också ett sätt att konvertera `.md` eller `.Rmd` till `.org` nämligen genom att köra följande kommando i terminalen: 
+```
+find . -name \*.md -type f -exec pandoc  -f markdown -t org -o {}.org {} \;
+``` 
 På detta sätt erhåller filerna en org-syntax som motsvarar markdown-syntaxen. Dock får de konverterade filerna ändelsen `.md.org` eller`.Rmd.org` istället för bara `.org`. Hur man kan ändra detta annat än manuellt har jag ännu inte kommit underfund med.
 
 Sympatiskt nog finns det ett [diskussionsforum för Org Roam](https://archive.fo/DyfgT), där det finns många kunniga personer som kan bistå med hjälp när det gäller att sätta upp sitt eget system i Emacs. Från signaturen *cobblepot* hittade jag [detta inlägg](https://archive.fo/RHldi) som mycket väl beskriver den frustration man kan känna som ny Emacs-användare. Motsatt till vad som formuleras i tråden tycker jag ändå att Doom Emacs har varit en nödvändig tröskel för mig, men jag inser också att det är en genväg som stundtals straffar sig eftersom man har skaffat sig ett system som man bara begriper till en liten del. Att helt börja om från början med Vanilla Emacs ser jag dock inte som ett alternativ i dagsläget. 
