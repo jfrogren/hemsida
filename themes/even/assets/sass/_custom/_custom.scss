@@ -193,6 +193,11 @@ $content-table-border-color: none !default;
   src: url('../fonts/alegreya-sc-v25-latin-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+
+
+
+
+
 /* adobe garamond pro - regular */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -230,6 +235,10 @@ $content-table-border-color: none !default;
 }
 
 
+
+
+
+
 /* tufte - regular */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -255,4 +264,24 @@ $content-table-border-color: none !default;
   font-style: bold;
   font-weight: 500;
   src: url('../fonts/etbookot-bold-webfont.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
+/* spectral - regular */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Spectral-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral - semibold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: bold;
+  font-weight: 500;
+  src: url('../fonts/Spectral-SemiBold.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
