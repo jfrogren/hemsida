@@ -26,7 +26,7 @@
     .logo {
       font-size: 21px;
       line-height: $mobile-navbar-height;
-      font-family: 'spectral';
+      font-family: $global-sans-serif-font-family;
       font-weight: 410;
     }
   }
@@ -62,7 +62,7 @@
 
     a {
       font-size: 18px;
-      font-family: $global-sans-serif-font-family;
+      font-family: $global-serif-font-family;
 
       &:hover {
         color: $theme-color;
