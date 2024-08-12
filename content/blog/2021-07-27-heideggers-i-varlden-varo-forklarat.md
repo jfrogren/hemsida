@@ -2,7 +2,7 @@
 title: "Heideggers 'i-världen-varo' förklarat"
 date: 2021-07-27T15:06:38+02:00
 draft: false
-tags: ["Martin Heidegger", "Filosofi", "Litteratur", "Psykologi"]
+categories: ["Martin Heidegger", "Filosofi", "Litteratur", "Psykologi"]
 ---
 
 Bästa redogörelsen för Heideggers begrepp *i-världen-varo* (In-der-Welt-sein) som jag har läst [[^1]]: 

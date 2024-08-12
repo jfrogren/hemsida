@@ -9,7 +9,7 @@
   .prev,
   .next {
     font-weight: 550;
-    font-size: $pagination-font-size + 2px;
+    font-size: $pagination-font-size;
     font-family: $global-sans-serif-font-family;
     transition-property: transform;
     transition-timing-function: ease-out;

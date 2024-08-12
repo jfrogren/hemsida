@@ -10,7 +10,7 @@ Fredrik förevisade häromdagen ett ypperligt exempel på hur gamla musikstycken
 
 Den ursprungliga melodin är ett preludium till Henry Purcells opera King Arthur från 1691, närmare bestämt preludiet till akt III, scen 2. Det låter så här:
 
-{{< soundcloud-track 1283048440 >}}
+{{< youtube-enhanced 5PXbb9kMNYw >}}
 
 Det stycket plockade Michael Nyman upp 1982 när han komponerade soundtracket till Peter Greenaways film *The Draughtsman's Contract* i låten *Chasing Sheep is Best Left to Shepards* som låter så här:
 
