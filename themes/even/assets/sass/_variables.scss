@@ -74,7 +74,7 @@ $global-lineheight: 1.5 !default;
 $global-serif-font-family: 'alegreya', serif !default;
 
 // Serif font family of the site.
-$global-font-family: 'alegreya', serif !default;
+$global-font-family: 'alegreya-sans', serif !default;
 
 // Background color of the site.
 $global-background: $light-gray !default;
@@ -97,7 +97,7 @@ $header-padding: 20px 20px !default;
 
 // Font family: 
 @font-face {
-  font-family: 'alegreya', serif;
+  font-family: 'alegreya-sans', serif;
 //  font-style: bold;
 }
 
@@ -105,7 +105,7 @@ $header-padding: 20px 20px !default;
 $logo-font-size: 26px !default;
 
 // Font family of the logo.
-$logo-font-family: 'alegreya' !default;
+$logo-font-family: 'alegreya-sans' !default;
 
 // Font weight of the logo.
 $logo-font-weight: 550 !default;
