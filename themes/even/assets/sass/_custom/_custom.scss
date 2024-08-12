@@ -228,3 +228,31 @@ $content-table-border-color: none !default;
   font-weight: 500;
   src: url('AGaramondPro-SemiboldItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+
+/* tufte - regular */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Tufte';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/etbookot-roman-webfont.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* tufte - italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Tufte';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/etbookot-italic-webfont.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* tufte - semibold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Tufte';
+  font-style: bold;
+  font-weight: 500;
+  src: url('../fonts/etbookot-bold-webfont.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
