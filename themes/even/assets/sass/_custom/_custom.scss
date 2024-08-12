@@ -18,17 +18,16 @@
 // Padding of the site header.
 $header-padding: 20px 20px !default;
 
-// Font family:
-@font-face {
-  font-family: 'alegreya', serif;
+
+
+
 //  font-style: bold;
-}
 
 // Font size of the logo.
 $logo-font-size: 23px !default;
 
 // Font family of the logo.
-$logo-font-family: Adobe Garamond Pro !default;
+$logo-font-family: 'adobe' !default;
 
 // Font weight of the logo.
 $logo-font-weight: 550 !default;
@@ -44,6 +43,10 @@ $menu-link-font-size: 18px !default;
 
 // Height of the mobile header.
 $mobile-navbar-height: 50px !default;
+
+
+
+
 
 // ========== Code ========== //
 // Color of the code.
@@ -201,4 +204,14 @@ $content-table-border-color: none !default;
   font-style: italic;
   font-weight: 500;
   src: url('../fonts/alegreya-sc-v25-latin-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+// Font family:
+@font-face {
+  font-display: swap;
+  font-family: 'adobe';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/adobe.otf')
+    format('otf');
 }
