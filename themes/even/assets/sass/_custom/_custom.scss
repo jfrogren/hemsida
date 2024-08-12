@@ -77,10 +77,10 @@ $post-nav-font-size: 19px !default;
 $code-color: #c7254e !default;
 
 // Font size of code.
-$code-font-size: 0.9em !default;
+$code-font-size: 0.8em !default;
 
 // Font family of the code.
-$code-font-family: Ubuntu Mono !default;
+$code-font-family: 'MesloLG' !default;
 
 // Color of code highlight, solarized.
 // $code-highlight-color: (
@@ -379,4 +379,43 @@ $content-table-border-color: none !default;
   font-style: bolditalic;
   font-weight: 500;
   src: url('Lora-SemiBoldItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
+
+/* lora - regular */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'MesloLG';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/MesloLGLDZNerdFontMono-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora - italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'MesloLG';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/MesloLGLDZNerdFontMono-Italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora - semibold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'MesloLG';
+  font-style: bold;
+  font-weight: 500;
+  src: url('../fonts/MesloLGLDZNerdFontMono-Bold.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora - semibold-italic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'MesloLG';
+  font-style: bolditalic;
+  font-weight: 500;
+  src: url('../fonts/MesloLGLDZNerdFontMono-BoldItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
