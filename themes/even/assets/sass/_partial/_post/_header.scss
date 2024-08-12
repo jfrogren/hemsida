@@ -4,7 +4,7 @@
     margin: 0;
     font-size: $post-title-font-size;
     font-weight: $post-title-font-weight;
-    font-family: 'Alegreya';
+    font-family: $global-serif-font-family;
   }
 
   .post-link {
@@ -13,6 +13,7 @@
 
   .post-meta {
     font-size: 14px;
+    font-family: $global-sans-serif-font-family;
     color: $post-meta-font-color;
 
     .post-time {
