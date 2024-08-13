@@ -3,7 +3,7 @@ title: Musik
 date: "2024-06-27T00:00:00+11:00"
 publishdate: "2024-06-27"
 image: "bilder/manhattan_heights_po_compressed.jpg"
-draft: true
+draft: false
 type: "aktuellt"
 ---
 
