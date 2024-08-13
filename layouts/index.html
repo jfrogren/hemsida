@@ -1,6 +1,6 @@
 {{- define "content" -}}
 
-<p> Välkommen till min hemsida! Den här platsen är tänkt som en slags ventil för mina lösa tankar och funderingar kring det som jag tar intryck av. Främst utgör den ett sätt för mig själv att dokumentera, sortera och bygga upp ett slags personligt arkiv. Men den kan också tjäna som inspiration för andra som råkar ha vägarna förbi. Mycket nöje!  &rarr; <a href = "about/">Mer om mig.</a>
+<p> Välkommen till min hemsida! Den här platsen är tänkt som en slags ventil för mina lösa tankar och funderingar kring det som jag tar intryck av. Främst utgör den ett sätt för mig själv att dokumentera, sortera och bygga upp ett slags personligt arkiv. Men den kan också tjäna som inspiration för andra som råkar ha vägarna förbi. Mycket nöje!  &rarr; <a href = "om-mig/">Mer om mig.</a>
 
 
   
@@ -12,7 +12,7 @@
 <section id="posts" class="posts">
 <br />  
 <h1>Senaste blogginläggen</h1>
-  {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
+  {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blogg").Reverse) }}
   <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p> <em>{{ .Date.Day }} {{ i18n (printf "long_month_%d" .PublishDate.Month) }}</em>
 <!-- 
   {{ if .Truncated }}

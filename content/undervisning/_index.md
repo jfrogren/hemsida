@@ -1,4 +1,6 @@
 ---
-title: Teaching
+title: Undervisning
 description: Classes and seminars
 ---
+
+

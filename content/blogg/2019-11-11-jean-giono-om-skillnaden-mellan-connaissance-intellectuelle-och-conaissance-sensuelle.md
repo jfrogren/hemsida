@@ -15,6 +15,6 @@ Jean Giono menar att det finns olika sorters kännedom om världen; en av intell
 
 Lika litet som kirurgen kan lära sig om våra passioner genom att studera hjärtat; lika litet kan geografen förstå ett landskap genom de instrument han eller hon har till sitt förfogande. Det liknar det jag har nedtecknat av Tegnér nånstans på en lapp om att det är poesin som kommer närmast beskrivningen av det verkliga eller sanna.
 
-Även om Giono skriver prosa knyter det han skriver också an till poesin eftersom den sensuella kännedomen han talar om får mig att associera till ett sensibelt, och därmed också poetiskt sinnelag. På det sättet knyter det också an till det som den flanderska poeten Paul van Ostaijen skriver när han beskriver ['poesin och extasen som förundran inför det outsägliga']({{< relref "/blog/2022-06-09-poesin-och-extasen-som-forundran-infor-det-outsagliga.md" >}} "Poesin och extasen som förundran inför det outsägliga").
+Även om Giono skriver prosa knyter det han skriver också an till poesin eftersom den sensuella kännedomen han talar om får mig att associera till ett sensibelt, och därmed också poetiskt sinnelag. På det sättet knyter det också an till det som den flanderska poeten Paul van Ostaijen skriver när han beskriver ['poesin och extasen som förundran inför det outsägliga']({{< relref "/blogg/2022-06-09-poesin-och-extasen-som-forundran-infor-det-outsagliga.md" >}} "Poesin och extasen som förundran inför det outsägliga").
 
  [^1]: Jean Giono (1993): _Provence_, Gallimard.

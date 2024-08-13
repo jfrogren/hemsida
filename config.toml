@@ -44,37 +44,37 @@ unsafe = true
 
   [[menu.main]]
   name = "Publicerat"
-  url = "/publications"
+  url = "/publicerat"
   weight = 2.0
 
   [[menu.main]]
   name = "Resurser"
-  url = "/resources"
+  url = "/resurser"
   weight = 3.0
 
   [[menu.main]]
   name = "Undervisning"
-  url = "/teaching"
+  url = "/undervisning"
   weight = 4.0
 
   [[menu.main]]
   name = "Aktuellt"
-  url = "/prints"
+  url = "/aktuellt"
   weight = 5.0
 
   [[menu.main]]
   name = "Blogg"
-  url = "/blog"
+  url = "/blogg"
   weight = 6.0
 
 [permalinks]
-blog = "/blog/archives/:year/:month/:day/:slug"
+blog = "/blogg/arkiv/:year/:month/:day/:slug"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2018"            # Site creation time
+  since = "2014"            # Site creation time
   # site info (optional)
   logoTitle = "joakim frögren"        # default: the title value
   keywords = ["", "",""]

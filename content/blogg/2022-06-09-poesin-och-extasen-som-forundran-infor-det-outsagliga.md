@@ -9,7 +9,7 @@ Paul van Ostaijen (1896-1928), poet från Flandern, såg enligt Lasse Söderberg
 
 > I likhet med extasen har poesin ingenting att meddela utöver sin förundran-inför-det-outsägliga
 
-Här finns en koppling till Czesław Miłosz dikt [Snabba steg]({{< relref "/blog/2019-11-03-czeslaw-milosz-om-drommens-kraft-och-lycka.md" >}} "Snabba steg") där han skriver:
+Här finns en koppling till Czesław Miłosz dikt [Snabba steg]({{< relref "/blogg/2019-11-03-czeslaw-milosz-om-drommens-kraft-och-lycka.md" >}} "Snabba steg") där han skriver:
 
 > Illvilligt möter mig min nakna vakenhet.  
 > På dagen linkar jag med käppen, astmatisk.  
