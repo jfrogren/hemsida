@@ -1,6 +1,7 @@
-{{- define "title" }}{{ T "Aktuellt" }} - {{ .Site.Title }}{{ end -}}
+{{- define "title" }}{{ T "prints" }} - {{ .Site.Title }}{{ end -}}
 
 {{- define "content" }}
+
 
   <div id="content" class="posts">
   <header class = "post-header">
@@ -13,7 +14,17 @@
 <!--
   <p>Här kommer jag så småningom skriva om vad jag har på gång i form av till exempel böcker jag läser, utställningar jag planerar att se eller konserter jag önskar gå på.</p> -->
 
-{{ range .Pages }}
+{{ range (where .Data.Pages "Type" "aktuellt").GroupByDate "2006" "desc" }}
+
+
+{{ range .Pages.ByDate.Reverse }}
+    <h3>{{ .Params.title | safeHTML }}</h3>
+
+      {{ .Content }}
+
 {{ end }}
+
+{{- end}}
+
 </div>
 {{- end }}
