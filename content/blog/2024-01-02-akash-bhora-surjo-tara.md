@@ -5,7 +5,7 @@ draft: false
 categories: ["Rabindranath Tagore", "Musik", "Film", "Bengali"]
 ---
 
-Läste i NYR Daily[^1] om _Ritwik Ghatak_, en bengalisk filmskapare jag inte hört talas om tidigare. Artikelförfattaren kontrasterar honom med Satyajit Ray och dennes "glowing Apu Trilogy" eftersom han anser Ghatak betydligt mer svartsynt. 
+Läste i NYR Daily[^1] om _Ritwik Ghatak_, en bengalisk filmskapare jag inte hört talas om tidigare. Artikelförfattaren kontrasterar honom mot Satyajit Ray och dennes "glowing Apu Trilogy" eftersom han anser Ghatak betydligt mer svartsynt. 
 
 <!-- Jag har klippt ut de mest centrala citaten från NYR Daily-artikeln i anteckningsfilen till artikeln -->
 
