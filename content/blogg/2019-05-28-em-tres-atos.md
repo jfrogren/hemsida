@@ -5,7 +5,7 @@ draft: false
 categories: ["Lúcia Murat", "Brasilien", "Simone de Beauvoir", "Film"]
 ---
 
-{{< youtube CTrMTRinA5Q >}} 
+{{< youtube-enhanced CTrMTRinA5Q >}} 
 
 En poetisk film av den brasilianska regissören Lúcia Murat, som har släppt 13 långfilmer som ofta handlar om teman: våld, kvinnokroppen och åldrande. *Em Três Atos* är inspirerad av följande två böcker av Simone de Beauvoir:
 
