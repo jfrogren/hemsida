@@ -5,7 +5,7 @@ draft: false
 categories: ["Musik"]
 ---
 
-Var på konsert i kväll inrymd i ett tält modell större som placerats i slottsparken, bara några hundra meter ifrån där jag bor. Det var den pakistansk-amerikanska artisten [Arooj Aftab](https://archive.is/wnFwA) som uppträdde och i festivalens [programblad](https://archive.is/lxB0L) lät hon som det mest spännande inslaget i årets upplaga.
+Var på konsert i kväll inrymd i ett tält modell större som placerats i slottsparken, bara några hundra meter ifrån där jag bor. Det var den pakistansk-amerikanska artisten [Arooj Aftab](https://archive.is/wnFwA) som uppträdde och i Malmöfestivalens [programblad](https://archive.is/lxB0L) lät hon som det mest spännande inslaget i årets upplaga.
 
 I konsertens inledning sjöng hon på engelska, och jag associerade till namn som Beth Orton och Leonard Cohen, men med mer jazziga inslag. Hon övergick sedan alltmer till att sjunga på urdu och gå djupare in i den sydasiatiskt klassiska musiken, fast ackompanjerad av kontrabas, gitarr och slagverk hämtade från världsmusik-influerad jazz (tänk Charles Lloyd), snarare än de traditionella instrument (sarod, sitar harmonium och tabla) som vanligtvis associeras med sången. 
 
