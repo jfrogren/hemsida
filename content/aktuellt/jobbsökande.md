@@ -9,6 +9,5 @@ draft: true
 Just nu ha jag följande jobbansökningar på gång:
 
 
-- [Fou i Väst söker forskare för praktiknära forskning och utvecklingsarbete]
-(https://arbetsformedlingen.se/platsbanken/annonser/29017479)
+- [Fou i Väst söker forskare för praktiknära forskning och utvecklingsarbete](https://arbetsformedlingen.se/platsbanken/annonser/29017479)
 - [Utveckla utbildningar och leda projekt i psykologi/beteendevetenskap](https://arbetsformedlingen.se/platsbanken/annonser/28968622)
