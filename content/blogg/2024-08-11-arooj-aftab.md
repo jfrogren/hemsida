@@ -19,3 +19,5 @@ Med sin melankoliskt klingande röst varvat med mer lättsamt mellansnack fick h
 Festivalens premisser medförde dessvärre att inget extranummer tillkom vilket var synd för det hade säkert kunnat blivit något alldeles särskilt i den stämning som rådde där inne. 
 
 Jag ska försöka att se henne fler gånger för det var en konsertupplevelse utöver det vanliga. Det sätt på vilket hon integrerar den sydasiatiskt klassiska musiken och jazzen i olika skiftningar känns såväl nydanande som tidlöst och hennes karriär ska bli spännande att följa.
+
+{{< youtube-enhanced FpDQiLY9qZU >}}
