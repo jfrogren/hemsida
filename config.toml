@@ -1,6 +1,9 @@
 MetaDataFormat = "yaml"
 baseurl = "https://frogren.se/"
 title = "Joakim Frögren"
+description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
+images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
+keywords = ["blogg", "hemsida", "sajt"]
 pluralizelisttitles = false
 CanonifyUrls = true
 rssLimit = 20
@@ -74,10 +77,7 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
   since = "2014"            # Site creation time
   # site info (optional)
   # logoTitle = "Joakim Frögren"        # default: the title value
-  keywords = ["blogg", "hemsida", "sajt"]
-  title = "Joakim Frögren"
-  description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
-  images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
+
   # paginate of archives, tags and categories
   # general archives
   archivePaginate = 10
