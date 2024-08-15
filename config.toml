@@ -165,7 +165,6 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
  section = ["HTML", "RSS"]
  term = ["HTML", "RSS"]
 
-
 # builddrafts = false
 # buildFuture = true
 

@@ -4,8 +4,13 @@
 
 {{- $paginator := .Paginate .RegularPagesRecursive.ByDate.Reverse .Site.Params.blogPaginate }}
 
-{{- if not $paginator.HasPrev }}
-
+{{- if .Paginator -}}
+ {{- if .Paginator.HasPrev -}}
+   <link rel="prev" href="{{ .Paginator.Prev.URL | absURL }}" />
+ {{- end -}}
+ {{- if .Paginator.HasNext -}}
+   <link rel="prev" href="{{ .Paginator.Next.URL | absURL }}" />
+ {{- end -}}
 {{- end }}
 
 <section id="archive" class="archive">

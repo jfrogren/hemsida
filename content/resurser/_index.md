@@ -1,6 +1,7 @@
 ---
 title: Resurser
-description: Some useful tools and bits of software
+description: En plats där jag samlar resurser i form av verktyg att använda i mitt kunskapsarbete. Som till exempel länkar till instruktioner för att lösa ett visst problem.
+og_type: "article"
 ---
 
 
