@@ -76,10 +76,11 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
 
   since = "2014"            # Site creation time
   # site info (optional)
-  logoTitle = "joakim frögren"        # default: the title value
+  logoTitle = "Joakim Frögren"        # default: the title value
   keywords = ["", "",""]
-  description = "."
-
+  title = "Joakim Frögren"
+  description = "En plats där jag samlar mina tankar och funderingar kring det som jag tar intryck av."
+  images = ['android-chrome-384x384.png']
   # paginate of archives, tags and categories
   # general archives
   archivePaginate = 10
