@@ -9,8 +9,8 @@ layoutdir = "layouts"
 publishdir = "public"
 languageCode = "sv"
 defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field enableRobotsTXT = true
-enableEmoji = true
-theme = ["even"]
+enableEmoji = false
+theme = ["hugo-video", "even"]
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
