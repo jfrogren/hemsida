@@ -2,6 +2,8 @@ MetaDataFormat = "yaml"
 baseurl = "https://frogren.se/"
 title = "Joakim Frögren"
 
+pluralizelisttitles = false
+
 
 CanonifyUrls = true
 rssLimit = 20
