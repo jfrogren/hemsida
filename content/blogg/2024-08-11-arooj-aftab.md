@@ -3,6 +3,8 @@ title: "Arooj Aftab"
 date: 2024-08-11T08:46:45+02:00
 draft: false
 categories: ["Musik"]
+og_type: article
+image: /images/arooj-aftab.jpg
 ---
 
 Var på konsert i kväll inrymd i ett tält modell större som placerats i slottsparken, bara några hundra meter ifrån där jag bor. Det var den pakistansk-amerikanska artisten [Arooj Aftab](https://archive.is/wnFwA) som uppträdde och i Malmöfestivalens [programblad](https://archive.is/lxB0L) lät hon som det mest spännande inslaget i årets upplaga.
