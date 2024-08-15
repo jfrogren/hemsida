@@ -79,7 +79,7 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
   logoTitle = "Joakim Frögren"        # default: the title value
   keywords = ["Uppleva", "Nedteckna","Minnas"]
   title = "Joakim Frögren"
-  description = "Ett arkiv för reflektioner"
+  description = "Ett arkiv för mina reflektioner"
   site_description = "En plats där jag samlar mina tankar och funderingar kring det som jag tar intryck av."
   images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
   # paginate of archives, tags and categories
