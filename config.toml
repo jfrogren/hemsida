@@ -77,7 +77,7 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
   since = "2014"            # Site creation time
   # site info (optional)
   logoTitle = "Joakim Frögren"        # default: the title value
-  keywords = ["Uppleva", "Nedteckna","Minnas"]
+  keywords = [""]
   title = "Joakim Frögren"
   description = "Ett arkiv för mina reflektioner"
   site_description = "En plats där jag samlar mina tankar och funderingar kring det som jag tar intryck av."
