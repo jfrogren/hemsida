@@ -1,7 +1,6 @@
 MetaDataFormat = "yaml"
 baseurl = "https://frogren.se/"
 title = "Joakim Frögren"
-description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
 images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
 keywords = ["blogg", "hemsida", "sajt"]
 pluralizelisttitles = false
@@ -77,6 +76,8 @@ blog = "/blogg/arkiv/:year/:month/:day/:slug"
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2014"            # Site creation time
+  title = "Joakim Frögren"
+  description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
   # site info (optional)
   # logoTitle = "Joakim Frögren"        # default: the title value
 
