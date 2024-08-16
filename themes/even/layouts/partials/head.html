@@ -36,9 +36,6 @@
      <meta property="og:url" content="{{ .Site.BaseURL }}"/>
      <meta property="og:locale" content="sv">
 
-<meta name="description" content="{{ .Site.Params.Description }}" />
-
-
 <!-- baidu & google verification  -->
 {{ with .Site.Params.baiduVerification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
 {{ with .Site.Params.googleVerification }}<meta name="google-site-verification" content="{{.}}" />{{ end }}
@@ -46,7 +43,7 @@
 <!-- Site Generator -->
 <meta name="generator" content="Hugo {{ .Site.Hugo.Version }} with theme even" />
 
-<!--  RSSlink -->
+<!-- Permalink & RSSlink -->
 {{- with .OutputFormats.Get "RSS" }}
   <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
   <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
