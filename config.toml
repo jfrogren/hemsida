@@ -16,6 +16,7 @@ enableRobotsTXT = true
 enableEmoji = false
 theme = ["hugo-video", "even"]
 
+
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
