@@ -28,6 +28,14 @@
   <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
 {{- end }}
 
+<!-- open graph -->
+<meta property="og:type" content="website" />
+     <meta property="og:title" content="{{ .Site.Title }}"/>
+     <meta property="og:description" content="{{ .Site.Params.description }}"/>
+     <meta property="og:site_name" content="{{ .Site.Title }}"/>
+     <meta property="og:url" content="{{ .Site.BaseURL }}"/>
+     <meta property="og:locale" content="sv">
+
 <!-- baidu & google verification  -->
 {{ with .Site.Params.baiduVerification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
 {{ with .Site.Params.googleVerification }}<meta name="google-site-verification" content="{{.}}" />{{ end }}
@@ -35,8 +43,7 @@
 <!-- Site Generator -->
 <meta name="generator" content="Hugo {{ .Site.Hugo.Version }} with theme even" />
 
-<!-- Permalink & RSSlink -->
-<link rel="canonical" href="{{ .Permalink }}" />
+<!--  RSSlink -->
 {{- with .OutputFormats.Get "RSS" }}
   <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
   <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
@@ -78,7 +85,6 @@
 {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
-{{- template "_internal/twitter_cards.html" . -}}
 
 <!-- Polyfill for old browsers -->
 {{ `<!--[if lte IE 9]>
