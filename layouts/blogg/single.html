@@ -5,6 +5,7 @@
       <h1 class="post-title">{{ .Title }}</h1>
 
       <div class="post-meta">
+        <meta name="description" content="{{ if .Params.Description }}{{ trim .Params.Description "\n" }}{{else if .Site.Params.Description}}{{ trim .Site.Params.Description "\n"}}{{ end }}">
         <span class="post-time"> {{ .Date.Day }} {{ i18n (printf "long_month_%d" .PublishDate.Month) }} {{ .Date.Year }}</span>
         {{ with .Params.categories -}}
           <div class="post-category">
