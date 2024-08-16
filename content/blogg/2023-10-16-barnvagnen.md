@@ -3,6 +3,8 @@ title: "Barnvagnen"
 date: 2023-10-16T19:16:46+02:00
 draft: false
 categories: ["film", "Bo Widerberg", "Tommy Berggren", "Malmö", "Inger Taube"]
+og_type: article
+og_image: /images/barnvagnen.png
 ---
 
 ![Barnvagnen](/images/barnvagnen.png)

@@ -1,4 +1,4 @@
-MetaDataFormat = "yaml"
+MetaDataFormat = "toml"
 baseurl = "https://frogren.se/"
 title = "Joakim Frögren"
 images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
@@ -10,11 +10,12 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 languageCode = "sv"
-defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field enableRobotsTXT = true
+                             # en / zh-cn / ... (This field enableRobotsTXT = true
 enableRobotsTXT = true
 enableEmoji = false
 theme = ["hugo-video", "even"]
 
+defaultContentLanguage = "sv"
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
@@ -71,6 +72,7 @@ unsafe = true
 
 [permalinks]
 blog = "/blogg/arkiv/:year/:month/:day/:slug"
+
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
