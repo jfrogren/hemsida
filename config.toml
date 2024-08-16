@@ -12,6 +12,7 @@ layoutdir = "layouts"
 publishdir = "public"
 languageCode = "sv"
 defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field enableRobotsTXT = true
+enableRobotsTXT = true
 enableEmoji = false
 theme = ["hugo-video", "even"]
 
