@@ -1,12 +1,12 @@
 # ===== title =====
 archive:
-  other: "Archive"
+  other: "Arkiv"
 
 tags:
-  other: "Tags"
+  other: "Taggar"
 
 categories:
-  other: "Categories"
+  other: "Kategori"
 
 # ===== footer =====
 powered:
