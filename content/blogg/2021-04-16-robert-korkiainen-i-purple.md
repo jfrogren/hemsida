@@ -5,7 +5,7 @@ draft: false
 categories: ["Fotografi", "Bildkonst", "Robert Korkiainen", "Kim Ramberghaug", "Jessika Thörnqvist", "Simone de Beauvoir"]
 ---
 
-![](/images/robert-korkiainen.png)
+![Robert Korkiainen](/images/robert-korkiainen.png)
 
 Fick veta av Robert i dag att han kände Kim Ramberghaug och Jessika Thörnqvist och att han till och med hade blivit fotograferad av dem för [Les Chroniques Purple](https://archive.fo/wScWx). Ibland är världen bra liten ändå. Häftigt hur saker och ting knyts ihop på märkliga sätt. Synd bara att jag inte kan berätta det för pappa. Men det är som det är. Döden är obarmhärtig och ofattbar, precis som livet. Som Simone de Beauvoir skriver i *Avled stilla* (2000, s. 119):
 
