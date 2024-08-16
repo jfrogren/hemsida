@@ -36,6 +36,9 @@
      <meta property="og:url" content="{{ .Site.BaseURL }}"/>
      <meta property="og:locale" content="sv">
 
+<meta name="description" content="{{ .Site.Params.Description }}" />
+
+
 <!-- baidu & google verification  -->
 {{ with .Site.Params.baiduVerification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
 {{ with .Site.Params.googleVerification }}<meta name="google-site-verification" content="{{.}}" />{{ end }}
