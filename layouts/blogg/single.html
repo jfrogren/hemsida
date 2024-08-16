@@ -3,10 +3,7 @@
     <!-- post-header -->
     <header class="post-header">
       <h1 class="post-title">{{ .Title }}</h1>
-      <meta
-     name="description"
-     content="{{ if .Params.summary }}{{ .Params.summary }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ else }}Something hardcoded{{ end }}"
-   />
+
       <div class="post-meta">
         <span class="post-time"> {{ .Date.Day }} {{ i18n (printf "long_month_%d" .PublishDate.Month) }} {{ .Date.Year }}</span>
         {{ with .Params.categories -}}
