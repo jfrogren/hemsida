@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-
-    <head>
-      <meta name="description" content="{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
-    </head>
-{{ define "contient" -}}
-i<article class="post">
- i <div class="post-content">
+{{ define "content" -}}
+<article class="post">
+  <div class="post-content">
     {{ .Content }}
   </div>
 </article>
