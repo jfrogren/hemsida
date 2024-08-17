@@ -21,3 +21,5 @@ Sången *Akash Bhora Surjo Tara* är från Ritwik Ghataks film [Komal Gandhar](h
 {{< /rawhtml >}}
 
 [^1]: Asokan, Ratik (2019-01-25). _A New Look At Ritwik Ghatak’s Bengal_. NYR Daily (New York Review of Books' blog). Retrieved 2020-01-26 from <https://www.nybooks.com/daily/2020/01/25/a-new-look-at-ritwik-ghataks-bengal/>.
+
+<!---->
