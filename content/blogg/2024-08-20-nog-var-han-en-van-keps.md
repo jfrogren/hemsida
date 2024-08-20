@@ -9,4 +9,4 @@ När jag gick av på Anna Lindhs plats med 10:ans buss i eftermiddag upptäckte 
 
 ![Nog var han en vän-keps!](/images/nog-var-han-en-van-keps.png "Nog var han en vän-keps!")
 
-Den går tydligen att införskaffa på [Vasa flora och faunas hemsida](https://archive.fo/O5XE8).
+Den går tydligen att införskaffa på [Vasas flora och faunas hemsida.](https://archive.fo/O5XE8)
