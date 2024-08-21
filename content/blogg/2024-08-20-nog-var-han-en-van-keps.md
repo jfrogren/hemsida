@@ -5,7 +5,7 @@ draft: false
 categories: ["Musik", "Kläder", "Mode"]
 ---
 
-När jag gick av på Anna Lindhs plats med 10:ans buss i eftermiddag upptäckte jag en tjej med en sån här keps:
+När jag gick av 10:ans buss på Anna Lindhs plats i eftermiddag upptäckte jag en tjej med en sån här keps:
 
 ![Nog var han en vän-keps!](/images/nog-var-han-en-van-keps.png "Nog var han en vän-keps!")
 
