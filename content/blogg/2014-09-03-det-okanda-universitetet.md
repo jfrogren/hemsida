@@ -1,5 +1,5 @@
 ---
-title: "Ur Det okända universitetet"
+title: "Det okända universitetet"
 date: 2014-09-03
 draft: false
 categories: ["Litteratur", "Chile", "Latinamerika"]
