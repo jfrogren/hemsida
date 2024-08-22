@@ -1,5 +1,5 @@
 ---
-title: "Arooj Aftab"
+title: "Arooj Aftab på Malmöfestivalen"
 date: 2024-08-11T08:46:45+02:00
 draft: false
 categories: ["Musik"]
