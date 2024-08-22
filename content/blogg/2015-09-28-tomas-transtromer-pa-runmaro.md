@@ -6,7 +6,7 @@ categories: ["Litteratur", "Poesi"]
 ---
 
 Ett teveinslag från 1980 där Tranströmer pratar om sin poetiska hållning och läser dikten *Allegro*. 
-{{< youtube oOLJu31Si1c >}}
+{{< youtube-enhanced oOLJu31Si1c >}}
 
 <!--
 > "The satisfaction, the pleasure, the comfort one takes in these poems comes from the way they seem to have preëxisted us. Or perhaps, to put it another way, the magic lies in their ability to present aspects of our selves long buried under manners, culture, and language. The poems remember us and, if we are perfectly still, give us a chance to catch sight of ourselves."
