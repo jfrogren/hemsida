@@ -34,8 +34,8 @@ Text: Robert Gilbert
 > Irgendwo auf der Welt gibt's ein bißchen Seligkeit  
 > Und ich träum' davon schon lange, lange Zeit  
 ><br>
-> Wenn ich wüsst', wo das ist, ging' ich in die Welt hinein
-> Denn ich möcht' einmal recht, so von Herzen glücklich sein
-> Irgendwo auf der Welt fängt mein Weg zum Himmel an
-> Irgendwo, irgendwie, irgendwann
-> Irgendwo, irgendwie, irgendwann
+> Wenn ich wüsst', wo das ist, ging' ich in die Welt hinein  
+> Denn ich möcht' einmal recht, so von Herzen glücklich sein  
+> Irgendwo auf der Welt fängt mein Weg zum Himmel an  
+> Irgendwo, irgendwie, irgendwann  
+> Irgendwo, irgendwie, irgendwann  
