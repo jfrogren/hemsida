@@ -21,7 +21,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 {{< rawhtml >}} 
 
-<video width=100% controls pause playsinline>
+<video width=100% controls pause playsinline muted>
     <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/mp4">
     <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/webm" />
 </video>
