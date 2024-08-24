@@ -7,8 +7,10 @@ categories: ["Musik", "Kongo"]
 
 Franck Lassan (1934-1986), eller Fariala wa Nyembo som var det namn han senare antog, var en av Kongos stora sångare. Med sin sammetslena röst och sitt distingerade sätt har han kallats [le dernier dandy de Léopoldville.](https://archive.fo/kCoDI) 
 
-Även om han skivdebuterade på legendariska etiketten Ngoma redan på 50-talet och tillsammans med bland annat Wendo Kolosoy kan sägas vara en av grundarna till den kongolesiska rumban, så är det hans senare pruduktion jag främst har fastnat för. I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, Laisser-tomber, Proverbes, Génération Ya Sika och Nuit des fêtes.
+Även om han skivdebuterade på legendariska etiketten Ngoma redan på 50-talet och tillsammans med bland annat Wendo Kolosoy kan sägas vara en av grundarna till den kongolesiska rumban, så är det hans senare pruduktion jag främst har fastnat för. I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, Laisser-tomber, Proverbes, Génération Ya Sika och Nuit des fêtes:
 
+### 1. Il suffit
+<br>
 
 {{< rawhtml >}} 
 
@@ -17,8 +19,8 @@ Franck Lassan (1934-1986), eller Fariala wa Nyembo som var det namn han senare a
 </video>
 
 {{< /rawhtml >}}
-Franck Lassan - Il suffit
 
+### 2. Laisser-tomber
 <br>
 
 {{< rawhtml >}} 
@@ -28,8 +30,8 @@ Franck Lassan - Il suffit
 </video>
 
 {{< /rawhtml >}}
-Franck Lassan - Laisser-tomber
 
+### 3. Proverbes
 <br>
 
 {{< rawhtml >}} 
@@ -39,8 +41,9 @@ Franck Lassan - Laisser-tomber
 </video>
 
 {{< /rawhtml >}}
-Franck Lassan - Proverbes
 
+
+### 4. Génération Ya Sika
 <br>
 
 {{< rawhtml >}} 
@@ -50,8 +53,9 @@ Franck Lassan - Proverbes
 </video>
 
 {{< /rawhtml >}}
-Franck Lassan - Generation Ya Sika
 
+
+### 5. Nuit des fêtes
 <br>
 
 {{< rawhtml >}} 
@@ -61,4 +65,4 @@ Franck Lassan - Generation Ya Sika
 </video>
 
 {{< /rawhtml >}}
-Franck Lassan - Nuit des fêtes
+
