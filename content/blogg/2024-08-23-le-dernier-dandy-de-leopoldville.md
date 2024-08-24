@@ -7,7 +7,7 @@ categories: ["Musik", "Kongo"]
 
 Franck Lassan (1934-1986), eller Fariala wa Nyembo som var det namn han senare antog, var en av Kongos stora sångare. Med sin sammetslena röst och sitt distingerade sätt har han kallats [le dernier dandy de Léopoldville.](https://archive.fo/kCoDI) 
 
-Även om han skivdebuterade på legendariska etiketten Ngoma redan på 50-talet och tillsammans med bland annat Wendo Kolosoy kan sägas vara en av grundarna till den kongolesiska rumban, så är det hans senare pruduktion jag främst har fastnat för. I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, Laisser-tomber, Proverbes, Génération Ya Sika och Nuit des fêtes:
+Även om han skivdebuterade på legendariska etiketten Ngoma redan på 50-talet och tillsammans med bland annat Wendo Kolosoy kan sägas vara en av grundarna till den kongolesiska rumban, så är det hans senare produktion jag främst har fastnat för. I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, Laisser-tomber, Proverbes, Génération Ya Sika och Nuit des fêtes:
 
 ### 1. Il suffit
 <br>
