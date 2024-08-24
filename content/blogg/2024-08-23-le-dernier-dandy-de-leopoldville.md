@@ -1,6 +1,6 @@
 ---
 title: "Le dernier dandy de Léopoldville"
-date: 2024-08-24T00:44:09+02:00
+date: 2024-08-23
 draft: false
 categories: ["Musik", "Kongo"]
 ---
