@@ -23,7 +23,6 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 <video width=100% controls autoplay playsinline muted >
     <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/mp4">
-    <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/webm" />
 </video>
 
 {{< /rawhtml >}}
@@ -33,7 +32,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 {{< rawhtml >}} 
 
-<video width=100% controls pause playsinline>
+<video width=100% controls autoplay playsinline muted>
     <source src="/videos/franck-lassan-laisser-tomber.mp4#t=0" type="video/mp4">
 </video>
 
@@ -44,7 +43,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 {{< rawhtml >}} 
 
-<video width=100% controls pause playsinline>
+<video width=100% controls autoplay playsinline muted>
     <source src="/videos/franck-lassan-proverbes-+-diskussion-om-textskrivande-och-sprak.mp4#t=0" type="video/mp4">
 </video>
 
@@ -56,7 +55,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 {{< rawhtml >}} 
 
-<video width=100% controls pause playsinline>
+<video width=100% controls autoplay playsinline muted>
     <source src="/videos/franck-lassan-generation-ya-sika.mp4#t=0" type="video/mp4">
 </video>
 
@@ -68,7 +67,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, La
 
 {{< rawhtml >}} 
 
-<video width=100% controls pause playsinline>
+<video width=100% controls autoplay playsinline muted>
     <source src="/videos/franck-lassan-nuit-des-fetes.mp4#t=0" type="video/mp4">
 </video>
 
