@@ -13,7 +13,7 @@ Sången *Akash Bhora Surjo Tara* är från Ritwik Ghataks film [Komal Gandhar](h
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls pause playsinline>
     <source src="/videos/aakash-bhora-surja-tara.mp4#t=1.0" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
