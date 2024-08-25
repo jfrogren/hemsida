@@ -9,7 +9,6 @@ categories: ["Musik", "Frankrike"]
 
 <video width=100% controls autoplay>
     <source src="/videos/tous-les-garcons.mp4#t=0.1" type="video/mp4">
-    Your browser does not support the video tag.  
 </video>
 
 {{< /rawhtml >}}
