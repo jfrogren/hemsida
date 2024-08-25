@@ -12,7 +12,7 @@ Lars och Bubu bjöd på middag nu ikväll. De vill gärna att jag är med i kör
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay playsinline muted>
+<video width=100% controls play playsinline muted>
     <source src="/videos/aakash-bhora-surja-tara.mp4#t=1.0" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
