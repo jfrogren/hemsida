@@ -33,7 +33,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Génération 
 {{< rawhtml >}} 
 
 <video width=100% controls play playsinline>
-    <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/mp4">
+    <source src="/videos/franck-lassan-il-suffit.mp4#t=0.1" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
@@ -56,7 +56,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Génération 
 {{< rawhtml >}} 
 
 <video width=100% controls play playsinline>
-    <source src="/videos/franck-lassan-nuit-des-fetes.mp4#t=0" type="video/mp4">
+    <source src="/videos/franck-lassan-nuit-des-fetes.mp4#t=0.1" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
@@ -68,7 +68,7 @@ I synnerhet albumet Fariala från 1981. Här återfinns låtar som Génération 
 {{< rawhtml >}} 
 
 <video width=100% controls play playsinline>
-    <source src="/videos/franck-lassan-proverbes-+-diskussion-om-textskrivande-och-sprak.mp4#t=0" type="video/mp4">
+    <source src="/videos/franck-lassan-proverbes-+-diskussion-om-textskrivande-och-sprak.mp4#t=0.1" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
