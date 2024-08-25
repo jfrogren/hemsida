@@ -7,7 +7,7 @@ categories: ["Musik", "Frankrike"]
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls play playsinline>
     <source src="/videos/tous-les-garcons.mp4#t=0.1" type="video/mp4">
 </video>
 
