@@ -12,63 +12,63 @@ Franck Lassan (1934-1986), eller Fariala wa Nyembo som var det namn han senare a
 
 ![](/images/fariala2.png)
 
-I synnerhet albumet Fariala från 1981. Här återfinns låtar som Il suffit, Laisser-tomber, Proverbes, Génération Ya Sika och Nuit des fêtes:
+I synnerhet albumet Fariala från 1981. Här återfinns låtar som Génération Ya Sika, Il suffit, Laisser-tomber, Nuit des fêtes och Proverbes:
 
 
-
-### 1. Il suffit
+### 1. Génération Ya Sika
 <br>
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay playsinline muted >
+<video width=100% controls play playsinline>
+    <source src="/videos/franck-lassan-generation-ya-sika2.mp4#t=0.1" type="video/mp4">
+</video>
+
+{{< /rawhtml >}}
+
+
+### 2. Il suffit
+<br>
+
+{{< rawhtml >}} 
+
+<video width=100% controls play playsinline>
     <source src="/videos/franck-lassan-il-suffit.mp4#t=0" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
 
-### 2. Laisser-tomber
+### 3. Laisser-tomber
 <br>
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay playsinline muted>
-    <source src="/videos/franck-lassan-laisser-tomber.mp4#t=0" type="video/mp4">
-</video>
-
-{{< /rawhtml >}}
-
-### 3. Proverbes
-<br>
-
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay playsinline muted>
-    <source src="/videos/franck-lassan-proverbes-+-diskussion-om-textskrivande-och-sprak.mp4#t=0" type="video/mp4">
+<video width=100% controls play playsinline>
+    <source src="/videos/franck-lassan-laisser-tomber.mp4#t=0.1" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
 
 
-### 4. Génération Ya Sika
+### 4. Nuit des fêtes
 <br>
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay playsinline muted>
-    <source src="/videos/franck-lassan-generation-ya-sika.mp4#t=0" type="video/mp4">
-</video>
-
-{{< /rawhtml >}}
-
-
-### 5. Nuit des fêtes
-<br>
-
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay playsinline muted>
+<video width=100% controls play playsinline>
     <source src="/videos/franck-lassan-nuit-des-fetes.mp4#t=0" type="video/mp4">
+</video>
+
+{{< /rawhtml >}}
+
+
+### 5. Proverbes
+<br>
+
+{{< rawhtml >}} 
+
+<video width=100% controls play playsinline>
+    <source src="/videos/franck-lassan-proverbes-+-diskussion-om-textskrivande-och-sprak.mp4#t=0" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
