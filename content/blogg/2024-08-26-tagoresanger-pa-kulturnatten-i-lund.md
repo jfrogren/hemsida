@@ -55,6 +55,8 @@ bhulbi kire haay o she
 chhoker dekha  
 praner kotha, she ki bhola jaa  
 
+<br>
+
 
 ### 2. Aamar Ei Poth Chawatei (1910)
 <br>
@@ -71,6 +73,8 @@ Saaradin aankhi mele duware rabo eka,
 Subhokhan hatthat ele takhoni paabo dekha.  
 Tatokhan khane khane haasi gaai aapon-mone,  
 Tatokhan rohi rohi bhese aase sugandho.  
+
+<br>
 
 
 ### 3. Uuriye Dhwaya Abhrabhedi (1910)
@@ -243,6 +247,7 @@ Janar majhee ajaanare korechi shandhan,
 Bisshoe tai jaaageeee, jagee amaar gaaan.  
 Aakash bhora.  
 Shurjo taara, bishobharaa praa  
+
 <br>
 
 ### 7. Kali Kali Balo Re (1880)
@@ -264,6 +269,7 @@ Aare bolre shyama maayer joy, joy joy.
 Joy joy, joy joy, joy, joy joy joy.  
 Aare bal re shyama mayer joy, joy joy.  
 Aare bal re shyama mayer joy.  
+
 <br>
 
 ### 8. Hinshay Unmotto Prithwi (1927)
@@ -301,6 +307,7 @@ Nitto nitthuro dondo;
 Ghoro kutilo pontho taro  
 Lobho jotilo bondho  
 Hinshay unmotto prithwi  
+
 <br>
 
 ### 9. Aanandaloke Mangolaloke (1893)
