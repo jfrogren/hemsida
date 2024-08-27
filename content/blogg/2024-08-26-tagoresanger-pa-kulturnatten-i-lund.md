@@ -1,7 +1,7 @@
 ---
 title: "Tagoresånger på Kulturnatten i Lund"
 date: 2024-08-26T22:39:19+02:00
-draft: true
+draft: false
 categories: ["Musik", "Bengali", "Rabindranath Tagore"]
 ---
 
@@ -9,6 +9,8 @@ categories: ["Musik", "Bengali", "Rabindranath Tagore"]
 <br>
 
 {{< youtube-enhanced oxMBvEjtyTw >}}
+
+![](/images/tagore-purano-sei-diner-kotha.png)
 
 Purano shei diner kotha bhulbi kire  
 haay o she chhokher dekha,  
@@ -59,20 +61,24 @@ praner kotha, she ki bhola jaa
 
 {{< youtube-enhanced BRB1aPCJHj0 >}}
 
-> Aamar ei path-chaawatei aanondo.  
-> Khele jaay roudro chhaaya, barsha aase basonto.  
-> Kaara ei samuk diye aase jaay khabor niye,  
-> Khusi roi aapon mone - baatas bohe sumando.  
-> Saaradin aankhi mele duware rabo eka,  
-> Subhokhan hatthat ele takhoni paabo dekha.  
-> Tatokhan khane khane haasi gaai aapon-mone,  
-> Tatokhan rohi rohi bhese aase sugandho.  
+![Amar Ei Poth Chawatei](/images/tagore-aamar-ei-poth-chawatei.png "Amar Ei Poth Chawatei")
+
+Aamar ei path-chaawatei aanondo.  
+Khele jaay roudro chhaaya, barsha aase basonto.  
+Kaara ei samuk diye aase jaay khabor niye,  
+Khusi roi aapon mone - baatas bohe sumando.  
+Saaradin aankhi mele duware rabo eka,  
+Subhokhan hatthat ele takhoni paabo dekha.  
+Tatokhan khane khane haasi gaai aapon-mone,  
+Tatokhan rohi rohi bhese aase sugandho.  
 
 
 ### 3. Uuriye Dhwaya Abhrabhedi (1910)
 <br>
 
 {{< youtube-enhanced 7mSQZ2tUdFc >}}
+
+![](/images/tagore-uriye-dhwoja-abhrobhedi.png)
 
 Uriye dhwaja abhrabhedi rathe  
 Oi je tini, oi je baahir pathe.  
@@ -124,6 +130,8 @@ Oi je tini, oi je baahir pathe.
 
 {{< youtube-enhanced EA9x7-XDMzI >}}
 
+![](/images/tagore-aami-chini-go-chini-tomare.png)
+
 Ami chini go chini tomare,  
 O go bideshini!  
 Ami chini go chini tomare  
@@ -150,6 +158,7 @@ O go bideshini! O go bideshini!
 
 {{< youtube-enhanced vYiopbOAY8A >}}
 
+![](/images/tagore-maati-toder-daak-diyechhe.png)
 
 Matir toder dak diyeche aay re chole, Aay aay aay.  
 Matir toder dak diyeche aay re chole, Aay aay aay.  
@@ -209,6 +218,9 @@ Matir toder dak diyeche aay re chole, Aay aay aay.
 
 <br>
 
+![Akash Bhora Surjo Tara](/images/tagore-akash-bhora-surjo-tara.png "Akash Bhora Surjo Tara")
+
+
 Aakashbhora Shuro Taara  
 Aakash bhora, shurjo taara, bishobharaa praan,  
 Tahari majhkhaane ami paechi, ami paechi mor sthan,  
@@ -238,6 +250,8 @@ Shurjo taara, bishobharaa praa
 
 {{< youtube-enhanced 4ga2FEcvCRE >}}
 
+![](/images/tagore-kali-kali-balo-re.png)
+
 Kali Kali balo re aaj-  
 Balo ho, ho ho, balo ho, ho ho, balo ho.  
 Namer jore shadhibo kaaj-  
@@ -256,6 +270,8 @@ Aare bal re shyama mayer joy.
 <br>
 
 {{< youtube-enhanced aHQAVK5pUjQ >}}
+
+![](/images/tagore-hingsaay-unmatto.png)
 
 Hinshay unmotto prithwi,  
 Nitto nitthuro dondo;  
@@ -292,6 +308,8 @@ Hinshay unmotto prithwi
 
 {{< youtube-enhanced RbC9rk3_5NY >}}
 
+![](/images/tagore-aanandaloke-mangolaloke.png)
+
 Aanondoloke mongolaloke  
 birajo, shotto shundaro  
 
@@ -302,7 +320,7 @@ monibhusono bestito chorone
 (Aanondoloke...)  
 
 Grohotaarako chandrotapono byakulo  
-druto bege 7/(orichhe paano, korichhe  
+druto bege /(orichhe paano, korichhe  
 snaano, okkhoyo kirone  
 
 (Aanondoloke...)  
@@ -319,6 +337,8 @@ sundaro borone
 <br>
 
 {{< youtube-enhanced RFnoP-5v5e8 >}}
+
+![](/images/tagore-phule-phule-dhole-dhole.png)
     
 Phule phule dhole dhole,  
 Bohey kiba mridu baay.  
