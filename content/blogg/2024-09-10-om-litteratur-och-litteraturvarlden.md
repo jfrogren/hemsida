@@ -13,7 +13,7 @@ Hon hänvisar i sin argumentation till en *long essay* i Granta av Christian Lor
 
 > an age when literary discourse is in flight from the literary, in favor of the personal, the political, or, more often, the consumerist and careerist, in favor of thinking about systems instead of individuals, which is to say writers. 
 
-Stöd för denna tes hämtar Lorentzen främst hos John Guillory och hans bok [Professing Criticism](https://archive.fo/U3V9v) som beskriver "the emergence of literary criticism as a discipline embedded in the university" (Lorentzons ord). I detta verk redogör Guillory enligt Lorentzen för hur den akademiskt grundade litteraturkritik med tiden fått en allt större upptagenhet vid litteratur skriven efter andra världskriget (till förmån för äldre litteratur) samt fäst sig alltmer vid analys av metod hos litterära verk än analys av innehåll.
+Stöd för denna tes hämtar Lorentzen främst hos John Guillory och hans bok [Professing Criticism](https://archive.fo/U3V9v) som beskriver "the emergence of literary criticism as a discipline embedded in the university" (Lorentzens ord). I detta verk redogör Guillory enligt Lorentzen för hur den akademiskt grundade litteraturkritik med tiden fått en allt större upptagenhet vid litteratur skriven efter andra världskriget (till förmån för äldre litteratur) samt fäst sig alltmer vid analys av metod hos litterära verk än analys av innehåll.
 
 Det som Lorentzen argumenterar för i sin essä är att den litterära diskursen först och främst bör utgå från kritikerns läsning och upplevelse av det litterära verket snarare än något annat mer perifert. Beträffande vad som utmärker litteraturens särart och värde i förhållande till vetenskap skriver Lorentzen så här:
 
