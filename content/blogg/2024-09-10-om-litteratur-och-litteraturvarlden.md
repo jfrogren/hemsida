@@ -25,7 +25,7 @@ När det gäller vad litteraturen kan skänka oss för lärdomar och hur den fö
 
 Litteraturens kraft och styrka är just i det att den inte kan reduceras till sociologi, till vetenskap, utan att formen tillåter en mångtydighet och en möjlighet till otaliga tolkningar, likt livet självt.
 
-Lorentzen betraktar läsning som såväl en social som solitär aktivitet, men att läsningen som solitär aktivitet är relativt ny i människans historia och från början betraktades med skepsis eftersom den kopplades till onani och såldes till orenhet och risk för att bli korrumperad. Han antyder också att läsandet som solitär aktivitet i viss mån också fortfarande betraktas med skepsis, åtminstone i en amerikansk kontext med det förhållande till litteratur som dominerar där: 
+Lorentzen betraktar läsning som såväl en social som solitär aktivitet, men betonar samtidigt att läsning som solitär aktivitet är relativt ny i människans historia och från början betraktades med skepsis eftersom den kopplades samman med risker för amoraliska aktiviteter som onani. Han antyder också att läsandet som solitär aktivitet i viss mån fortfarande betraktas med skepsis, åtminstone i en amerikansk kontext med det förhållande till litteratur som dominerar där: 
 
 > In my experience, most Americans are hostile or indifferent to reading and glad to have gotten done with it in their schooldays if they did it all. They prefer the pleasures of sport, television, and various online distractions. And why not? Those things are fun and mostly painless. In an anti-intellectual country, reading books at all says more than enough about you, and you already know this because the rest of them don’t let you forget it.
 
