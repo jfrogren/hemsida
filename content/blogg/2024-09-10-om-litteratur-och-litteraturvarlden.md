@@ -29,7 +29,7 @@ Vi läser för vårt nöjes skull, menar Lorentzen. Men han menar också att nö
 
 > are often only gained at the expense of pains: the initial pain of learning to read, the pain of understanding difficult books, the pain of grasping the literary history from which books emerge, the pain of looking at something we can’t yet comprehend though we know we could, the pain of examining the nature of our own pleasure. 
 
-Och kanske, menar han, är det just detta motstånd, denna smärta som skapat en utveckling med ett litteraturfokus..
+Och kanske, menar han, är det just detta motstånd, denna smärta som skapat en utveckling med ett litteraturfokus...
 
 > that turn our eyes away from the pleasures of literature to the disenchanted explanations of political economy, to the suspicions of paranoid reading, to the preening pondering about what the books we enjoy say about us rather than what they say to us.
 
