@@ -17,7 +17,7 @@ I kommersialismens ytliga tidevarv förvandlas vi först och främst till konsum
 
 > Year after year our culture compels people to think of and understand themselves as consumers. This dreary view of life, which advertises itself as critical or at least conscious of commerce, capitalism and complicity, quickly becomes another form of marketing, and when applied to our reading habits it amounts to a distracting narcissism, looking in the mirror when our eyes should be on the page.
 
-Jag känner mig i viss mån träffad själv här, och det är nog så att alla som i intresserar sig för litteratur i dag närmast oundvikligen är offer för denna trend eller tendens. Jag tänker på hur vissa författare upphöjs och marknadsförs av sina förlag och av litteraturvärlden och blir en form av identitetsmarkörer. Och på att bärandet på en bok ute i samhället inte bara finns vid ens sidan som en källa till nöje och reflektion utan också som en accessoar att förevisa för andra. 
+Jag känner mig i viss mån träffad själv här, och det är nog så att alla som i intresserar sig för litteratur i dag närmast oundvikligen är offer för denna trend eller tendens. Jag tänker på hur vissa författare upphöjs och marknadsförs av sina förlag och av litteraturvärlden och blir en form av identitetsmarkörer. Och på att bärandet på en bok ute i samhället inte bara utgör en källa till nöje och reflektion utan också en accessoar att förevisa för andra. 
 
 När det gäller vad litteraturen kan skänka oss för lärdomar och hur den förhåller sig till sociologi skriver Lorentzen så här:
 
