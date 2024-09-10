@@ -17,7 +17,7 @@ I kommersialismens ytliga tidevarv förvandlas vi först och främst till konsum
 
 > Year after year our culture compels people to think of and understand themselves as consumers. This dreary view of life, which advertises itself as critical or at least conscious of commerce, capitalism and complicity, quickly becomes another form of marketing, and when applied to our reading habits it amounts to a distracting narcissism, looking in the mirror when our eyes should be on the page.
 
-Jag känner mig i viss mån träffad själv här, och det är nog så att alla som i intresserar sig för litteratur i dag närmast oundvikligen är offer för denna trend eller tendens. Jag tänker på hur vissa författare upphöjs och marknadsförs av sina förlag och av litteraturvärlden och blir en form av identitetsmarkörer. Och på att bärandet på en bok ute i samhället inte bara utgör en källa till nöje och reflektion utan också en accessoar att förevisa för andra. 
+Jag känner mig i viss mån träffad själv här, och det är nog så att alla som i intresserar sig för litteratur i dag närmast oundvikligen är offer för denna trend eller tendens. Jag tänker på hur vissa författare upphöjs och marknadsförs av sina förlag och av litteraturvärlden och blir en form av identitetsmarkörer. Och på bärandet på en bok ute i samhället som en accessoar att förevisa för andra, snarare en som en källa till nöje och reflektion för en själv. 
 
 När det gäller vad litteraturen kan skänka oss för lärdomar och hur den förhåller sig till sociologi skriver Lorentzen så här:
 
@@ -40,5 +40,3 @@ Och kanske, menar han, är det just detta motstånd, denna smärta...
 Det avslutande stycket i hans *long essay* är så välformulerat att jag här återger det i sin helhet:
 
 > Life is lonely, painful, and punishing. On behalf of the freelance book reviewer/London litmag office/Downtown Manhattan scene superorganism that speaks through me, I assert that reading and writing are best done in perfect solitude; that sometimes what you read and what you write should be kept a secret; that when you’re by yourself popularity doesn’t matter, nor does money, nor does fame, nor does status; that when you are a teenager and you have shut yourself into a room to read Kafka for the first time, your parents and your little sister should stop knocking on the door because you are turning into something else, something they will never understand.
-
-<!---->
