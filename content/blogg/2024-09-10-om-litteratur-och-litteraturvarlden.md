@@ -40,3 +40,5 @@ Och kanske, menar han, är det just detta motstånd, denna smärta...
 Det avslutande stycket i hans *long essay* är så välformulerat att jag här återger det i sin helhet:
 
 > Life is lonely, painful, and punishing. On behalf of the freelance book reviewer/London litmag office/Downtown Manhattan scene superorganism that speaks through me, I assert that reading and writing are best done in perfect solitude; that sometimes what you read and what you write should be kept a secret; that when you’re by yourself popularity doesn’t matter, nor does money, nor does fame, nor does status; that when you are a teenager and you have shut yourself into a room to read Kafka for the first time, your parents and your little sister should stop knocking on the door because you are turning into something else, something they will never understand.
+
+<!---->
