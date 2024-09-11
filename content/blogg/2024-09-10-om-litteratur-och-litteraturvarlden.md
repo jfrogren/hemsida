@@ -25,7 +25,7 @@ Lorentzen betraktar läsning som såväl en social som solitär aktivitet, men b
 
 > In my experience, most Americans are hostile or indifferent to reading and glad to have gotten done with it in their schooldays if they did it all. They prefer the pleasures of sport, television, and various online distractions. And why not? Those things are fun and mostly painless. In an anti-intellectual country, reading books at all says more than enough about you, and you already know this because the rest of them don’t let you forget it.
 
-Vi läser för vårt nöjes skull, menar Lorentzen. Men han menar också att nöjet att läsa litteratur inte kommer utan motstånd utan kräver sina uppoffringar då de... 
+Vi läser för vårt nöjes skull, menar Lorentzen. Men han menar också att nöjet att läsa litteratur inte kommer utan motstånd utan kräver sina uppoffringar då belöningen och tillfredställelsen läsandet skänker oss... 
 
 > are often only gained at the expense of pains: the initial pain of learning to read, the pain of understanding difficult books, the pain of grasping the literary history from which books emerge, the pain of looking at something we can’t yet comprehend though we know we could, the pain of examining the nature of our own pleasure. 
 
