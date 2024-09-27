@@ -23,7 +23,7 @@ Jag tyckte att han hade vissa poänger men kände samtidigt att han var alltför
 
 Anledningen till att just den videon setts så många gånger är tror jag att han dels använder humor i en fråga som är väldigt laddad och allvarstyngd, och samtidigt har en väldigt lugn och resonerande framtoning. Särskilt från den palestinska sidan är de röster som hörs annars ofta närmast oresonabla på grund av att de är så känslosvallande. 
 
-Även om jag upplever att palestinierna i en folklig kontext i ett västeuropeiskt land som Sverige på många sätt äger narrativet (på det sätt att det är helt oproblematiskt att gå ut med en palestinasjal, medan få vågar bära kippa eller ett halsband med davidsstjärnan synlig), så får inte palestinierna inte komma till tals på samma sätt i media eller i politiken, utan där väger Israels röst betydligt tyngre. Det är också därför videon med Bassem Youssef fått så stor spridning tror jag.
+Även om jag upplever att palestinierna i en folklig kontext i ett västeuropeiskt land som Sverige på många sätt äger narrativet (på det sätt att det är helt oproblematiskt att gå ut med en palestinasjal, medan få vågar bära kippa eller ett halsband med davidsstjärnan synlig), så får inte palestinierna komma till tals på samma sätt i media eller i politiken, utan där väger Israels röst betydligt tyngre. Det är också därför videon med Bassem Youssef fått så stor spridning tror jag.
 
 Denna video med Bassam Youssef ledde också till att Piers Morgon bjöd in honom till en längre, mer ingående och mer seriöst betonad intervju:
 
