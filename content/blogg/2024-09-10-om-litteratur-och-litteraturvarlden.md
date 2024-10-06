@@ -36,3 +36,12 @@ Och kanske, menar han, är det just detta motstånd, denna smärta som skapat en
 Det avslutande stycket i Lorentzens essä är så välformulerat att jag här återger det i sin helhet:
 
 > Life is lonely, painful, and punishing. On behalf of the freelance book reviewer/London litmag office/Downtown Manhattan scene superorganism that speaks through me, I assert that reading and writing are best done in perfect solitude; that sometimes what you read and what you write should be kept a secret; that when you’re by yourself popularity doesn’t matter, nor does money, nor does fame, nor does status; that when you are a teenager and you have shut yourself into a room to read Kafka for the first time, your parents and your little sister should stop knocking on the door because you are turning into something else, something they will never understand.
+
+### Uppdatering 5 oktober 2024
+
+Snubblade över några texter som Gästabudets representanter skrivit i ämnet. [Här](https://archive.fo/suQFx) en text av Mikaela Blomqvist och [här](https://archive.fo/07hYv) en text av Lyra Ekström Lindbäck i vilken hon skriver följande:
+
+> För de flesta av oss är det självklart att inte låta behovstillfredsställelse och avkastning styra när vi uppfostrar våra barn. Vi vill att de ska läsa, upptäcka naturen och forma meningsfulla relationer med andra. Vi vill begränsa deras skärmtid och variera deras kost. Vi vill lära dem att skilja på gott och ont och att reflektera över och uttrycka sina känslor. <br>
+> &ensp; Detta är bildning. Detta är kultivering. Det är vad som gör livet stort och sant och innerligt, det är vad det innebär att vara människa. Konsten och teorin är svår ibland, för att det är svårt att vara människa. Kulturen är berusande och bekväm ibland, för att det är underbart att leva. Alla framstående samhällen genom historien har låtit sin kultur både smaka och kosta. <br>
+> &ensp; När det kommer till våra barn finns det ingen tvekan. De ska formas till de bästa av människor. Det är bökigt och krävande, men det handlar inte bara om vad som är praktiskt. Det handlar om civilisation. 
+
