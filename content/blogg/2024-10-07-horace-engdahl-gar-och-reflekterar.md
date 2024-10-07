@@ -19,7 +19,7 @@ Sveriges Television har nyligen släppt en dokumentär om Horace Engdahl i vilke
 
 ### Om tiden och de stora mästarna
 
-> En sak står klar för en när man vandrar omkring i Italien - om man inte har tänkte på det förut - när man sitter på kvällarna och läser, och det är att de stora mästarna är inte från vår tid; den stora klangen stiger inte från det instrument som vi förfogar över.
+> En sak står klar för en när man vandrar omkring i Italien - om man inte har tänkt på det förut - när man sitter på kvällarna och läser, och det är att de stora mästarna är inte från vår tid; den stora klangen stiger inte från det instrument som vi förfogar över.
 
 ### Om gåendet och tid för att tänka
 
