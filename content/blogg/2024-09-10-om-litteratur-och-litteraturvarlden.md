@@ -45,3 +45,4 @@ Snubblade över några texter som Gästabudets representanter skrivit i ämnet. 
 > &ensp; Detta är bildning. Detta är kultivering. Det är vad som gör livet stort och sant och innerligt, det är vad det innebär att vara människa. Konsten och teorin är svår ibland, för att det är svårt att vara människa. Kulturen är berusande och bekväm ibland, för att det är underbart att leva. Alla framstående samhällen genom historien har låtit sin kultur både smaka och kosta. <br>
 > &ensp; När det kommer till våra barn finns det ingen tvekan. De ska formas till de bästa av människor. Det är bökigt och krävande, men det handlar inte bara om vad som är praktiskt. Det handlar om civilisation. 
 
+Ekström Lindbäck tycks därmed mena att en människas läsande av kvalitetslitteratur gör henne mer civiliserad. Kanske stämmer det, men jag känner mig inte helt övertygad. 
