@@ -21,7 +21,7 @@ Sveriges Television har nyligen släppt en dokumentär om Horace Engdahl i vilke
 
 > Det är lustigt med gåendet att du behöver inte programsätta gåendet, det programsätter sig själv. Det som är viktigt för dig kommer fram efter en stund när du går, det är oundvikligt. Du hör fåglarna, du hör löven som prasslar, du hör bäcken som sorlar, men du tänker egentligen inga tankar alls och så återupptar du tänkandet. Det som gåendet ger dig är någonting ovärderligt nämligen tid.
 
-### Om Svenska akademien som inrättning och dess anpassningsförmåga
+### Om Svenska Akademien som inrättning och dess anpassningsförmåga
 
 > Det finns ju säkert människor som menar att vi inte bara är en ålderdomlig inrättning utan också en föråldrad inrättning. Vi är ju historiskt sett en rest från kungamaktens dagar, från en epok som såg ganska annorlunda på förhållandet mellan samhället och litteraturen. <br> &ensp; Men samtidigt så kan man ju, om man tittar på akademiens historia under mer än 200 år också se vilken förnämlig anpassningsförmåga institutionen har haft så tillvida att den precis som en framgångsrik djurart har förmått att överleva stora förändringar i sin biotop.
 
