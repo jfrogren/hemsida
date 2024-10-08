@@ -13,10 +13,6 @@ Sveriges Television har nyligen släppt en dokumentär om Horace Engdahl i vilke
 
 > Jag betraktar djupsinne som ett slags etikettsbrott som jag ogärna begår. Sociologiska och psykologiska teorier är till för att komma till korta så att vi gång på gång konfronteras med människans komplexitet och ursinniga orimlighet, vilket väl är en och samma sak.
 
-### Om svårigheten med att tillhöra kulturvärlden 
-
-> Att tillhöra kulturvärlden är en rätt svår ekvation om man inte vill dela alla dess tillfälliga övertygelser.
-
 ### Om tiden och de stora mästarna
 
 > En sak står klar för en när man vandrar omkring i Italien - om man inte har tänkt på det förut - när man sitter på kvällarna och läser, och det är att de stora mästarna är inte från vår tid; den stora klangen stiger inte från det instrument som vi förfogar över.
@@ -24,14 +20,6 @@ Sveriges Television har nyligen släppt en dokumentär om Horace Engdahl i vilke
 ### Om gåendet och tid för att tänka
 
 > Det är lustigt med gåendet att du behöver inte programsätta gåendet, det programsätter sig själv. Det som är viktigt för dig kommer fram efter en stund när du går, det är oundvikligt. Du hör fåglarna, du hör löven som prasslar, du hör bäcken som sorlar, men du tänker egentligen inga tankar alls och så återupptar du tänkandet. Det som gåendet ger dig är någonting ovärderligt nämligen tid.
-
-### En uppväxt är till sin natur aldrig oproblematisk
-
-> Sen var ju inte min uppväxt i sin helhet alldeles oproblematisk men jag skulle vilja efterlysa den som hade en helt oproblematisk uppväxt. Det är liksom inte meningen. Då blir man nog helt odräglig tror jag.
-
-### Om sin syn på familjen 
-
-> Jag tror att den primära gruppen för mig alltid har varit familjen. Det ser jag som den viktigaste verkligheten. Det finns ingen annan gemenskap som kan mäta sig i betydelse.
 
 ### Om Svenska akademien som inrättning och dess anpassningsförmåga
 
@@ -59,3 +47,13 @@ Sveriges Television har nyligen släppt en dokumentär om Horace Engdahl i vilke
 ### Om sin syn på svensk offentlighet
 
 > Jag är främmande för rätt mycket av den opinionsbildning som vi har omkring oss. Halva innehållet i en normal tidning är främmande för mig.
+
+## Mina egna reflektioner
+
+Johan Croneman [kritiserar](https://www.dn.se/kultur/johan-croneman-varfor-haller-svt-i-rotborsten-nar-horace-ska-rentvattas/) i DN porträttet som SVT gör av Horace Engdahl då han menar att det ställs alltför få kritiska frågor i det, och att SVT därmed blir att närmast rentvå honom för hans agerande i samband med krisen i Svenska Akademien, vilket han starkt ifrågasätter motivet bakom. Det journalister som Croneman så starkt tycks reta sig på när det gäller Engdahl tror jag är just hans konsekventa vägran att be om ursäkt för sin orrubbliga lojalitet med Jean-Claude Arnault.
+
+Som jag ser det hade journalisten i dokumentären mycket väl kunnat gått på hårdare fram och pressat Engdahl när det gäller hur starkt en lojalitet egentligen sträcker sig. Just den frågan saknade jag. Om det till exempel hade varit så att Arnault otvetydigt hade varit pedofil eller barnamördare hade Engdahls lojalitet med honom då varit intakt? Det är för mig en i sammanhanget relevant frågeställning - även om den är hypotetisk - just eftersom Horace tycks värdera lojalitet så högt. Sannolikt hade Engdahl om så var fallet betraktat Arnaults agerande i sig som ett svek och därmed tagit avstånd från honomm, det är min kvalificerade gissning, men här lämnas tittaren i ovisshet.
+
+Samtidigt, om den typen av frågor hade ställts så hade dokumentären fått en annan och mindre lättsam karaktär och istället mer antagit formen av intervjuprogrammet 30 minuter. Genom att Engdahl i dokumentären nu tillåts att relativt obehindrat lägga ut texten, serveras man som (reflekterande) tittare ändå en tydlig bild av hur stark vikt Horace fäster vid lojalitet, och hur föraktfullt han ser på massans makt. Hade dokumentären varit mer kritisk hade Horace sannolikt inte tillåtits att så fritt och obehindrat mejsla fram sina resonemang, utan då hade dessa förmodligen ihärdigt avbrutits och hackats upp av journalistens kritiska frågor. 
+
+För mig var det sammantaget väldigt givande att få ta del av Engdahls tankar och formuleringskonst. Det fick mig att reflektera över mina egna förhållningssätt till dem som står mig nära och till gruppens påverkan. Samtidigt är det viktigt att ha klart för sig att Svenska Akademiens självständiga ställning gentemot det övriga samhället liksom Engdahls ekonomiska oberoende, utgör viktiga faktorer som underlättar för honom att ha den moraliskt grundade konsekventa hållning han har i frågan om Jean-Claude Arnaults skuld.  <br> &ensp; Hade Engdahl istället stått i ett större beroende till det omgivande samhället hade det nog blivit svårare för honom att hålla massan stången på samma sätt. Då hade han kanske tvingats till den underkastelse och de ursäkter som Croneman och hans gelikar så starkt tycks sukta efter, även om jag starkt tvivlar på det sett till Engdahls karaktär.
