@@ -1,6 +1,6 @@
 ---
 title: "Mircea Cărtărescu och hans engelska översättare i samtal"
-date: 2024-10-10T02:14:39+02:00
+date: 2024-10-09T02:14:39+02:00
 draft: false
 categories: ["Litteratur"]
 ---
