@@ -9,4 +9,4 @@ Mircea Cărtărescu och hans engelska översättare Sean Cotter vann Dublin Lite
 
 {{< youtube-enhanced XW9e2oMeaXc >}}
 
-I slutet av samtalet förklarade Sean Cotter att han under arbetet med romanen tagit fram en ‘reader’ i form av en pdf där han satt samman olika text- och bildfragment med koppling till Solenoid i en kollageliknande form.
+I slutet av samtalet förklarade Sean Cotter att han under arbetet med romanen tagit fram en ‘reader’ i form av en [pdf](/pdfs/the-solenoid-reader.zip) där han satt samman olika text- och bildfragment med koppling till Solenoid i en kollageliknande form.
