@@ -16,3 +16,5 @@ Isabella Nilssons understreckare:
 - 22 feb 2023: [Verklighetsavhoppare och överfulla tomrum](https://www.svd.se/a/wAnym5/isabella-nilsson-om-gestalter-som-vander-varlden-ryggen)
 - 14 nov 2022: [Bakom varje identitet står en lekstuga](https://www.svd.se/a/5BpExW/bakom-varje-identitet-star-en-lekstuga)
 - 18 feb 2022: [En sötsyrlig känsla för livets tunga frågor](https://www.svd.se/a/0GJowo/light-verse-prinsessan-dorothy-parker)
+
+För SvD:s räkning har också Karin Thunberg gjort [ett reportage](https://www.svd.se/a/zLPzor/doden-verkar-enklare-an-livet) om henne i samband med att "Nonsensprinsessans dagbok" kom ut.
