@@ -1,6 +1,6 @@
 ---
 title: "Rap är ingen konst"
-date: 2025-03-16T00:13:11+01:00
+date: 2025-03-15T00:13:11+01:00
 draft: false
 categories: ["Musik"]
 ---
