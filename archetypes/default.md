@@ -1,7 +1,8 @@
----
-title: "{{ replaceRE "[[:^alpha:]]" " " .Name | humanize }}"
-date: {{ .Date }}
-draft: false
-categories: [""]
----
++++
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
+draft = false
+categories = [""]
++++
+    
 
