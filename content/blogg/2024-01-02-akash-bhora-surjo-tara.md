@@ -9,7 +9,7 @@ Läste i NYR Daily[^1] om _Ritwik Ghatak_, en bengalisk filmskapare jag inte hö
 
 <!-- Jag har klippt ut de mest centrala citaten från NYR Daily-artikeln i anteckningsfilen till artikeln -->
 
-Sången *Akash Bhora Surjo Tara* är från Ritwik Ghataks film [Komal Gandhar](https://en.wikipedia.org/wiki/Komal_Gandhar) från 1961 och jag fick kännedom om den genom en [intervju](https://archive.fo/HuF79) med Amit Chaudhuri där han på frågan om vilket bok som senast fick honom att gråt svarar:
+Sången *Akash Bhora Surjo Tara* är från Ritwik Ghataks film [Komal Gandhar](https://en.wikipedia.org/wiki/Komal_Gandhar) från 1961 och jag fick kännedom om den genom en [intervju](https://archive.fo/HuF79) med Amit Chaudhuri där han på frågan om vilket bok som senast fick honom att gråta svarar:
 
 >  I don’t know if this counts, but that whole sequence in Ritwik Ghatak’s film Komal Gandhar, in which a character is singing “akash bhara surja tara” (“the sky full of stars and sun, / the world full of life”), brought tears to my eyes. 
 
