@@ -19,7 +19,7 @@
   </title>
 
   {{ partial "head.html" . }}
-  {{ template "_internal/opengraph.html" . }}
+  {{ partial "opengraph.html" . }}
 
 {{- if .IsHome -}}
  <meta name="description" content="{{ site.Params.Description }}" />

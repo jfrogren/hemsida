@@ -164,6 +164,9 @@ unsafe = true
  section = ["HTML", "RSS"]
  term = ["HTML", "RSS"]
 
+[security]
+  allowContent = ['.*']
+
 # builddrafts = false
 # buildFuture = true
 
