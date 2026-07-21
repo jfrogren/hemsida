@@ -6,13 +6,27 @@ draft: false
 categories: ["Film", "Musik"]
 ---
 
+Det var i Umeå sommaren 2000 i kollektivet som min dåvarande flickvän bodde i som jag första gången kom i kontakt med Nanni Morettis filmkonst. En dag när förälskelsens dimma lättat och ersatts av en plötslig rastlöshet och hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. 
 
-Silvana Mangano:
+På en dammig hylla i vardagsrummet låg ett antal vhs:er, säväl originalfilmer som inspelningsbara kassetter, varav en av den senare sorten var märkt _Caro diario_ med svagt blått bläck. Förmodligen tillhörde den en av hennes sambos; hon som ofta hängde med en italienare med en garderob och en doft omkring sig som utstrålade milanesiskt modehus snarare än västerbottnisk galleria. Deras samspel präglades av en sval elegans - på en gång avmätt och belevat - som om de delade en hemlighet omgivningen var utestängd från och jag blev aldrig riktigt klok på om det var släktskap eller en tidigare kärleksrelation som fört dem samman. Det blev heller aldrig tillfälle att fråga, om det och inte heller om vhs:ens ursprung. 
+
+Med filmen däremot fanns ingen tvekan, det var förälskelse direkt; den essäistiska tonen, humorn och - inte minst - musiken, allt var så smakfullt, snyggt och charmigt. Också det att lekfullheten stundtals bröts av ett plötsligt allvar tilltalade mig. I en samtid präglad av ironi och smarthet snarare än estetik och allvar var det befriande att filmen gav ordentligt med utrymme för ett antal poetiska scener/utflykter som fanns där mest för att skapa en stämning av melankoli eller kontemplation, utan att för den skull mynna ut i en övertydlighet som så ofta är fallet i Hollywood-produktioner.
+<!--
+Pratigheten har närmare till Jean-Pierre Léauds intellektualiserande ton än Woody Allens tycker jag. Musik- och dansscenerna bär tydliga spår av Godards dito. Och den visuella poesin kan härledas till t.ex. Pasolini (som en filmscen är en hyllning till) och Widerberg. Det finns säker en hel del andra referenser och tydliga influenser men utifrån min horisont är detta några.  
+-->
+Flera scener ur filmen har etsats sig fast. Först och främst den där Morettis karaktär dansar loss framför teven inne på ett konditori till tonerna av _Anna_ med Silvana Mangano:
+
 {{< youtube-enhanced ULN2Uy0TefA 0 101 >}}
 
-I'm your man:
+Stora delar av _Caro diario_ består av scener där Morettis karaktär åker runt på sin vespa i olika delar av Rom och får olika infall, som att utforska boendemijöerna på närmare håll med ursäkten att han håller på och reka miljöer för sin kommande film som han beskriver så här:
+
+> È la storia di un pasticcere trotzkista nell'Italia degli anni 50. È un film musicale. Un musical.
+
+En av låerna som han glider fram till är Leonard Cohens _I'm your man_ och jag tror att Cohen själv sannolikt tyckte om låtens användning i denna kontext för jag tycker att den liksom förstärker den judiskt klingande humorn i låtens text och anslag: En totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna: alltifrån någon att gå bredvid en stund i sanden till att axla fadersrollen till hennes barn: 
 {{< youtube-enhanced DqVhMJyfPNQ >}}
 
+Fortsättning följer...
+<!--
 Dreaming of knowing to dance:
 {{< youtube-enhanced 0RF0ymqMdIs >}}
 
@@ -30,3 +44,4 @@ Un pasticciere trotzkista nella Roma degli anni '50:
 
 By this river:
 {{< youtube-enhanced CA5sisIOna0 >}}
+-->
