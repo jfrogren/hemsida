@@ -4,4 +4,6 @@ og_type: article
 image: /images/joakim.png
 ---
 
-Jag är 46 år, disputerade 2023 i medicinsk vetenskap vid Lunds universitet med en avhandling om [Brukarinvolvering i forskning om åldrande och hälsa](https://portal.research.lu.se/en/publications/on-user-involvement-in-research-on-ageing-and-health). Doktorsavhandlingen bottnar i ett intresse för hur ett mer inkluderande, demokratiskt samhälle kan skapas. Men också i övertygelsen om att komplexa och problem bäst angrips genom en stor dos lyhördhet inför de olika berörda parternas upplevelse av situationen.
+Jag är 46 år och har så länge jag kan minnas haft ett brinnande intresse för konstnärliga uttryck som musik, litteratur, film och bildkonst. Den här hemsidan utgör ett sätt att bejaka den sidan av mig eftersom jag utifrån det liv jag lever och den plats jag befinner mig på sällan får tillfälle till det annars. 
+
+Jag finner stor tillfredsställelse i att läsa välgrundade, kritiska analyser av kreativt arbete som är skrivna med till synes lätt hand, och min förhoppning och ambition är att jag genom detta forum ska få tillfälle att öva mig i att skapa liknande texter själv.   
