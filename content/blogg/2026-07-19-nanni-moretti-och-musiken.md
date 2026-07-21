@@ -6,7 +6,7 @@ draft: false
 categories: ["Film", "Musik"]
 ---
 
-Det var i Umeå sommaren 2000 i kollektivet som min dåvarande flickvän bodde i som jag första gången kom i kontakt med Nanni Morettis filmkonst. En dag när förälskelsens dimma tillfälligt lättat och ersatts av en plötslig rastlöshet och hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. 
+Det var i Umeå sommaren 2000 i kollektivet där min dåvarande flickvän bodde som jag första gången kom i kontakt med Nanni Morettis filmskapande. En dag när förälskelsens dimma tillfälligt lättat och ersatts av en plötslig rastlöshet och hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. 
 
 På en dammig hylla i vardagsrummet låg ett antal vhs-band, såväl originalfilmer som inspelningsbara, varav ett av den senare sorten var märkt _Caro diario_ med svagt blått bläck. Förmodligen tillhörde den en av hennes sambos; hon som ofta hängde med en svenskitalienare med en garderob och en doft omkring sig som utstrålade milanesiskt modehus snarare än västerbottnisk galleria. Deras samspel präglades av en sval elegans - på en gång avmätt och belevat - som om de delade en hemlighet omgivningen var utestängd från och jag blev aldrig riktigt klok på om det var släktskap eller en tidigare kärleksrelation som fört dem samman. Det blev heller aldrig tillfälle att fråga, om det och inte heller om vhs-bandets ursprung. 
 
