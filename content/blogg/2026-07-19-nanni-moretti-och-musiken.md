@@ -37,7 +37,7 @@ När jag på besök hos en vän i Pordenone 2005 i en skivaffär fann det offici
 
 Med tiden har den korta skivan på bara 35 minuter blivit en av mina mest spelade. Det är något med de enkla melodierna och lättheten med vilken de framförs som gör att det är en skiva man aldrig tröttnar på. Här är ett av styckena av Piovani från skivan: 
 
-{{< youtube-enhanced W35yMfaD55A 306 372 >}}
+{{< youtube-enhanced J3GZbNy6dls >}}
 
 <!--
 Nusrat Fateh Ali Khan:
