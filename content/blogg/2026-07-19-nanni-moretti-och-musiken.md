@@ -26,7 +26,7 @@ En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och ma
 
 {{< youtube-enhanced DqVhMJyfPNQ >}}
 
-Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är starkt bidragande till varför jag kommit att omfamna den så innerligt. Utifrån mina egna musikaliska preferenser tycker jag särskilt om att Moretti även öppnar dörren till det som en smula generaliserande brukar benämnas världsmusik och låter det ta plats i filmen. Efter sitt besök i Garbatella åker huvudkaraktären nämligen vidare på sin vespa och rullar strax in på en öppen dansplats där det dansas bachata till levande orkester. Låten som spelas är "Visa para un sueño" av Juan Luis Guerra:
+Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är starkt bidragande till varför jag kommit att omfamna den så innerligt. Utifrån mina egna musikaliska preferenser tycker jag särskilt om att Moretti även öppnar dörren till det som en smula generaliserande brukar kallas världsmusik. Efter sitt besök i Garbatella åker huvudkaraktären nämligen vidare på sin vespa och rullar strax in på en öppen dansplats där det dansas bachata till levande orkester. Låten som spelas är "Visa para un sueño" av Juan Luis Guerra:
 
 {{< youtube-enhanced 0RF0ymqMdIs >}}
 
