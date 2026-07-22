@@ -14,7 +14,7 @@ Med filmen däremot fanns ingen tvekan, det var förälskelse direkt; den essäi
 
 Pratigheten har närmare till Jean-Pierre Léauds intellektualiserande ton än Woody Allens tycker jag. Musik- och dansscenerna bär tydliga spår av Godards dito. Och den visuella poesin kan härledas till t.ex. Pasolini (som en filmscen är en hyllning till) och Widerberg. Det finns säker en hel del andra referenser och tydliga influenser men utifrån min horisont är detta några.  
 -->
-Flera scener ur filmen har etsats sig fast. Först och främst den där Morettis karaktär dansar loss framför teven inne på ett konditori till tonerna av _Anna_ med Silvana Mangano:
+Flera scener ur filmen har etsats sig fast. Först och främst den där Morettis karaktär dansar loss framför teven inne på ett konditori till tonerna av _El Negro Zumbon (Anna)_[^1] med Silvana Mangano:
 
 {{< youtube-enhanced ULN2Uy0TefA 0 101 >}}
 
@@ -53,3 +53,5 @@ I _Ett rum i vår hjärtan_ (italienska: La stanza del figlio) från 2001, som M
 I en för mig personligen mycket drabbande scen går fadern, som spelas av Moretti själv, in i en skivaffär och frågar efter tips på en lämplig skiva för sin omkomne sons vän och skivhandlaren räcker då över Brian Enos _Before and after Science_, en skiva som min egen pappa hade i sin samling och som jag lyssnat mycket på i min ungdom; särskilt då det spår som sen spelas när Morettis karaktär efter inköpet promenerar längs en av Roms  trottoarer: _By this river_.
 
 {{< youtube-enhanced CA5sisIOna0 >}}
+
+[^1]:  På skivan _Since I Left You_ från 2000 har The Avalanches använt sig av melodislingan från El Negro Zumbon (Anna) i spåret [Frontier Psychiatrist](https://www.youtube.com/watch?v=qLrnkK2YEcE&t=3m42s). 
