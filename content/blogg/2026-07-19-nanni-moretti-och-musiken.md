@@ -22,7 +22,7 @@ Stora delar av _Caro diario_ består av scener där Morettis karaktär åker run
 
 > È la storia di un pasticcere trotzkista nell'Italia degli anni 50. È un film musicale. Un musical.
 
-En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och man kan ana att Cohen själv säkert gillade låtens användning i detta sammanhang, då den liksom förstärker den judiskt klingande humorn i texten och det allvar med vilket den framförs; en totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna, alltifrån någon som bara går bredvid henne en stund i sanden, till den som axlar fadersrollen till hennes barn. Det är nåt med planlösheten med vilken Morettis karaktär glider fram på vespan som liksom förstärker den närmast absurda nivån av flexibiliteten hos mannen i texten och som gör låtens användning här så lyckad: 
+En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och man kan ana att Cohen själv säkert gillade låtens användning i detta sammanhang, då den liksom förstärker den judiskt klingande humorn i texten och det allvar med vilket den framförs; en totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna, alltifrån någon som bara går bredvid henne en stund i sanden, till den som axlar fadersrollen till hennes barn. Det är något med planlösheten med vilken Morettis karaktär glider fram på vespan som liksom förstärker den närmast absurda nivån av flexibiliteten hos mannen i texten och som gör låtens användning här så lyckad: 
 {{< youtube-enhanced DqVhMJyfPNQ >}}
 
 Att musiken i _Caro diario_ bereds en stor plats är en stor anledning är ytterligare anledning till varför jag 
