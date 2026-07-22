@@ -29,7 +29,7 @@ Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i film
 
 {{< youtube-enhanced 0RF0ymqMdIs >}}
 
-Men styrkan i _Caro diario_ är att den inte bara är lättsam och underhållande utan också tillåter sig att omfamna det mer sorgsna känsloregistret, som i den drygt fem minuter långa hyllningen till Pasolini. Till tonerna av ett avsnitt av Keith Jarrets improviserade Kölnkonsert får man här följa en sorts pilgrimsfärd på vespa till platsen där Pasolini mördades och i vars närhet ett minnesmonument placerats. Färden ackompanjeras av ett alltmer stegrande crescendo i Jarretts spel tills dess Morettis karaktär kliver av vespan vid monumentet och i takt med att han blickar mot monumentet som alltmer zoomas in blir musiken åter stillsamt vacker innan den slutligen tonar ut:
+Men styrkan i _Caro diario_ är att den inte bara är lättsam och underhållande utan också tillåter sig att omfamna det mer sorgsna känsloregistret, som i den drygt fem minuter långa hyllningen till Pasolini. Till tonerna av ett avsnitt av Keith Jarrets improviserade Kölnkonsert får man här följa en sorts pilgrimsfärd på vespa till platsen där Pasolini mördades och i vars närhet ett minnesmonument placerats. Färden ackompanjeras av ett alltmer stegrande crescendo i Jarretts spel tills dess Morettis karaktär kliver av vespan och i takt med att han blickar mot monumentet som alltmer zoomas in blir musiken åter stillsamt vacker innan den slutligen tonar ut:
 
 {{< youtube-enhanced CaZfXfW6qxA >}}
 
