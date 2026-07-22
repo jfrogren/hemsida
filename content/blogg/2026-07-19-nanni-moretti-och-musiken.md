@@ -28,10 +28,12 @@ En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och ma
 Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är en av anledningarna till varför jag kommit att tycka om den så mycket. Och det jag särskilt gillar är att Morretti även låter det som slarvigt brukar kallas för världsmusik ta plats i sin film. Efter sitt besök i Garbatella far huvudkaraktären vidare till en dansplats där det dansas bachata till levande orkester och det är också en scen som dröjt sig kvar:
 
 {{< youtube-enhanced 0RF0ymqMdIs >}}
-<!--
-Pasolini:
+
+Men styrkan i _Caro diario_ är att den inte bara är lättsam och underhållande utan också tillåter sig att omfamna det mer sorgsna känsloregistret, som i den drygt fem minuter långa hyllningen till Pasolini. Till tonerna av ett avsnitt av Keith Jarrets improviserade Kölnkonsert får man här följa en sorts pilgrimsfärd på vespa till platsen där Pasolini mördades och i vars närhet ett minnesmonument placerats. Färden ackompanjeras av ett alltmer stegrande crescendo i Jarretts spel tills dess Morettis karaktär kliver av vespan vid monumentet och i takt med att han blickar mot monumentet som alltmer zoomas in blir musiken åter stillsamt vacker innan den slutligen tonar ut:
+
 {{< youtube-enhanced CaZfXfW6qxA >}}
 
+<!--
 Nicola Piovani:
 {{< youtube-enhanced W35yMfaD55A >}}
 
