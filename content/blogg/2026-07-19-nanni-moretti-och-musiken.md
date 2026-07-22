@@ -39,13 +39,16 @@ Med tiden har den korta skivan på bara 35 minuter blivit en av mina mest spelad
 
 {{< youtube-enhanced J3GZbNy6dls >}}
 
-<!--
-Nusrat Fateh Ali Khan:
-{{< youtube-enhanced DjGvnZeG2Tk >}}
+Morettis efterföljande film _Aprile_ kom inte att utgöras av en musikal om en trotskistisk konditor i 50-talets Italien, men han lyckades åtminstone skapa en slutscen i den i form av ett musikalnummer som är svårt att inte dra på mungiporna åt:
 
-Un pasticciere trotzkista nella Roma degli anni '50:
-{{< youtube-enhanced pjNt0CN6Y8E 53 >}} 
+{{< youtube-enhanced pjNt0CN6Y8E 53 >}}
 
-By this river:
+Liksom i föregångaren vänder han också blicken ut i världen musikmässigt, men den här gången österut när han låter sin protagonist närmast sväva fram till tonerna av den pakistanske sångaren Nusrat Fateh Ali Khans "Yaad-e-Nabi Gulshan Mehka":
+
+{{< youtube-enhanced DjGvnZeG2Tk 88 192>}}
+
+I _Ett rum i vår hjärtan_ (italienska: La stanza del figlio) från 2001, som Moretti vann Guldpalmen med, är den lekfulla tonen nedtonad även om den finns där stundtals. Det är ett finstämt drama som på ett trovärdigt sätt skildrar hur tillvaron för en harmonisk familj ur den övre italienska medelklassen plötsigt slås i spillror när den tonårige sonen omkommer i en dykolycka, men hur de ändå tillsammans tar sig vidare. 
+
+I en för mig personligen mycket drabbande scen går fadern, som spelas av Moretti själv, in i en skivaffär och frågar efter tips på en lämplig skiva för sin omkomne sons vän och skivhandlaren räcker då över Brian Enos _Before and after Science_, en skiva som min egen pappa hade i sin samling och som jag lyssnat mycket på i min ungdom; särskilt då det spår som sen spelas när Morettis karaktär efter inköpet promenerar längs en av Roms  trottoarer: _By this river_.
+
 {{< youtube-enhanced CA5sisIOna0 >}}
--->
