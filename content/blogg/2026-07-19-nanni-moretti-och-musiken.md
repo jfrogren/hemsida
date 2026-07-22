@@ -18,7 +18,7 @@ Flera scener ur filmen har etsats sig fast. Först och främst den där Morettis
 
 {{< youtube-enhanced ULN2Uy0TefA 0 101 >}}
 
-Stora delar av _Caro diario_ består av scener där Morettis karaktär åker runt på sin vespa i olika delar av Rom och får olika infall, som att utforska boendemijöerna på närmare håll med ursäkten att han håller på och reka miljöer för sin kommande film som han beskriver så här:
+Stora delar av _Caro diario_ består av scener där Morettis karaktär åker runt på sin vespa i Rom och får olika infall, som att utforska boendemijöerna i stadsdelen Garbatella på närmare håll med ursäkten att han håller på och reka miljöer för sin kommande film som han beskriver så här:
 
 > È la storia di un pasticcere trotzkista nell'Italia degli anni 50. È un film musicale. Un musical.
 
