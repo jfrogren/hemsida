@@ -22,10 +22,10 @@ Stora delar av _Caro diario_ består av scener där Morettis karaktär åker run
 
 > È la storia di un pasticcere trotzkista nell'Italia degli anni 50. È un film musicale. Un musical.
 
-En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och man kan ana att Cohen själv säkert gillade låtens användning i detta sammanhang, då den liksom förstärker den judiskt klingande humorn i texten och det allvar med vilket den framförs; en totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna, alltifrån någon som bara går bredvid henne en stund i sanden, till den som axlar fadersrollen till hennes barn. Det är något med planlösheten med vilken Morettis karaktär glider fram på vespan som liksom förstärker den närmast absurda nivån av flexibiliteten hos mannen i texten och som gör låtens användning här så lyckad: 
+En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och man kan ana att Cohen själv säkert gillade låtens användning i detta sammanhang då den liksom förstärker den judiskt klingande humorn i texten och det allvar med vilket den framförs; om en totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna, alltifrån någon som bara går bredvid henne en stund i sanden till den som axlar fadersrollen till hennes barn. Det är något med planlösheten med vilken Morettis karaktär glider fram på vespan som liksom förstärker den närmast absurda nivån av flexibiliteten hos mannen i texten och som gör låtens användning här så lyckad: 
 {{< youtube-enhanced DqVhMJyfPNQ >}}
 
-Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är en av anledningarna till varför jag kommit att tycka om den så mycket. Och det jag särskilt gillar är att Morretti även låter det som slarvigt brukar kallas för världsmusik ta plats i sin film. Efter sitt besök i Garbatella far huvudkaraktären vidare till en dansplats där det dansas bachata till levande orkester och det är också en scen som dröjt sig kvar:
+Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är starkt bidragande till varför jag kommit att omfamna den så innerligt. Utifrån mina egna musikaliska preferenser tycker jag särskilt om att Morretti även öppnar dörren till det som en smula generaliserande brukar benämnas världsmusik och låter det ta plats i filmen. Efter sitt besök i Garbatella åker huvudkaraktären nämligen vidare på sin vespa och rullar strax in på en öppen dansplats där det dansas bachata till levande orkester. Låten som spelas är "Visa para un sueño" av Juan Luis Guerra:
 
 {{< youtube-enhanced 0RF0ymqMdIs >}}
 
@@ -47,7 +47,7 @@ Liksom i föregångaren vänder han också blicken ut i världen musikmässigt, 
 
 {{< youtube-enhanced DjGvnZeG2Tk 88 192>}}
 
-I _Ett rum i vår hjärtan_ (italienska: La stanza del figlio) från 2001, som Moretti vann Guldpalmen med, är den lekfulla tonen nedtonad även om den finns där stundtals. Det är ett finstämt drama som på ett trovärdigt sätt skildrar hur tillvaron för en harmonisk familj ur den övre italienska medelklassen plötsigt slås i spillror när den tonårige sonen omkommer i en dykolycka, men hur de ändå tillsammans tar sig vidare. 
+I _Ett rum i vår hjärtan_ (italienska: La stanza del figlio) från 2001, som Moretti vann Guldpalmen med, är den lekfulla tonen nedtonad även om den finns där stundtals. Det är ett finstämt drama som på ett trovärdigt sätt skildrar hur tillvaron för en harmonisk familj ur den övre medelklassen plötsigt slås i spillror när den tonårige sonen omkommer i en dykolycka, men hur de ändå tillsammans tar sig vidare. 
 
 I en för mig personligen mycket drabbande scen går fadern, som spelas av Moretti själv, in i en skivaffär och frågar efter tips på en lämplig skiva för sin omkomne sons vän och skivhandlaren räcker då över Brian Enos _Before and after Science_, en skiva som min egen pappa hade i sin samling och som jag lyssnat mycket på i min ungdom; särskilt då det spår som sen spelas när Morettis karaktär efter inköpet promenerar längs en av Roms  trottoarer: _By this river_.
 
