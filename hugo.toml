@@ -45,30 +45,30 @@ unsafe = true
 
 [menu]
 
-  [[menu.main]]
-  name = "Publicerat"
-  url = "/publicerat"
-  weight = 2.0
+ # [[menu.main]]
+ # name = "Publicerat"
+ # url = "/publicerat"
+ # weight = 2.0
+
+ # [[menu.main]]
+ # name = "Resurser"
+ # url = "/resurser"
+ # weight = 3.0
+
+ # [[menu.main]]
+ # name = "Undervisning"
+ # url = "/undervisning"
+ # weight = 4.0
+
+ # [[menu.main]]
+ # name = "Aktuellt"
+ # url = "/aktuellt"
+ # weight = 5.0
 
   [[menu.main]]
-  name = "Resurser"
-  url = "/resurser"
-  weight = 3.0
-
-  [[menu.main]]
-  name = "Undervisning"
-  url = "/undervisning"
-  weight = 4.0
-
-  [[menu.main]]
-  name = "Aktuellt"
-  url = "/aktuellt"
-  weight = 5.0
-
-  [[menu.main]]
-  name = "Blogg"
+  name = "Alla blogginlägg"
   url = "/blogg"
-  weight = 6.0
+  weight = 1.0
 
 [permalinks]
 #blog = "/blogg/arkiv/:year/:month/:day/:slug"
