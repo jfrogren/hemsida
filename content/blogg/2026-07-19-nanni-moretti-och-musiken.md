@@ -33,13 +33,13 @@ Men styrkan i _Caro diario_ är att den inte bara är lättsam och underhålland
 
 {{< youtube-enhanced CaZfXfW6qxA >}}
 
-När jag på besök hos en vän i Pordenone 2005 i en skivaffär fann det officiella soundtracket till _Caro diario_ blev jag förvånad att inga av de låtar jag förknippade med filmen fanns med. När jag plockade upp cd:n bestod den bara av komponerad musik av en viss Nicola Piovani. Från början var det känslan inte bara förvåning utan även en besvikelse eftersom jag hoppats kunna få all musik jag förknippade med filmen samlad. Men vid lyssning hemmavid blev jag snart snarare tacksam över att uppmärksammas på musik i filmen som delvis gått mig förbi, sannolikt för att den så skickligt smälte in i filmens olika scener. 
+När jag på besök hos en vän i Pordenone sommaren 2006 i en skivaffär fann det officiella soundtracket till _Caro diario_ blev jag förvånad att inga av de låtar jag förknippade med filmen fanns med. När jag plockade upp cd:n bestod den bara av komponerad musik av en viss Nicola Piovani. Känslan var inte bara förvåning utan även en viss besvikelse eftersom jag hoppats kunna få all musik jag förknippade med filmen samlad på ett ställe. (Det kanske bör tilläggas att det här var tiden innan Spotify och YouTube fått sitt genombrott.) Men vid lyssning hemmavid blev jag snart snarare tacksam över att uppmärksammas på musik i filmen som delvis gått mig förbi, sannolikt för att den så skickligt smälte in i filmens olika scener. 
 
-Med tiden har den korta skivan på bara 35 minuter blivit en av mina mest spelade. Det är något med de enkla melodierna och lättheten med vilken de framförs som gör att det är en skiva man aldrig tröttnar på. Här är ett av styckena av Piovani från skivan: 
+Med tiden har den korta skivan på bara 35 minuter blivit en av mina mest spelade. Det är något med de enkla melodierna och lättheten med vilken de framförs som gör att det är en skiva jag aldrig tröttnar på. Här är ett av styckena av Piovani från skivan: 
 
 {{< youtube-enhanced J3GZbNy6dls >}}
 
-Morettis efterföljande film _Aprile_ kom inte att utgöras av en musikal om en trotskistisk konditor i 50-talets Italien, men han lyckades åtminstone skapa en slutscen i den i form av ett musikalnummer som är svårt att inte dra på mungiporna åt:
+Morettis efterföljande film _Aprile_ kom inte att utgöras av en musikal om en trotskistisk konditor i 50-talets Italien såsom protagonisten i _Caro diario_ skämtsamt låter påskina, men han lyckades åtminstone skapa en slutscen i _Aprile_ i form av ett musikalnummer som stämmer väl överens med beskrivningen (även om det är svårt att uttala sig om konditorns ideologiska hemvist):
 
 {{< youtube-enhanced pjNt0CN6Y8E 53 >}}
 
