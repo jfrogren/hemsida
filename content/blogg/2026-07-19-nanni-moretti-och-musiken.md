@@ -25,11 +25,10 @@ Stora delar av _Caro diario_ består av scener där Morettis karaktär åker run
 En av låtarna som han glider fram till är Leonard Cohens _I'm your man_ och man kan ana att Cohen själv säkert gillade låtens användning i detta sammanhang, då den liksom förstärker den judiskt klingande humorn i texten och det allvar med vilket den framförs; en totalt kompromissvillig man som kan tänka sig att axla vilken roll som helst för sin kvinna, alltifrån någon som bara går bredvid henne en stund i sanden, till den som axlar fadersrollen till hennes barn. Det är något med planlösheten med vilken Morettis karaktär glider fram på vespan som liksom förstärker den närmast absurda nivån av flexibiliteten hos mannen i texten och som gör låtens användning här så lyckad: 
 {{< youtube-enhanced DqVhMJyfPNQ >}}
 
-Att musiken i _Caro diario_ bereds en stor plats är en stor anledning är ytterligare anledning till varför jag 
-<!--
-Dreaming of knowing to dance:
-{{< youtube-enhanced 0RF0ymqMdIs >}}
+Att musiken i _Caro diario_ är så välvald och bereds en så stor plats i filmen är en av anledningarna till varför jag kommit att tycka om den så mycket. Och det jag särskilt gillar är att Morretti även låter det som slarvigt brukar kallas för världsmusik ta plats i sin film. Efter sitt besök i Garbatella far huvudkaraktären vidare till en dansplats där det dansas bachata till en levande orkester och det är också en sen som dröjt sig kvar:
 
+{{< youtube-enhanced 0RF0ymqMdIs >}}
+<!--
 Pasolini:
 {{< youtube-enhanced CaZfXfW6qxA >}}
 
