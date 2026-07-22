@@ -6,7 +6,7 @@ draft: false
 categories: ["Film", "Musik"]
 ---
 
-Det var i Umeå sommaren 2000 i kollektivet där min dåvarande flickvän bodde som jag första gången kom i kontakt med Nanni Morettis filmskapande. En dag när förälskelsens dimma tillfälligt lättat och ersatts av en plötslig rastlöshet och hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. På en dammig hylla i vardagsrummet låg ett antal vhs-band, såväl originalfilmer som inspelningsbara, varav ett av den senare sorten var märkt _Caro diario_ med svagt blått bläck. 
+Det var i Umeå sommaren 2000 i kollektivet där min dåvarande flickvän bodde som jag första gången kom i kontakt med Nanni Morettis filmkonst. En dag när förälskelsens täta dimma tillfälligt lättat och ersatts av en plötslig  hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. På en dammig hylla i vardagsrummet låg ett antal vhs-band, såväl originalfilmer som inspelningsbara kassetter varav en var märkt _Caro diario_ med svagt blått bläck. 
 
 <!--Förmodligen tillhörde den en av hennes sambos; hon som ofta hängde med en svenskitalienare med en garderob och en doft omkring sig som utstrålade milanesiskt modehus snarare än västerbottnisk galleria. Deras samspel präglades av en sval elegans - på en gång avmätt och belevat - som om de delade en hemlighet omgivningen var utestängd från och jag blev aldrig riktigt klok på om det var släktskap eller en tidigare kärleksrelation som fört dem samman. Det blev heller aldrig tillfälle att fråga, om det och inte heller om vhs-bandets ursprung. 
 
@@ -33,10 +33,13 @@ Men styrkan i _Caro diario_ är att den inte bara är lättsam och underhålland
 
 {{< youtube-enhanced CaZfXfW6qxA >}}
 
-<!--
-Nicola Piovani:
-{{< youtube-enhanced W35yMfaD55A >}}
+När jag på besök hos en vän i Pordenone 2005 i en skivaffär fann det officiella soundtracket till _Caro diario_ blev jag förvånad att inga av de låtar jag förknippade med filmen fanns med. När jag plockade upp cd:n bestod den bara av komponerad musik av en viss Nicola Piovani. Från början var det känslan inte bara förvåning utan även en besvikelse eftersom jag hoppats kunna få all musik jag förknippade med filmen samlad. Men vid lyssning hemmavid blev jag snart snarare tacksam över att uppmärksammas på musik i filmen som delvis gått mig förbi, sannolikt för att den så skickligt smälte in i filmens olika scener. 
 
+Med tiden har den korta skivan på bara 35 minuter blivit en av mina mest spelade. Det är något med de enkla melodierna och lättheten med vilken de framförs som gör att det är en skiva man aldrig tröttnar på. Här är ett av styckena av Piovani från skivan: 
+
+{{< youtube-enhanced W35yMfaD55A 306 372 >}}
+
+<!--
 Nusrat Fateh Ali Khan:
 {{< youtube-enhanced DjGvnZeG2Tk >}}
 
