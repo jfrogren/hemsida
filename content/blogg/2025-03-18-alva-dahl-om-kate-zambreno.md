@@ -5,5 +5,5 @@ draft: false
 categories: ["Litteratur"]
 ---
 
-Alva Dahl har skrivit en [understreckare](/pdfs/dahl2025.pdf) om den amerikanska författaren Kate Zambreno med anledning av att hennes "Book of mutter" nyligen har kommit ut i svensk översättning på Ellerstöms och då med titeln "Mutter". Boken är enligt Dahl "en genreblandning av uppsats, essä, roman och självbiografi" i vilken Zambreno reflekterar över relationen till en mor som tynar bort och dör.
+Alva Dahl, som jag är lite fascinerad av både som författare och person, har skrivit en [understreckare](/pdfs/dahl2025.pdf) om den amerikanska författaren Kate Zambreno med anledning av att hennes "Book of mutter" nyligen har kommit ut i svensk översättning på Ellerstöms och då med titeln "Mutter". Boken är enligt Dahl "en genreblandning av uppsats, essä, roman och självbiografi" i vilken Zambreno reflekterar över relationen till en mor som tynar bort och dör. Det låter som en bok "up my alley".
 
