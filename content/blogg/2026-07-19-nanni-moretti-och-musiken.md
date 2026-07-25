@@ -6,7 +6,7 @@ draft: false
 categories: ["Film", "Musik"]
 description: "I Umeå 2000 upptäckte jag Nanni Morettis _Caro diario_. Filmens musik och scener har etsat sig fast i minnet, särskilt vespaåkandet i Rom."
 images:
-  - "https://youtube.comULN2Uy0TefA/maxresdefault.jpg"
+  - "https://img.youtube.com/vi/ULN2Uy0TefA/maxresdefault.jpg"
 ---
 
 Det var i Umeå sommaren 2000 i kollektivet där min dåvarande flickvän bodde som jag första gången kom i kontakt med Nanni Morettis filmkonst. En dag när förälskelsens täta dimma tillfälligt lättat och ersatts av en plötslig  hunger gick jag på upptäcksfärd i radhuset där hon bodde medan hon ordnade något att äta. På en dammig hylla i vardagsrummet låg ett antal vhs-band, såväl originalfilmer som inspelningsbara kassetter varav en var märkt _Caro diario_ med svagt blått bläck. 
