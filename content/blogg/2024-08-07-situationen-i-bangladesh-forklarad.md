@@ -2,7 +2,7 @@
 title: "Situationen i Bangladesh förklarad"
 date: 2024-08-07T18:14:55+02:00
 draft: false
-categories: ["Politik", "Bangladesh"]
+categories: ["Politik"]
 description: "Tazreena Sajjad sammanfattar Bangladeshs aktuella situation och orsakerna bakom premiärministerns avgång."
 ---
 

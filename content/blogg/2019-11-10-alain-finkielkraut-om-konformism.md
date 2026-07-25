@@ -2,7 +2,7 @@
 title: "Alain Finkielkraut om konformism"
 date: 2019-11-10T16:03:12+02:00
 draft: false
-categories: ["Alain Finkielkraut", "Frankrike", "Litteratur"]
+categories: ["Frankrike", "Litteratur"]
 description: "Finkielkraut beskriver hur conformism hindrar oss från att skapa ett eget jag. Att våga bryta tryggheten är början på en spännande resa."
 ---
 

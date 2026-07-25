@@ -2,7 +2,7 @@
 title: "Flugan i litteraturen"
 date: 2019-06-18T18:34:32+02:00
 draft: false
-categories: ["Litteratur", "Nina Bouraoui", "Marguerite Duras"]
+categories: ["Litteratur"]
 description: "Flugan symboliserar det okontrollerade i litteraturen, som visas av Bouraoui och Duras i sina verk."
 ---
 

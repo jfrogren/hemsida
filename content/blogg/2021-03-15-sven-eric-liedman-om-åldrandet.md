@@ -2,7 +2,7 @@
 title: "Sven-Eric Liedman om att åldras"
 date: 2021-03-15T14:44:06+01:00
 draft: false
-categories: ["Sven-Eric Liedman", "Åldrande", "Essä", "Politik"]
+categories: ["Åldrande", "Essä", "Politik"]
 images:
   - "/images/sven-eric-liedman.png"
 description: "Sven-Eric Liedman skriver i DN om att åldras och tipsar om boken '规格A History of Old Age'规格."

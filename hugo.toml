@@ -70,6 +70,11 @@ unsafe = true
   url = "/blogg"
   weight = 1.0
 
+  [[menu.main]]
+  name = "Kategorier"
+  url = "/categories"
+  weight = 2.0
+
 [permalinks]
 #blog = "/blogg/arkiv/:year/:month/:day/:slug"
 

@@ -2,7 +2,7 @@
 title: "Postanvisningen"
 date: 2023-10-30T11:22:41+01:00
 draft: false
-categories: ["Film", "Senegal", "Frankrike", "Sembène Ousmane"]
+categories: ["Film", "Frankrike"]
 images:
   - "/images/postanvisningen.png"
 description: "Ibrahim, en godhjärtad patriark, kämpar i Dakar för att hämta ut en postanvisning. Hans jakt på ID-handlingar avslöjar korruption och girighet."

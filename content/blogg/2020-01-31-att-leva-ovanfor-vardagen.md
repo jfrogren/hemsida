@@ -2,7 +2,7 @@
 title: "Att leva ovanför vardagen"
 date: 2020-01-31T12:10:22+02:00
 draft: false
-categories: ["Sofia Lily Jönsson", "Katarina Frostenson", "Recension", "Litteratur", "Kulturdebatt"]
+categories: ["Litteratur"]
 description: "Sofia Lily Jönssons recension av Katarina Frostenssons bok _K_ belyser författarens distans till vardagen med insiktsfulla observationer."
 ---
 

@@ -2,7 +2,7 @@
 title: "Heideggers 'i-världen-varo' förklarat"
 date: 2021-07-27T15:06:38+02:00
 draft: false
-categories: ["Martin Heidegger", "Filosofi", "Litteratur", "Psykologi"]
+categories: ["Filosofi", "Litteratur"]
 description: "Heideggers begrepp *i-världen-varo* beskriver hur människan är djupt förankrad i ett meningsfullt sammanhang, inte bara i objektiva data."
 ---
 

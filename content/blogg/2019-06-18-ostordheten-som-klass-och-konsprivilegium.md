@@ -2,7 +2,7 @@
 title: "Ostördheten som klass- och könsprivilegium"
 date: 2019-06-18T18:28:29+02:00
 draft: false
-categories: ["Nina Bouraoui", "Virginia Woolf", "Litteratur"]
+categories: ["Litteratur"]
 description: "Nina Bouraoui och Virginia Woolf belyser hur flugor och störningar hindrar ostörd kreativitet, ett privilegium kopplat till klass och kön."
 ---
 

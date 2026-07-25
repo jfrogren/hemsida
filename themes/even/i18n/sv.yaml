@@ -53,50 +53,50 @@ rewardWechat:
   other: "wechat"
 
 wordCount:
-  one: "{{ .Count }} word"
-  other: "{{ .Count }} words"
+  one: "{{ .Count }} ord"
+  other: "{{ .Count }} ord"
 
 readingTime:
-  one: "{{ .Count }} min read"
-  other: "{{ .Count }} mins read"
+  one: "{{ .Count }} minuts läsning"
+  other: "{{ .Count }} minuters läsning "
 
 outdatedInfoWarningBefore:
-  other: "[NOTE] Updated "
+  other: "[NOTE] uppdaterad "
 
 outdatedInfoWarningAfter:
   other: ". This article may have outdated content or subject matter."
 
 # ===== content license =====
 author:
-  other: "Author"
+  other: "Författare"
 
 lastMod:
-  other: "LastMod"
+  other: "Senast ändrad"
 
 markdown:
   other: "Markdown"
 
 seeMarkDown:
-  other: "The Markdown version »"
+  other: "Markdownversionen »"
 
 license:
-  other: "License"
+  other: "Licens"
 
 # ===== counter =====
 archiveCounter:
-  one: "{{ .Count }} Post In Total"
-  other: "{{ .Count }} Posts In Total"
+  one: "{{ .Count }} bloggpost totalt"
+  other: "{{ .Count }} bloggposter totalt"
 
 tagCounter:
-  one: "{{ .Count }} Tag In Total"
-  other: "{{ .Count }} Tags In Total"
+  one: "{{ .Count }} tagg totalt"
+  other: "{{ .Count }} taggar totalt"
 
 zeroTagCounter:
-  other: "No tags"
+  other: "Inga taggar"
 
 categoryCounter:
-  one: "{{ .Count }} Category In Total"
-  other: "{{ .Count }} Categories In Total"
+  one: "{{ .Count }} kategori totalt"
+  other: "{{ .Count }} kategorier totalt"
 
 zeroCategoryCounter:
-  other: "No categories"
+  other: "Inga kategorier"

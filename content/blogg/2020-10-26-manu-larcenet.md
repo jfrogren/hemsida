@@ -2,7 +2,7 @@
 title: "Manu Larcenet"
 date: 2020-10-26T00:10:13+01:00
 draft: false
-categories: ["Litteratur", "Serier", "Bildkonst", "Manu Larcenet", "Charlie Hebdo", "Frankrike"]
+categories: ["Litteratur", "Bildkonst", "Frankrike"]
 images:
   - "/images/le-combat-ordinaire.jpg"
 description: "Manu Larcenet har skapat seriealbumet *Le Combat Ordinaire*, som utforskar psykisk sjukdom och har även filmatiserats."

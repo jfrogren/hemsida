@@ -2,7 +2,7 @@
 title: "David Grossman-dokumentär"
 date: 2023-11-05T08:51:34+01:00
 draft: false
-categories: ["David Grossman", "Litteratur", "Israel"]
+categories: ["Litteratur"]
 description: "Se videoklippet tillhörande inlägget 'David Grossman-dokumentär' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/apJo8FO1iEY/maxresdefault.jpg"

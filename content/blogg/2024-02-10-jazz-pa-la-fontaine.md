@@ -2,7 +2,7 @@
 title: "Jazz på La Fontaine"
 date: 2024-02-10T00:59:06+01:00
 draft: false
-categories: ["Musik", "Jazz", "Konsert"]
+categories: ["Musik", "Jazz"]
 description: "Anders Gaardmand, Henrik Gunde, Daniel Franck och Frands Rifbjerg uppträdde på La Fontaine. Se videon!"
 images:
  - "/images/la-fontaine.jpg"

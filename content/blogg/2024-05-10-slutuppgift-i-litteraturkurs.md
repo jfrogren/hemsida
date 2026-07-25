@@ -2,7 +2,7 @@
 title: "Slutuppgift i litteraturkurs"
 date: 2024-05-10T04:21:49+02:00
 draft: false
-categories: ["Litteratur", "USA", "Philip Roth"]
+categories: ["Litteratur", "USA"]
 description: "Analys av Philip Roths roman '规格Nemesis'规格 som slutuppgift i litteraturvetenskaplig kurs."
 ---
 

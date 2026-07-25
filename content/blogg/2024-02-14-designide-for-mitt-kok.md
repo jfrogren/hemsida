@@ -2,7 +2,7 @@
 title: "Designidé för mitt kök"
 date: 2024-02-14T13:32:32+01:00
 draft: false
-categories: ["Arkitektur", "Heminredning"]
+categories: ["Arkitektur"]
 description: "Se videoklippet tillhörande inlägget 'Designidé för mitt kök' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/ZiMDn9qXIE0/maxresdefault.jpg"

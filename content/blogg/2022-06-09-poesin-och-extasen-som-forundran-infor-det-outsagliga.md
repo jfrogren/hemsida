@@ -2,7 +2,7 @@
 title: "Poesin och extasen som förundran inför det outsägliga"
 date: 2022-06-09T14:19:39+02:00
 draft: false
-categories: ["Poesi", "Litteratur", "Lasse Söderberg"]
+categories: ["Poesi", "Litteratur"]
 description: "Paul van Ostaijen kopplar poesi till extas, likt Miłosz som beskriver nattens resor som extatiska upplevelser."
 ---
 

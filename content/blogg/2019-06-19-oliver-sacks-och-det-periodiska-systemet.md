@@ -2,7 +2,7 @@
 title: "Oliver Sacks och det periodiska systemet"
 date: 2019-06-19T18:43:09+02:00
 draft: false
-categories: ["Oliver Sacks", "Litteratur", "Primo Levi", "Essä"]
+categories: ["Litteratur", "Essä"]
 description: "Oliver Sacks blev fascinerad av det periodiska systemet som barn, vilket väckte tankar om att sammanfatta universum i modeller och representationer."
 ---
 

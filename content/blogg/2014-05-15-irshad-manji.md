@@ -2,7 +2,7 @@
 title: "Irshad Manji"
 date: 2014-05-15T17:14:44+01:00
 draft: false
-categories: ["Politik", "Islam", "Irshad Manji", "Debatt"]
+categories: ["Politik", "Islam"]
 description: "Mehdi Hassan diskuterar med reformistiska Irshad Manji i Head to Head. Missa inte andra avsnitt av detta intressanta program!"
 ---
 

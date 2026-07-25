@@ -2,7 +2,7 @@
 title: "Lars Gustafsson om detaljer och sammanhang"
 date: 2019-08-08T23:10:11+02:00
 draft: false
-categories: ["Lars Gustafsson", "Filosofi", "Litteratur", "Uppmärksamhet"]
+categories: ["Filosofi", "Litteratur"]
 images:
   - "/images/spegelskärvor.png"
 description: "Lars Gustafsson hyllar detaljer och naturiakttagelser i _Spegelskärvor_, där skärvorna speglar varandra och skapar djupare insikter."
