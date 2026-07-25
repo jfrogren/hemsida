@@ -4,7 +4,7 @@ date: 2026-07-19T12:00:00+02:00
 slug: "nanni-moretti-och-musiken"
 draft: false
 categories: ["Film", "Musik"]
-description: "I Umeå 2000 upptäckte jag Nanni Morettis _Caro diario_. Filmens musik och scener har etsat sig fast i minnet, särskilt vespaåkandet i Rom."
+description: "I Umeå 2000 upptäckte jag Nanni Morettis 'Caro diario'. Filmens musik och scener har etsat sig fast i minnet, särskilt vespaåkandet i Rom."
 images:
   - "https://img.youtube.com/vi/ULN2Uy0TefA/maxresdefault.jpg"
 ---
