@@ -5,6 +5,9 @@ draft: false
 categories: ["Musik"]
 og_type: article
 image: /images/arooj-aftab.jpg
+images:
+  - "https://img.youtube.com/vi/FpDQiLY9qZU/maxresdefault.jpg"
+description: "Arooj Aftabs konsert i Malmö bjöd på en hypnotisk mix av urdu och jazz. Publiken var hänförd av hennes melankoliska röst och stämning."
 ---
 
 Var på konsert i kväll inrymd i ett tält modell större som placerats i slottsparken, bara några hundra meter ifrån där jag bor. Det var den pakistansk-amerikanska artisten [Arooj Aftab](https://archive.is/wnFwA) som uppträdde och i Malmöfestivalens [programblad](https://archive.is/lxB0L) lät hon som det mest spännande inslaget i årets upplaga.

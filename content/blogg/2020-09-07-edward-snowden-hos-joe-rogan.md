@@ -2,6 +2,9 @@
 title: "Edward Snowden hos Joe Rogan"
 date: 2020-09-07T23:35:44+02:00
 draft: false
+images:
+  - "https://img.youtube.com/vi/efs3QRr8LWw/maxresdefault.jpg"
+description: "Joe Rogans samtal med Edward Snowden bjuder på en fängslande berättelse om hans liv i Ryssland och framtida upprättelse."
 ---
 
 I kväll lyssnade jag på ett samtal mellan Joe Rogan och Edward Snowden.

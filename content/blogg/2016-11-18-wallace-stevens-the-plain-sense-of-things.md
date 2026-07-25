@@ -3,6 +3,7 @@ title: "The Plain Sense of Things"
 date: 2016-11-18T11:29:03+02:00
 draft: false
 categories: ["Litteratur", "Poesi"]
+description: "Efter lövens fall återvänder vi till tingens enkla mening, där föreställningar försvunnit och tystnaden råder."
 ---
 
 > After the leaves have fallen, we return  

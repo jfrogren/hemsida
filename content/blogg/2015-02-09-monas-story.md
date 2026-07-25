@@ -2,6 +2,7 @@
 title: "Mona's story"
 date: 2015-02-09T11:29:03+02:00
 draft: false
+description: "Mona växlar mellan manlig och kvinnlig identitet med lätthet, vilket fascinerar hennes vänner och grannar i Delhi."
 ---
 
 Urvashi Butalia [skriver](https://archive.fo/Uoi6y) i Granta om hijiran Mona som, om jag minns rätt, också utgör en av huvudpersonerna i Arundhati Roys nya roman:

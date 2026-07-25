@@ -6,6 +6,7 @@ publishdate: "2021-12-19"
 host: "Duke University"
 duration: 6652800
 syllabus: "https://www.kieranhealy.org/files/teaching/gradtheory.pdf"
+description: "Kursen ger en intensiv introduktion till centrala teman inom socialteori för förstaårsstudenter på sociologidoktorandprogrammet."
 ---
 
 This graduate-level course is an intensive introduction to some main themes in social theory. It is the first of a two-part sequence required of first year Ph.D students in the sociology department.

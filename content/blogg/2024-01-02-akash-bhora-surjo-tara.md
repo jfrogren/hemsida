@@ -3,6 +3,7 @@ title: "Akash Bhora Surjo Tara"
 date: 2024-01-02T02:16:55+01:00
 draft: false
 categories: ["Rabindranath Tagore", "Musik", "Film", "Bengali"]
+description: "Ritwik Ghatak, en svartsynt bengalisk filmskapare, jämförs med Satyajit Ray. Sången '规格Akash Bhora Surjo Tara'规格 från *Komal Gandhar* berör djupt."
 ---
 
 Läste i NYR Daily[^1] om _Ritwik Ghatak_, en bengalisk filmskapare jag inte hört talas om tidigare. Artikelförfattaren kontrasterar honom mot Satyajit Ray och dennes "glowing Apu Trilogy" eftersom han anser Ghatak betydligt mer svartsynt. 

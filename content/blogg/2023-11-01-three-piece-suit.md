@@ -3,6 +3,7 @@ title: "Three Piece Suit"
 date: 2023-11-01T13:19:50+01:00
 draft: false
 categories: ["Musik", "Reggae", "Trinity", "Jamaica", "Dancehall", "Marcia Aitken", "Althea and Donna"]
+description: "Trinitys spår, särskilt *Three Piece Suit*, är inspirerat av Marcia Aitkens *I'm Still in Love with You* och påminner om Althea & Donnas *Uptown Top Ranking*."
 ---
 
 På plattan [Joe Gibbs Productions](https://soundsoftheuniverse.com/sjr/product/joe-gibbs-roots-culture-djs-and-the-birth-of-dancehall) upptäckte jag flera fina spår av gruppen Trinity, varav det bästa tycker jag var följande: 

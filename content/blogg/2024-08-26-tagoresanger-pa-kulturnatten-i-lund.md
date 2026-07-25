@@ -3,6 +3,9 @@ title: "Tagoresånger på Kulturnatten i Lund"
 date: 2024-08-26T22:39:19+02:00
 draft: false
 categories: ["Musik", "Bengali", "Rabindranath Tagore"]
+images:
+  - "/images/tagore-purano-sei-diner-kotha.png"
+description: "Tagore fångar nostalgi och glädje i sina verk. Teman om minnen, kärlek och livets skönhet genomsyrar hans poesi."
 ---
 
 ### 1. Purano Shei Diner Kotha (1885)

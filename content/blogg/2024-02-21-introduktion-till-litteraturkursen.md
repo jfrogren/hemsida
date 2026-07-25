@@ -3,6 +3,7 @@ title: "Introduktion till litteraturkursen"
 date: 2024-02-21T07:07:35+01:00
 draft: true
 categories: ["Litteratur", "Medicin"]
+description: "Litteraturkursen inleddes med boktips och begrepp som litteraritet och narrativ medicin. Tolkning av texter kräver strategier och kontexter."
 ---
 ### Några litteraturtips och grundläggande begrepp
 

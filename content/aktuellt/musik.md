@@ -5,6 +5,9 @@ publishdate: "2024-06-27"
 image: "bilder/manhattan_heights_po_compressed.jpg"
 draft: true
 type: "aktuellt"
+images:
+  - "bilder/okboomer_composite_poster-100-01.png"
+description: "Manhattans byggnader i olika storlekar, baserat på NYC:s OpenData. Finns som tryck med bäst resultat i stora format."
 ---
 
 Manhattan's building footprints and heights above ground level. Data from New York City's OpenData initiative. 

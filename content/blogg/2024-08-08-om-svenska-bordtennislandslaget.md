@@ -3,6 +3,7 @@ title: "Om svenska bordtennislandslaget"
 date: 2024-08-08T18:29:02+02:00
 draft: false
 categories: ["Sport", "Sverige", "Bordtennis"]
+description: "Pingis förenar Sverige med gemenskap och tradition. OS-laget, med Truls, Anton och Kristian, känns som grannpojkar från småstäder."
 ---
 
 > "Fötterna på jorden, kärlek till idrotten. Alla våra stora pingisspelare och ledare är sprungna ur den svenska idrottsrörelsen. Svettiga idrottshallar, ideella ledare. Jämlikt, ödmjukt och fostrande. Bordtennis är folkhem, fritidsgård, gillestuga och after work. Gemenskap, igenkänning, tradition och minnen."

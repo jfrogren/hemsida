@@ -2,6 +2,9 @@
 title: "Två tolkningar av 'Embraceable You'"
 date: 2015-06-13T11:29:03+02:00
 draft: false
+images:
+  - "https://img.youtube.com/vi/bzq-LyibcUk/maxresdefault.jpg"
+description: "Ornette Colemans 'Embraceable You' tolkas som en kollektiv improvisation med stark melodi och kräver förståelse och empati."
 ---
 
 ### Sarah Vaughans tolkning:

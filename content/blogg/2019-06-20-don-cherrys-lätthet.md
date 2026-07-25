@@ -3,6 +3,9 @@ title: "Don Cherrys lätthet"
 date: 2019-06-20T18:59:50+02:00
 draft: false
 categories: ["Don Cherry", "Musik", "Jazz", "Lätthet", "Adam Shatz"]
+images:
+  - "/images/don-cherry.png"
+description: "Don Cherry förenade lätthet och djup i sin musik, frigjorde jazzen från bebop och banade väg för världsmusik."
 ---
 
 ![Don Cherry](/images/don-cherry.png)

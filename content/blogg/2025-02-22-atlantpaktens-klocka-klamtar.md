@@ -3,6 +3,7 @@ title: "Atlantpaktens klocka klämtar"
 date: 2025-02-22T23:32:49+01:00
 draft: false
 categories: ["Politik"]
+description: "Joakim Rönning och Jacob Bursell analyserar världsläget och politiska ambitioner hos Trump och Putin i podden *Marknaden*."
 ---
 
 Jonathan tipsade om ett avsnitt av den i huvudsak finanspolitiska podden *Marknaden* i vilket Joakim Rönning och Jacob Bursell diskuterar det rådande världsläget. Det är framförallt Joakim som briljerar med sina djuplodande kunskaper om tankegodsen som ligger till grund för Trumps respektive Putins politiska ambitioner:  

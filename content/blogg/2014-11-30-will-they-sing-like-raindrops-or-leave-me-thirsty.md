@@ -3,6 +3,8 @@ title: "Will They Sing Like Raindrops or Leave Me Thirsty"
 date: 2014-11-30T11:29:03+02:00
 draft: false
 description: "Se videoklippet tillhörande inlägget 'Will They Sing Like Raindrops or Leave Me Thirsty' på Joakim Frögrens blogg."
+images:
+  - "https://img.youtube.com/vi/tHhJmFwLbeE/maxresdefault.jpg"
 ---
 
 {{< youtube-enhanced tHhJmFwLbeE >}}

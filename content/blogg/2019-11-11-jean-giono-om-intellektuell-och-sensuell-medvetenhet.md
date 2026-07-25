@@ -3,6 +3,7 @@ title: "Jean Giono om intellektuell och sensuell medvetenhet"
 date: 2019-11-11T14:34:38+02:00
 draft: false
 categories: ["Litteratur", "Jean Giono", "Frankrike", "Provence"]
+description: "Giono menar att verklig kännedom om världen kommer från sensuella upplevelser, inte bara intellektuell kunskap."
 ---
 
 Jean Giono menar att det finns olika sorters kännedom om världen; en av intellektuell karaktär och en av sensuell karaktär. Så här skildrar han hur de skiljer sig åt[^1] (s. 76-77):

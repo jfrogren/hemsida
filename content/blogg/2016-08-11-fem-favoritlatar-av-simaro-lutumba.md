@@ -3,6 +3,11 @@ title: "Fem favoritlåtar av Simaro Lutumba"
 date: 2016-08-11T12:29:03+02:00
 draft: false
 categories: ["Musik", "Kongo", "Soukous"]
+images:
+  - "https://img.youtube.com/vi/6vtvtfSYiyk/maxresdefault.jpg"
+description: "1. Faute Ya Commerçant: En analys av handelsfel och dess påverkan på ekonomi.  
+2. Vaccination: Betydelsen av vaccin för folkhälsa och sjukdomsförebyggande.  
+3. Mbawu Na Ko Recuperer Yo: Strategier för"
 ---
  
 1. Faute Ya Commerçant 

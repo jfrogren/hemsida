@@ -4,6 +4,9 @@ date: 2025-08-15T12:00:00+02:00
 slug: "janet-kay-silly-games"
 draft: false
 categories: ["Musik"]
+images:
+  - "https://img.youtube.com/vi/qCVR5XR04Mo/maxresdefault.jpg"
+description: "Scenen i _Lovers Rock_ fångar gemenskap och motstånd mot rasism genom musik och dans på ett reggae-husparty i London 1980."
 ---
 
 I avsnittet _Lovers Rock_ i Steve McQueens miniserie _Small Axe_ från 2020 finns en tio minuter lång scen som utspelar sig på ett reggae-husparty i London 1980 där det dansas till Janet Kays _Silly Games_. En bit in i låten stänger DJ'n av musiken och låter den lilla skaran som befinner sig på dansgolvet sjunga vidare på den a cappella. Det är en stark scen som fångar gemenskapen som kan uppstå i en grupp som förenas i sin kärlek till musik och dans. 

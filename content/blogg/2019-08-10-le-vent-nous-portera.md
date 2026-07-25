@@ -3,6 +3,9 @@ title: "Le vent nous portera"
 date: 2019-08-10T04:54:37+02:00
 draft: false
 Categories: ["Frankrike", "Litauen", "Musik", "Noir Désir", "Bernard Cantat", "Vilnius"]
+images:
+  - "https://img.youtube.com/vi/NrgcRvBJYBE/maxresdefault.jpg"
+description: "Noir Désirs låt från 2001 väcker starka känslor och frågor om makt och hopp. Bernard Cantats brott skapar en mörk kontrast till musiken."
 ---
 
 En låt av Noir Désir från 2001 som jag har hört tidigare men som jag påmindes om då jag såg den erotiska filmen _Q_ där den utgör ett ledmotiv. Kollade då också musikvideon som är fantastisk och skildrar en mor och son på en strand när vinden tilltar. 

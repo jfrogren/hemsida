@@ -3,6 +3,7 @@ title: "Flugan i litteraturen"
 date: 2019-06-18T18:34:32+02:00
 draft: false
 categories: ["Litteratur", "Nina Bouraoui", "Marguerite Duras"]
+description: "Flugan symboliserar det okontrollerade i litteraturen, som visas av Bouraoui och Duras i sina verk."
 ---
 
 Nina Bouraoui tar i _Poing Mort_[^1] upp hur flugorna invaderar exponerad, svettig hud i barndomens Algeriet  - hur det utgör en slags outtalad men starkt påtaglig kontext där. Marguerite Duras förevigar i _Écrire_[^2] en flugas flygfärd och gör en analogi med en ung engelsk pilot. Vad utgör flugan en symbol för i litteraturen? Det okontrollerade?

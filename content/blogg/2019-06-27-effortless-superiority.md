@@ -3,6 +3,7 @@ title: "Effortless Superiority"
 date: 2019-06-27T20:42:35+02:00
 draft: false
 categories: ["James Wood", "Essä", "Storbritannien", "Eton", "Lundsberg", "Boris Johnson"]
+description: "James Wood jämför Eton med Lundsberg och beskriver en '规格effortless superiority'规格 hos privilegierade ledare som Cameron och Johnson, som inte speglar de flesta britters verklighet."
 ---
 
 James Wood beskriver i LRB[^1] sin upplevelse av Eton och den "anda" som svävade över den  på ett sätt som jag så starkt kan identifiera mig med, även om Eton med sin betydligt längre historia och det faktum att den är brittisk gör att Lundsberg ter sig som ett Eton light på väldigt många sätt, men ändå. Det är förvånansvärt mycket som liknar det han beskriver och den "lundsbergsanda" som man fostrades i där. 

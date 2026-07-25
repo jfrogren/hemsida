@@ -2,6 +2,7 @@
 title: "Om mig"
 og_type: article
 image: /images/joakim.png
+description: "Kultur är mitt livselixir. I bloggen utforskar jag kreativitet genom musik, litteratur och film, med en personlig och humoristisk ton. Välkommen!"
 ---
 
 Jag är 46 år och har så länge jag kan minnas haft ett intresse för kreativa uttryck som musik, litteratur, film och bildkonst. Främst som betraktare, lyssnare och läsare ska kanske tilläggas. Omständigheter har gjort att jag aldrig arbetat professsionellt med kultur utan istället haft det som en privat fritidssysselsättning eller tillflyktsort. För mig är kultur ett nödvändigt livselixir att samla kraft och mening ur. 

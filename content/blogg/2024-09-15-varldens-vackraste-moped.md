@@ -3,6 +3,9 @@ title: "Världens vackraste moped?"
 date: 2024-09-15T21:07:03+02:00
 draft: false
 categories: ["Fordon", "Skönhet"]
+description: "Se videoklippet tillhörande inlägget 'Världens vackraste moped?' på Joakim Frögrens blogg."
+images:
+  - "/images/moped.png"
 ---
 
 ![TESTI, modell Weekend Cross, 1964.](/images/moped.png "TESTI, modell Weekend Cross, 1964.")

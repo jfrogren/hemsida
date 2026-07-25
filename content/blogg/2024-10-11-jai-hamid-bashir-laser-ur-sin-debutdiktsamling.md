@@ -3,6 +3,9 @@ title: "Jai Hamid Bashir läser ur sin debutdiktsamling"
 date: 2024-10-11T01:32:51+02:00
 draft: false
 categories: ["Litteratur", "Poesi"]
+images:
+  - "https://img.youtube.com/vi/id/maxresdefault.jpg"
+description: "Jai Hamid Bashir debuterar med diktsamlingen *Desire/Halves*. Hennes genuina röst och sydasiatiska rötter fängslar läsare."
 ---
 
 Jai Hamid Bashir läser ur sin debutdiktsamling [Desire/Halves](https://archive.fo/6qYAm) som släpptes för bara några dagar sen på Nine Syllables Press:

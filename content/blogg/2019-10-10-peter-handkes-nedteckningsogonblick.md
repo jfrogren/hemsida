@@ -3,6 +3,7 @@ title: "Peter Handkes nedteckningsögonblick"
 date: 2019-10-10T12:44:40+02:00
 draft: false
 categories: ["Peter Handke", "Nobelpris", "Litteratur", "Tagwerden"]
+description: "Peter Handke, 2019 års Nobelpristagare, beskriver platser och minnen unikt. Hans verk utforskar hur språket formar vår förståelse av det förflutna."
 ---
 
 Peter Handke tilldelades idag 2019 års Nobelpris i litteratur vilket glädjer mig eftersom jag hoppas att fler av hans senare verk ska översättas till svenska. I en biobibliografisk notis hämtad från Svenska Akademins hemsida skriver de om hans författarskap och jag fastnade främst för följande stycke[^1]:

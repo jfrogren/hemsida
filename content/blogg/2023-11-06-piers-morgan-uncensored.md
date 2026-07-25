@@ -3,6 +3,9 @@ title: "Piers Morgan Uncensored"
 date: 2023-11-06T10:15:24+01:00
 draft: false
 categories: ["Piers Morgan", "Israel", "Hamas"]
+images:
+  - "https://img.youtube.com/vi/kv8dmelNRk8/maxresdefault.jpg"
+description: "Piers Morgan skapar en plattform för öppna diskussioner om Israel-Hamas-konflikten, vilket väcker både beundran och kritik."
 ---
 
 Upptäckte i dag att Piers Morgan, på sitt program [Piers Morgan Uncensored](https://www.youtube.com/@PiersMorganUncensored/videos) har skapat ett välbehövligt och efterlängtat forum för ett öppet och fritt samtal om kriget mellan Israel och Hamas. 

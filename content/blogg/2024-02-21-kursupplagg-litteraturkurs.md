@@ -3,6 +3,7 @@ title: "Kursupplägg litteraturkurs"
 date: 2024-02-21T12:06:03+01:00
 draft: true
 categories: ["Litteratur", "Medicin"]
+description: "Kursen LIVA19 utforskar psykisk sjukdom och död genom litteratur och diskussioner. Schema och läsanvisningar finns online."
 ---
 
 ### Information 

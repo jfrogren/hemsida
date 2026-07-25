@@ -2,6 +2,9 @@
 title: "En teckning av Laetitia Bénat"
 date: 2015-09-01T11:29:03+02:00
 draft: false
+images:
+  - "/images/laetitia-benat-dessin.jpg"
+description: "Laetitia Bénat visar två teckningar från september 2015, hämtade från Les Chroniques Purple."
 ---
 
 ![](/images/laetitia-benat-dessin.jpg "Laetitia Bénat, Observation — deux dessins, septembre 2015")

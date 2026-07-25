@@ -3,6 +3,7 @@ title: "Isabella Nilssons understreckare"
 date: 2025-01-03T08:33:04+01:00
 draft: false
 categories: ["Litteratur"]
+description: "Isabella Nilsson briljerar i sina understreckare med svart humor och skarpa insikter om litteratur och livets utmaningar."
 ---
 
 Isabella Nilsson har skrivit några understreckare i SvD som är mycket läsvärda. Bäst tycker jag om hennes senaste där hon diskuterar Fernando Pessoas "Orons bok" och Michel Houellebecqs ”Hålla sig vid liv”. I den essän fullständigt briljerar hon med sin svartsynta språkekvilibrism. Här är ett kort utdrag:

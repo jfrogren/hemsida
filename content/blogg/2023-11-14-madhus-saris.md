@@ -4,6 +4,8 @@ date: 2023-11-14T23:20:07+01:00
 draft: false
 categories: ["Indien", "Kläder", "Mode", "Dokumentärfilm"]
 description: "Se videoklippet tillhörande inlägget 'Madhu's Saris' på Joakim Frögrens blogg."
+images:
+  - "https://img.youtube.com/vi/FzRsg7zIzOU/maxresdefault.jpg"
 ---
 
 {{< youtube-enhanced FzRsg7zIzOU >}}

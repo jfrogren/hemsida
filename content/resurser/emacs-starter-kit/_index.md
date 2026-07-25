@@ -3,6 +3,7 @@ type: page
 title: "An Emacs Starter Kit for the Social Sciences"
 aliases:
     - /resources/emacs-starter-kit.html
+description: "Emacs Starter Kit för samhällsvetare erbjuder anpassade verktyg och inställningar för effektiv användning av Emacs."
 ---
   
 <p>

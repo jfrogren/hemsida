@@ -3,6 +3,9 @@ title: "Om Boris Lehman"
 date: 2021-04-16T00:27:44+02:00
 draft: false
 categories: ["Film", "Belgien", "Boris Lehman", "Bryssel"]
+images:
+  - "/images/boris-lehman.png"
+description: "Boris Lehman utforskar livets arv och arkivens betydelse i ett tankeväckande radioprogram. Musik och artiklar kompletterar temat."
 ---
 
 ![Boris Lehman](/images/boris-lehman.png)

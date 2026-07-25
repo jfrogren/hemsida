@@ -3,6 +3,7 @@ title: "Alain Finkielkraut om romankonsten"
 date: 2019-11-10T15:51:57+02:00
 draft: false
 categories: ["Alain Finkielkraut", "Litteratur", "Romankonsten", "Milan Kundera", "Marcel Proust", "Frankrike"]
+description: "Finkielkraut återfår tron på romankonsten genom Kundera och Proust, som visar romanens värde som en väg till mänsklig förståelse."
 ---
 
 Finkielkraut beskriver i _À la première personne_[^1] hur det var Milan Kundera och Marcel Proust som fick honom att återfå tron på romankonsten.

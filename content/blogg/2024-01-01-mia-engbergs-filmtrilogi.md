@@ -3,6 +3,9 @@ title: "Mia Engbergs filmtrilogi"
 date: 2024-01-01T23:52:10+01:00
 draft: false
 categories: ["Film", "Mia Engberg", "Frankrike", "Marguerite Duras"]
+images:
+  - "/images/belleville-baby.png"
+description: "Mia Engberg är en svensk filmskapare känd för filmer som '规格Belleville baby'规格, 'Lucky One' och '规格Hypermoon'规格."
 ---
 
 ![Stillbild från Belleville baby](/images/belleville-baby.png "Stillbld från Belleville baby")

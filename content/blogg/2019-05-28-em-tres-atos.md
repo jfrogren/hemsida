@@ -4,6 +4,8 @@ date: 2019-05-28T14:34:53+02:00
 draft: false
 categories: ["Lúcia Murat", "Brasilien", "Simone de Beauvoir", "Film"]
 description: "Se videoklippet tillhörande inlägget 'Em Três Atos' på Joakim Frögrens blogg."
+images:
+  - "https://img.youtube.com/vi/CTrMTRinA5Q/maxresdefault.jpg"
 ---
 
 {{< youtube-enhanced CTrMTRinA5Q >}} 

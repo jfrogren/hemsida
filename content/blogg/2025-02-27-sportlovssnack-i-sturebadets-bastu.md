@@ -3,6 +3,7 @@ title: "Sportlovssnack i Sturebadets bastu"
 date: 2025-02-27T23:48:17+01:00
 draft: false
 categories: ["Kultur", "Politik"]
+description: "Hugo Rehnberg analyserar sportlovssnacket i Sturebadets bastu, där skidorter rankas och italienska alper motiveras med mattraditioner."
 ---
 
 Hugo Rehnberg tar i sin senaste [SvD-krönika](/pdfs/rehnberg2025.pdf) upp sportlovssnacket i Sturebadets bastu vilket främst tycks utgöra en form av positioneringslek för de inblandade:

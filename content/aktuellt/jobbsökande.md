@@ -4,6 +4,7 @@ date: "2024-10-04T00:00:00+11:00"
 publishdate: "2020-03-04"
 type: "aktuellt"
 draft: true
+description: "Jag söker jobb inom praktiknära forskning och projektledning inom psykologi/beteendevetenskap."
 ---
 
 Just nu har jag följande jobbansökningar på gång:

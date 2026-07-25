@@ -3,6 +3,9 @@ title: "Purcell, Nyman och Pet Shop Boys"
 date: 2023-10-26T12:30:31+02:00
 draft: false
 categories: ["Musik"]
+images:
+  - "https://img.youtube.com/vi/5PXbb9kMNYw/maxresdefault.jpg"
+description: "Gamla melodier återuppstår! Från Purcell till Nyman och Pet Shop Boys, musikens arv fortsätter att inspirera."
 ---
 
 

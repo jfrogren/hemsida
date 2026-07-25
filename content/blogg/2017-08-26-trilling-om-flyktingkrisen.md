@@ -3,6 +3,7 @@ title: "Trilling om flyktingkrisen"
 date: 2017-08-26T12:29:03+02:00
 draft: false
 categories: ["Politik"]
+description: "Daniel Trilling diskuterar flyktingkrisen och vikten av att stödja människors rätt att flytta och skapa nya band."
 ---
 
 Daniel Trilling skriver tankvärt [om flyktingkrisen](https://archive.fo/w4n6s) i senaste numret av LRB:

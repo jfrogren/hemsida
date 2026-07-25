@@ -4,6 +4,8 @@ date: 2023-11-15T07:28:30+01:00
 draft: false
 categories: ["Film", "Åldrande", "Teknik", "Rumänien", "Dator", "Smiley"]
 description: "Se videoklippet tillhörande inlägget 'The Yellow Smiling Face' på Joakim Frögrens blogg."
+images:
+  - "https://img.youtube.com/vi/8HDM6ERbBKA/maxresdefault.jpg"
 ---
 
 {{< youtube-enhanced 8HDM6ERbBKA >}}

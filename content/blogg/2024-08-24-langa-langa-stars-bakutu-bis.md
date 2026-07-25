@@ -3,6 +3,7 @@ title: "Langa Langa Stars - Bakutu Bis (1981)"
 date: 2024-08-24T02:09:57+02:00
 draft: false
 categories: ["Musik", "Kongo"]
+description: "Se videoklippet tillhörande inlägget 'Langa Langa Stars - Bakutu Bis (1981)' på Joakim Frögrens blogg."
 ---
 
 {{< rawhtml >}} 

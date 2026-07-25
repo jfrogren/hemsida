@@ -3,6 +3,9 @@ title: "Paradiset brinner"
 date: 2023-10-29T18:39:40+01:00
 draft: false
 categories: ["Film", "Sverige", "Mika Gustafson"]
+images:
+  - "/images/paradiset-brinner.png"
+description: "*Paradiset brinner* skildrar tre systrars starka band och kamp för frihet, med imponerande rollprestationer och känsliga scener."
 ---
 
 ![Paradiset brinner](/images/paradiset-brinner.png)

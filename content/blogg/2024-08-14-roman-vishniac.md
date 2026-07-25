@@ -3,6 +3,9 @@ title: "Roman Vishniac"
 date: 2024-08-14T01:45:14+02:00
 draft: false
 categories: ["Bildkonst", "Fotografi", "Politik"]
+images:
+  - "https://img.youtube.com/vi/a35SB438NHc/maxresdefault.jpg"
+description: "Roman Vishniac uppmärksammas nu med en ny dokumentär, utställning och bok som lyfter fram hans fotografier."
 ---
 
 Hörde först talas om fotografen Roman Vishniac på [Thomas Nydahls blogg](https://archive.fo/EcNSI) och vidare i en [artikel](https://archive.is/zRUzd) från Times of Israel där det framkom att det nyligen gjorts en dokumentär om honom, vars teaser ser ut så här:

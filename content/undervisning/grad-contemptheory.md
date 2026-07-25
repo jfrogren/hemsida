@@ -6,6 +6,7 @@ publishdate: "2022-01-04"
 host: "Duke University"
 duration: 7776000
 syllabus: "https://www.kieranhealy.org/files/teaching/contemp-theory.pdf"
+description: "Kursen introducerar centrala teman inom sociologisk teori sedan 1950-talet, riktad till första årets Ph.D. studenter."
 ---
 
 This graduate-level course is an introduction to some main themes

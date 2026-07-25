@@ -3,6 +3,7 @@ title: "Om AI och risken för fördumning"
 date: 2025-01-15T00:39:30+01:00
 draft: false
 categories: ["AI", "Litteratur", "Undervisning", "Filosofi"]
+description: "Fredrik Sjöberg och Ulf Danielsson betonar vikten av mänskliga möten och traditionell undervisning som motvikt till AI:s efterapning."
 ---
 
 Fredrik Sjöberg [recenserade](/pdfs/sjoberg2024.pdf) Peter Gärdenfors nya bok om AI i SvD i höstas och drog då slutsatsen att det inte är AI som vi ska frukta utan den (sedvanliga) dumheten och  att bästa motmedlet utgörs av det fysiska, mellanmänskliga mötet:

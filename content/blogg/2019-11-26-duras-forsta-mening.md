@@ -3,6 +3,7 @@ title: "Duras första mening"
 date: 2019-11-26T12:35:02+02:00
 draft: false
 categories: ["Litteratur", "Marguerite Duras", "Frankrike"]
+description: "Maud öppnar fönstret och låter livets oljud fylla rummet, en metafor för att vi inte kan undkomma omvärldens kaos."
 ---
 
 > Maud ouvrit la fenêtre et la rumeur de la vallée emplit la chambre.[^1]

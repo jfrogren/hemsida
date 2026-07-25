@@ -3,6 +3,7 @@ title: "Czesław Miłosz om drömmens kraft och lycka"
 date: 2019-11-03T13:57:44+02:00
 draft: false
 categories: ["Czesław Miłosz", "Litteratur", "Poesi", "Anders Bodegård", "Polen"]
+description: "Czesław Miłosz reflekterar i _Snabba steg_ över livets cykler, där drömmen om barndomen ger en bittersöt känsla av nostalgi och närvaro."
 ---
 
 Czesław Miłosz skriver i dikten _Snabba steg_ om hur han som 88-åring förvandlas till en 8-åring i drömmen[^1] (s. 26):

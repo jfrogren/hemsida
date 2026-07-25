@@ -3,6 +3,7 @@ title: "Det okända universitetet"
 date: 2014-09-03
 draft: false
 categories: ["Litteratur", "Chile", "Latinamerika"]
+description: "En ensam person i Barcelona reflekterar över livet, människor och sin berusning under natten, i en blandning av verklighet och illusion."
 ---
 
 >Det är natt och jag befinner mig i   

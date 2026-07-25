@@ -4,6 +4,8 @@ date: 2024-09-25T00:46:28+02:00
 draft: false
 categories: ["Musik", "Salsa"]
 description: "Se videoklippet tillhörande inlägget 'Salsa i L'Antiga Esquerra de l'Eixample' på Joakim Frögrens blogg."
+images:
+  - "https://img.youtube.com/vi/7kbjKCj-rMQ/maxresdefault.jpg"
 ---
 
 {{< youtube-enhanced 7kbjKCj-rMQ >}} <br>

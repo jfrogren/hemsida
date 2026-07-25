@@ -3,6 +3,7 @@ title: "Typsnitt i fransk bokutgivning"
 date: 2020-03-15T13:08:07+02:00
 draft: false
 categories: ["Litteratur", "Formgivning"]
+description: "Didot och Bodoni används i franska litteraturserier. Diskussioner om liknande typsnitt nämner flera varianter av Bodoni."
 ---
 
 I en akademisk uppsats om typografin i flera franska litteraturserier identifieras _Didot_ som typsnitt för Gallimard Blanche och _Bodoni_ som typsnitt för Les editions de Minuit:

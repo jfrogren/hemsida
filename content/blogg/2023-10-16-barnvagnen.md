@@ -5,6 +5,9 @@ draft: false
 categories: ["film", "Bo Widerberg", "Tommy Berggren", "Malmö", "Inger Taube"]
 og_type: article
 og_image: /images/barnvagnen.png
+images:
+  - "/images/barnvagnen.png"
+description: "Folkets Bio firade 50 år med visning av Bo Widerbergs '规格Barnvagnen'规格. Filmen berörde med sin ömsinta skildring av förälskelse, men hade vissa brister."
 ---
 
 ![Barnvagnen](/images/barnvagnen.png)

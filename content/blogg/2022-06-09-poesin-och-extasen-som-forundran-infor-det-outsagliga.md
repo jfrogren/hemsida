@@ -3,6 +3,7 @@ title: "Poesin och extasen som förundran inför det outsägliga"
 date: 2022-06-09T14:19:39+02:00
 draft: false
 categories: ["Poesi", "Litteratur", "Lasse Söderberg"]
+description: "Paul van Ostaijen kopplar poesi till extas, likt Miłosz som beskriver nattens resor som extatiska upplevelser."
 ---
 
 Paul van Ostaijen (1896-1928), poet från Flandern, såg enligt Lasse Söderberg likheter mellan poesin och extasen[^1] (s. 97):

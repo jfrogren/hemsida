@@ -3,6 +3,7 @@ title: "Om litteratur och litteraturvärlden"
 date: 2024-09-10T13:10:11+02:00
 draft: false
 categories: ["Litteratur"]
+description: "Anna Axfors betonar vikten av genuint litteraturintresse för sinnesfrid, snarare än ytlig positionering i litteraturvärlden."
 ---
 
 Anna Axfors skriver i [Kvartal](/pdfs/axfors2024.pdf) om värdet i att intressera sig för litteratur på riktigt och inte bara för litteraturvärlden med dess kotterier och positioneringar:

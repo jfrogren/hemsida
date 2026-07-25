@@ -2,6 +2,7 @@
 title: "Någon annanstans"
 date: 2018-04-27T11:29:03+02:00
 draft: false
+description: "En frusen vodkaflaska med isbjörnslogotyp återupptäcktes efter många år, som en glömd men betydelsefull sak."
 ---
 
 > En gång såg jag i Zwinger-  

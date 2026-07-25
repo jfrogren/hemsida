@@ -6,6 +6,7 @@ publishdate: "2016-01-08"
 host: "Duke University"
 duration: 7776000
 syllabus: "http://www.kieranhealy.org/files/teaching/war-and-the-state.pdf"
+description: "Kursen fokuserar på sociologi kring krig, våld och modern stat, med betoning på organisation och institutioner i kollektivt våld och statsbyggande."
 ---
 
 This is a graduate-level reading course on the sociology of war, violence, and the modern state, with an emphasis on the organizational and institutional aspects of collective violence and state-building. Because it is not a regular seminar, the readings in the syllabus are presented in sequence but not as weekly class meetings.

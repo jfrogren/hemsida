@@ -3,6 +3,7 @@ title: "Att leva ovanför vardagen"
 date: 2020-01-31T12:10:22+02:00
 draft: false
 categories: ["Sofia Lily Jönsson", "Katarina Frostenson", "Recension", "Litteratur", "Kulturdebatt"]
+description: "Sofia Lily Jönssons recension av Katarina Frostenssons bok _K_ belyser författarens distans till vardagen med insiktsfulla observationer."
 ---
 
 Sofia Lily Jönssons recension[^1] av Katarina Frostenssons bok _K_[^2] hänvisade Gabrielle Björnstrand till i kommentarsfältet på bloggen [Pressyltaredux](https://archive.ph/IM5cY) (Gunnar Petterssons blogg). Jag läste recensionen med stort nöje. Där skildrar SLJ hur KF alltid verkar ha levt ovanför vardagen med brända grötkastruller och så vidare. Recensionen var skickligt skrivet och blottlade något bakomliggande och mänskligt.
