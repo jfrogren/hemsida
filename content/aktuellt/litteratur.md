@@ -5,4 +5,5 @@ publishdate: "2023-03-04"
 image: "thumbs/mmc-poster-100-01.jpg"
 draft: true
 type: "aktuellt"
+description: "Se videoklippet tillhörande inlägget 'Litteratur' på Joakim Frögrens blogg."
 ---

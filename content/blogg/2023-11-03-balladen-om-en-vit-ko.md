@@ -3,6 +3,7 @@ title: "Balladen om en vit ko"
 date: 2023-11-03T02:30:43+01:00
 draft: false
 categories: ["Film", "Iran"]
+description: "Se videoklippet tillhörande inlägget 'Balladen om en vit ko' på Joakim Frögrens blogg."
 ---
 
 {{< youtube-enhanced 2MSNXnr74io >}}

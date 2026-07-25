@@ -3,6 +3,7 @@ title: "Em Três Atos"
 date: 2019-05-28T14:34:53+02:00
 draft: false
 categories: ["Lúcia Murat", "Brasilien", "Simone de Beauvoir", "Film"]
+description: "Se videoklippet tillhörande inlägget 'Em Três Atos' på Joakim Frögrens blogg."
 ---
 
 {{< youtube-enhanced CTrMTRinA5Q >}} 
