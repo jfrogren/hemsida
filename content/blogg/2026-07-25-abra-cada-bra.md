@@ -2,7 +2,7 @@
 title: "Abra cada bra"
 date: 2026-07-25T12:00:00+02:00
 slug: "abra-cada-bra"
-draft: false
+draft: true
 categories: [""]
 description: "Hans Magnus Enzensbergers poesi, med en saklig ton och intellektuell djup, har fascinerat svenska läsare i över fyrtio år."
 ---
