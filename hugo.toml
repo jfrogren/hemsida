@@ -84,6 +84,7 @@ unsafe = true
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2014"            # Site creation time
   title = "Joakim Frögren"
+  images = ["images/joakim.png"]
   description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
   keywords = ["blogg", "hemsida", "sajt"] # site info (optional)
   # logoTitle = "Joakim Frögren"        # default: the title value
