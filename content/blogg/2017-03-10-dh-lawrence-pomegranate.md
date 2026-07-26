@@ -2,7 +2,7 @@
 title: "Pomegranate"
 date: 2017-03-10T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "Storbritannien"]
+categories: ["Litteratur", "Poesi", "Storbritannien", "Frukt och grönt"]
 description: "D.H. Lawrence utforskar skönheten i brustna hjärtan och livets fissurer, där glädje och sorg samexisterar."
 ---
 
