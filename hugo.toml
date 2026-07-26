@@ -24,7 +24,7 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = false     # has chinese/japanese/korean ?
-paginate = 30
+paginate = 25
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -89,9 +89,9 @@ unsafe = true
 
   # paginate of archives, tags and categories
   # general archives
-  archivePaginate = 30
+  archivePaginate = 25
   # blog archive. This indexes n /posts/ not n /years/ for pagination purposes
-  blogPaginate = 100
+  blogPaginate = 200
 
   # show 'xx Posts In Total' in archive page ?
   showArchiveCount = false
