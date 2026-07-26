@@ -2,7 +2,7 @@
 title: "Édition Vévé - 4 Track Edit"
 date: 2015-04-01T11:29:03+02:00
 draft: false
-categories: ["Musik", "Kongo"]
+categories: ["Musik", "Kongo", "Soukous", "Afrika"]
 description: "Upptäck fyra ikoniska låtar: 'Mr. Malonga', 'Makina Loka', 'Balobaka Ye Mbongo Mingi' och 'Souvenir Mpoli' från klassiska afrikanska album."
 ---
 

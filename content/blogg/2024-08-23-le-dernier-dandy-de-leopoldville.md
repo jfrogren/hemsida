@@ -2,10 +2,10 @@
 title: "Le dernier dandy de Léopoldville"
 date: 2024-08-23
 draft: false
-categories: ["Musik", "Kongo"]
+categories: ["Musik", "Kongo", "Afrika", "Kläder & mode"]
 images:
   - "/images/fariala2.png"
-description: "Franck Lassan, känd som Fariala, var en ikon inom kongolesisk musik. Hans album från 1981, '规格Fariala'规格, innehåller flera klassiska låtar."
+description: "Franck Lassan, känd som Fariala, var en ikon inom kongolesisk musik. Hans album från 1981, 'Fariala', innehåller flera klassiska låtar."
 ---
 
 Franck Lassan (1934-1986), eller Fariala wa Nyembo som var det namn han senare antog, var en av Kongos stora sångare. Med sin sammetslena röst och sitt distingerade sätt har han kallats [le dernier dandy de Léopoldville.](https://archive.fo/kCoDI) 

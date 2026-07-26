@@ -2,7 +2,7 @@
 title: "Em Três Atos"
 date: 2019-05-28T14:34:53+02:00
 draft: false
-categories: ["Simone de Beauvoir", "Film"]
+categories: ["Film & teveserie", "Brasilien", "Litteratur", "Frankrike", "Åldrande"]
 description: "Se videoklippet tillhörande inlägget 'Em Três Atos' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/CTrMTRinA5Q/maxresdefault.jpg"

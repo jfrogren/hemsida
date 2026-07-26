@@ -2,6 +2,7 @@
 title: "Online Video Cutter"
 date: 2024-08-09T01:31:30+02:00
 draft: false
+categories: ["Verktyg"]
 images:
   - "/images/online-video-cutter.png"
 description: "Online Video Cutter är ett praktiskt verktyg för att klippa videor i .mp4-format enkelt och effektivt."

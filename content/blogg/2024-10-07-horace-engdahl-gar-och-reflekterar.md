@@ -2,7 +2,7 @@
 title: "Horace Engdahl går och reflekterar i nytt SVT-porträtt"
 date: 2024-10-07T12:31:40+02:00
 draft: false
-categories: ["Litteratur", "Politik", "Filosofi"]
+categories: ["Litteratur", "Politik", "Filosofi", "Sverige"]
 images:
   - "/images/horace-gar.png"
 description: "Horace Engdahl reflekterar över livet under sin vandring till Rom i en ny SVT-dokumentär, där han diskuterar djupsinne, tid och Svenska Akademien."

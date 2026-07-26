@@ -2,7 +2,7 @@
 title: "Dan Korn om majoritetskulturens rättigheter"
 date: 2020-10-29T14:51:53+01:00
 draft: false
-categories: ["Politik"]
+categories: ["Politik", "Religion", "Islam", "Frankrike", "Turkiet", "Sverige", "Humor"]
 description: "Dan Korn uppmanar västerländska medborgare att tydligt kritisera auktoriteter som Erdoğan och använda satir för att markera majoritetens makt."
 ---
 

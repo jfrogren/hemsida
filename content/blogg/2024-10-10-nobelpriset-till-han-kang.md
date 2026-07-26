@@ -2,7 +2,7 @@
 title: "Nobelpriset i litteratur till Han Kang"
 date: 2024-10-10T01:07:47+02:00
 draft: false
-categories: ["Litteratur"]
+categories: ["Litteratur", "Sydkorea"]
 description: "Han Kang får Nobelpriset i litteratur 2024 för sin poetiska prosa om historiska trauman. Olika perspektiv belyser nyheten."
 ---
 

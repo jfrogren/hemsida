@@ -2,6 +2,7 @@
 title: "Regn efter fylla"
 date: 2014-02-18T11:29:03+02:00
 draft: false
+categories: ["Litteratur","Poesi","Alkohol"]
 images:
   - "/images/bengt-anderberg.png"
 description: "Bengt Anderberg fångar livets skönhet och enkelhet i sin dikt, där naturen erbjuder tröst och insikt efter smärta."

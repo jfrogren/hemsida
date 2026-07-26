@@ -2,7 +2,7 @@
 title: "Mircea Cărtărescu och hans engelska översättare i samtal"
 date: 2024-10-09T02:14:39+02:00
 draft: false
-categories: ["Litteratur"]
+categories: ["Litteratur", "Rumänien", "Irland"]
 images:
   - "https://img.youtube.com/vi/XW9e2oMeaXc/maxresdefault.jpg"
 description: "Mircea Cărtărescu och Sean Cotter vann Dublin Literary Award 2024 för '规格Solenoid'规格 och diskuterade verket på festivalen. Cotter delade en pdf med text- och bildfragment kopplade till romanen."

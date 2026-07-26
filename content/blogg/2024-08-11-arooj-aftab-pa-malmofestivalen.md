@@ -2,7 +2,7 @@
 title: "Arooj Aftab på Malmöfestivalen"
 date: 2024-08-11T08:46:45+02:00
 draft: false
-categories: ["Musik"]
+categories: ["Musik", "USA", "Sydasien", "Sverige"]
 og_type: article
 image: /images/arooj-aftab.jpg
 images:

@@ -2,13 +2,13 @@
 title: "Önskade Tagore-sånger"
 date: 2024-08-21T22:36:17+02:00
 draft: true
-categories: ["Musik", "Bengali", "Rabindranath Tagore"]
+categories: ["Musik", "Tagore", "Sydasien"]
 images:
   - "/images/tagore-akash-bhora-surjo-tara.png"
-description: "Lars och Bubu bjöd på middag och jag fick önska sånger till kören. Mina val: '规格Akash Bhora Surjo Tara'规格, 'Amar Ei Poth Chawatei' och '规格Hay Go Byathay Katha Jay'规格."
+description: "Lars och Bubu bjöd på middag och jag fick önska sånger till kören. Mina val: 'Akash Bhora Surjo Tara', 'Amar Ei Poth Chawatei' och 'Hay Go Byathay Katha Jay'."
 ---
 
-Lars och Bubu bjöd på middag nu ikväll. De vill gärna att jag är med i kören i höst och Bubu sa att jag kan få önska några sånger som vi ska sjunga. Jag önskade då tre av mina favoriter: 
+L och B bjöd på middag nu ikväll. De vill gärna att jag är med i kören i höst och Bubu sa att jag kan få önska några sånger som vi ska sjunga. Jag önskade då tre av mina favoriter: 
 
 ### 1. Akash Bhora Surjo Tara
 <br>
