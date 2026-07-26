@@ -5,6 +5,9 @@ image: /images/joakim.png
 description: "Kultur är mitt livselixir. I bloggen utforskar jag kreativitet genom musik, litteratur och film, med en personlig och humoristisk ton. Välkommen!"
 ---
 
+![](/images/jfr.jpg)
+
+
 Jag är 46 år och har så länge jag kan minnas haft ett intresse för kreativa uttryck som musik, litteratur, film och bildkonst. Främst som betraktare, lyssnare och läsare ska kanske tilläggas. Omständigheter har gjort att jag aldrig arbetat professsionellt med kultur utan istället haft det som en privat fritidssysselsättning eller tillflyktsort. För mig är kultur ett nödvändigt livselixir att samla kraft och mening ur. 
 
 Den här bloggen utgör ett sätt att bejaka och förhoppningsvis utveckla den kreativa sidan av mig mer, vilket jag länge närt en önskan om att göra men varit dålig på att avsätta tid för på ett konstruktivt sätt. Då jag finner stor tillfredsställelse i att läsa kritik som är välgrundad och saklig men samtidigt skriven med lätt hand och ett personligt, humoristiskt tonfall är det min förhoppning och ambition att i detta forum öva mig i att formulera något liknande.
