@@ -3,6 +3,6 @@
 
 [[redirects]]
   from = "https://frogren.se*"
-  to = "https://netlify.app"
-  status = 200
+  to = "https://rolandfrogren.com"
+  status = 301
   force = true
