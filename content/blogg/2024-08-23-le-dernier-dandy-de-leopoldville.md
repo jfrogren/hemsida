@@ -2,7 +2,7 @@
 title: "Le dernier dandy de Léopoldville"
 date: 2024-08-23
 draft: false
-categories: ["Musik", "Kongo", "Afrika", "Kläder & mode"]
+categories: ["Musik", "Kongo", "Afrika", "Kläder och mode"]
 images:
   - "/images/fariala2.png"
 description: "Franck Lassan, känd som Fariala, var en ikon inom kongolesisk musik. Hans album från 1981, 'Fariala', innehåller flera klassiska låtar."

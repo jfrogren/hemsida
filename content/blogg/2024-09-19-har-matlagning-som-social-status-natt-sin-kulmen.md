@@ -2,7 +2,7 @@
 title: "Har matlagning som social status nått sin kulmen?"
 date: 2024-09-19T21:29:51+02:00
 draft: false
-categories: ["Sverige", "Mat & matlagning"]
+categories: ["Sverige", "Mat och matlagning"]
 description: "Niklas Wahllöf diskuterar hur kulinariska vanor används för att markera social status, och ifrågasätter om det handlar om avund eller självbedrägeri."
 ---
 

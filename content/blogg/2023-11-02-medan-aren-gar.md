@@ -2,7 +2,7 @@
 title: "Medan åren går"
 date: 2023-11-02T02:19:46+01:00
 draft: false
-categories: ["Film & teveserie", "Storbritannien"]
+categories: ["Film och teveserie", "Storbritannien"]
 description: "Se videoklippet tillhörande inlägget 'Medan åren går' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/i81cxbYNHks/maxresdefault.jpg"

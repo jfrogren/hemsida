@@ -2,7 +2,7 @@
 Title: Lars Gustafssons humor och intellekt
 Date: 2020-03-09
 Draft: false
-Categories: ["Litteratur", "USA", "Film & teveserie"]
+Categories: ["Litteratur", "USA", "Film och teveserie"]
 images:
   - "/images/larsgustafsson.png"
 description: "Saknaden efter Lars Gustafssons humor ledde till att jag hittade hans teveversion av _Tennisspelarna_ på Öppet arkiv."

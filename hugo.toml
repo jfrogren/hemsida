@@ -10,6 +10,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 languageCode = "sv"
+capitalizeListTitles = false
+
                              # en / zh-cn / ... (This field enableRobotsTXT = true
 enableRobotsTXT = true
 enableEmoji = false

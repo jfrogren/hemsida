@@ -2,7 +2,7 @@
 title: "Sportlovssnack i Sturebadets bastu"
 date: 2025-02-27T23:48:17+01:00
 draft: false
-categories: ["Politik", "Sverige", "Idrott & sport", "Italien"]
+categories: ["Politik", "Sverige", "Idrott och sport", "Italien"]
 description: "Hugo Rehnberg analyserar sportlovssnacket i Sturebadets bastu, där skidorter rankas och italienska alper motiveras med mattraditioner."
 ---
 

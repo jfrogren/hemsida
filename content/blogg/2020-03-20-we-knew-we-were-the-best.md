@@ -2,7 +2,7 @@
 title: "We knew we were the best"
 date: 2020-03-20
 draft: false
-categories: ["Politik", "Sverige", "Film & teveserie"]
+categories: ["Politik", "Sverige", "Film och teveserie"]
 description: "Sverige skildras i en fem minuters kortfilm som belyser landets verklighet och historia."
 ---
 
