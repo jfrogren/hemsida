@@ -16,7 +16,7 @@ description: "Ornette Colemans 'Embraceable You' tolkas som en kollektiv improvi
 ### Ornette Colemans tolkning:
 <br>
 
-{{< youtube-enhanced hGiGH0O_a04 >}}
+{{< youtube-enhanced FW0LRGb7pIw >}}
 
 > 'Embraceable You' from This is Our Music is probably the ultimate Rorschach test for Ornette’s fans and skeptics. I sympathize with anyone not being able to get next to it because I didn’t always like it either!
 
