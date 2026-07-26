@@ -1,25 +1,29 @@
-
-/* Light mode */
-@media (prefers-color-scheme: light) {
-/* don't do anything */
-}
-
-/* Dark mode */
 @media (prefers-color-scheme: dark) {
-    html {
+    
+    /* Tvinga bakgrunden på ALLA behållare och ytor att bli mörka */
+    html, body, div, header, main, footer, article, section {
         background-color: #171717 !important;
     }
-    html {
-        filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
-        -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+
+    /* Tvinga ALL brödtext på hela sajten att bli mjukt gråvit */
+    p, li, span, a, time, em, strong {
+        color: #ccd6dd !important;
     }
-    body {
-        background-color: #FFF !important;
+
+    /* Tvinga ALLA rubriker att bli krispigt ljusgrå */
+    h1, h2, h3, h4, h5, h6 {
+        color: #f5f7f8 !important;
     }
-    img,
-    video,
-    body * [style*="background-image"] {
-        filter: hue-rotate(180deg) contrast(100%) invert(100%);
-        -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
+
+    /* Snygga till citatblocken i mörkret */
+    blockquote {
+        border-left: 4px solid #4a5a6a !important;
+        background-color: #222222 !important;
+    }
+
+    /* Garantera att bilder och videor inte påverkas av några filter */
+    img, video, iframe {
+        filter: none !important;
+        -webkit-filter: none !important;
     }
 }
