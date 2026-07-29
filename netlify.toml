@@ -1,2 +1,9 @@
 [build.environment]
   HUGO_VERSION = "0.123.0"
+
+[[redirects]]
+  from = "https://roland.frogren.se/*"
+  to = "https://netlify.app"
+  status = 200
+  force = true
+
