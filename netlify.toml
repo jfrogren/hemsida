@@ -1,9 +1,2 @@
 [build.environment]
   HUGO_VERSION = "0.123.0"
-
-# Den ENDA regeln som ska finnas för att styra roland.frogren.se
-[[redirects]]
-  from = "https://frogren.se*"
-  to = "https://netlify.app"
-  status = 200
-  force = true
