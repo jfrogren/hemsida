@@ -83,9 +83,18 @@
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Permalink }}"/>
 <meta property="og:locale" content="sv">
-{{ with .Params.images }}{{ range . }}
-<meta property="og:image" content="{{ . | absURL }}" />
-{{ end }}{{ end }}
+
+{{ if .Params.images }}
+  {{ range .Params.images }}
+    <meta property="og:image" content="{{ . | absURL }}" />
+  {{ end }}
+{{ else if .IsHome }}
+  <!-- Startsidan får joakim.png som stor bild till höger -->
+  <meta property="og:image" content="{{ "images/joakim.png" | absURL }}" />
+{{ else }}
+  <!-- Alla andra inlägg utan bild faller tillbaka på din favicon (32x32) -->
+  <meta property="og:image" content="{{ "favicon-32x32.png" | absURL }}" />
+{{ end }}
 
 {{- template "_internal/schema.html" . -}}
 
