@@ -10,8 +10,6 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 languageCode = "sv"
-                             # en / zh-cn / ... (This field enableRobotsTXT = true
-enableRobotsTXT = true
 enableEmoji = false
 theme = ["hugo-video", "even"]
 
@@ -64,12 +62,12 @@ unsafe = true
  # weight = 5.0
 
 [taxonomies]
-  kategorier = "categories"  # Säger till Hugo: läs 'kategorier:' i inläggen men spara det som 'categories' internt
-  tag = "tags"
+  kategorier = "kategorier"
+  taggar = "taggar"
 
 [permalinks]
-  categories = "/kategorier/:slug/"
-  tags = "/taggar/:slug/"
+  kategorier = "/kategorier/:slug/"
+  taggar = "/taggar/:slug/"
   
 [[menu.main]]
   name = "Alla blogginlägg"
