@@ -16,8 +16,8 @@
 # Till:
 # paginate = 25
 
-[[redirects]]
-  from = "/*"
-  to = "https://netlify.app"
-  status = 200
-  force = true
+# [[redirects]]
+#  from = "/*"
+#  to = "https://netlify.app"
+#  status = 200
+#  force = true
