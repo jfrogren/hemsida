@@ -62,13 +62,13 @@ unsafe = true
  # weight = 5.0
 
 [taxonomies]
-  kategorier = "kategorier"
-  taggar = "taggar"
+  category = "categories"    # Detta gör att Even-tematet och dina poster visar kategorierna rätt
+  tag = "tags"               # Samma för taggarna
 
 [permalinks]
-  kategorier = "/kategorier/:slug/"
-  taggar = "/taggar/:slug/"
-  
+  categories = "/kategorier/:slug/"  # Detta tvingar mappen att heta /kategorier/ online!
+  tags = "/taggar/:slug/"            # Samma för /taggar/
+
 [[menu.main]]
   name = "Alla blogginlägg"
   url = "/blogg"
