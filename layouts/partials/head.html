@@ -43,6 +43,15 @@
 {{ if .Params.images }}{{ $image = index .Params.images 0 | absURL }}{{ end }}
 <meta property="og:image" content="{{ $image }}" />
 
+<!-- Dimensioner som löser asynkron laddning på Facebook/WhatsApp -->
+{{ if .Params.images }}
+  <meta property="og:image:width" content="1280" />
+  <meta property="og:image:height" content="720" />
+{{ else }}
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
+{{ end }}
+
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="{{ .Permalink }}">
