@@ -1,8 +1,10 @@
 {{ define "main" }}
-  <h1>Alla kategorier</h1>
-  <ul>
-    {{ range .Data.Terms.Alphabetical }}
-      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
-    {{ end }}
-  </ul>
+<h1>Alla kategorier</h1>
+<ul>
+  {{ range .Data.Terms.Alphabetical }}
+  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+  {{ else }}
+  <li>Inga kategorier</li>
+  {{ end }}
+</ul>
 {{ end }}
