@@ -6,7 +6,7 @@
       {{ .Site.Title }}
     {{- end -}}</a>&thinsp; &middot; &thinsp; 
 
-<a href="https://github.com/jfrogren" class="logo" title="GitHub"><img class="icon-svg" src = "/images/github.svg"></a>
+<a href="https://github.com" class="logo" title="GitHub"><img class="icon-svg" src = "/images/github.svg"></a>
 </div>
 
 <nav class="site-navbar">
@@ -18,59 +18,3 @@
     {{- end }}
   </ul>
 </nav>
-
-<!-- HTML Meta Tags -->
-<title>Joakim Frögren</title>
-<meta name="description" content="En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra.">
-
-<!-- Facebook Meta Tags (Open Graph) -->
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:site_name" content="{{ .Site.Title }}"/>
-<meta property="og:locale" content="sv_SE">
-
-<!-- Dynamisk beskrivning för inlägg / startsida -->
-{{ if .Description -}}
-  <meta property="og:description" content="{{ .Description }}">
-{{ else if .IsPage -}}
-  <meta property="og:description" content="{{ .Summary | plainify }}">
-{{ else -}}
-  <meta property="og:description" content="{{ .Site.Params.description }}">
-{{ end }}
-
-<!-- Dynamisk förhandsvisningsbild -->
-{{ if .Params.images -}}
-  {{ range first 1 .Params.images -}}
-    <meta property="og:image" content="{{ . | absURL }}">
-  {{ end }}
-{{ else -}}
-  <!-- Din fasta standardbild om inlägget saknar bild -->
-  <meta property="og:image" content="https://b-cdn.net">
-{{ end }}
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="frogren.se">
-<meta property="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-
-{{ if .Description -}}
-  <meta name="twitter:description" content="{{ .Description }}">
-{{ else -}}
-  <meta name="twitter:description" content="{{ .Site.Params.description }}">
-{{ end }}
-
-{{ if .Params.images -}}
-  {{ range first 1 .Params.images -}}
-    <meta name="twitter:image" content="{{ . | absURL }}">
-  {{ end }}
-{{ else -}}
-  <meta name="twitter:image" content="https://b-cdn.net">
-{{ end }}
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
-
-
-<!-- Hämtat härifrån för att få bort tabb-namn: https://github.com/matcornic/hugo-theme-learn/issues/280 -->
-<!-- <title>{{ .Title }}{{ default "::" .Site.Params.titleSeparator }}{{ .Site.Title }}</title> -->

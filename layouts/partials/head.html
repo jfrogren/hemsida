@@ -28,13 +28,27 @@
   <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
 {{- end }}
 
-<!-- open graph -->
-<meta property="og:type" content="website" />
-     <meta property="og:title" content="{{ .Site.Title }}"/>
-     <meta property="og:description" content="{{ .Site.Params.description }}"/>
-     <meta property="og:site_name" content="{{ .Site.Title }}"/>
-     <meta property="og:url" content="{{ .Site.BaseURL }}"/>
-     <meta property="og:locale" content="sv">
+<!-- open graph (Dynamisk för sociala medier och meddelandeappar) -->
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}"/>
+<meta property="og:site_name" content="{{ .Site.Title }}"/>
+<meta property="og:locale" content="sv_SE">
+
+{{ $description := .Site.Params.description }}
+{{ if .Description }}{{ $description = .Description }}{{ else if .IsPage }}{{ $description = .Summary | plainify }}{{ end }}
+<meta property="og:description" content="{{ $description | safeHTML }}" />
+
+{{ $image := "https://frogren.se" }}
+{{ if .Params.images }}{{ $image = index .Params.images 0 | absURL }}{{ end }}
+<meta property="og:image" content="{{ $image }}" />
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $description | safeHTML }}">
+<meta name="twitter:image" content="{{ $image }}">
 
 <!-- baidu & google verification  -->
 {{ with .Site.Params.baiduVerification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
@@ -54,7 +68,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
 <link rel="manifest" href="{{ "manifest.json" | relURL }}">
-<link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | relURL }}" color="#5bbad5">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
 <!-- debug -->
 {{- if .Site.Params.debug -}}
