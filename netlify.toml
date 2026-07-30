@@ -1,23 +1,9 @@
-[build]
-  publish = "public"
-
 [build.environment]
   HUGO_VERSION = "0.164.0"
 
-[context.production.environment]
-  HUGO_VERSION = "0.164.0"
+[[redirects]]
+  from = "https://roland.frogren.se/*"
+  to = "https://netlify.app"
+  status = 200
+  force = true
 
-# Du kan lägga till andra inställningar som behövs för Netlify här
-
-# Ändra paginate i hugo.toml
-# Från:
-# [paginate]
-#   default = 25
-# Till:
-# paginate = 25
-
-# [[redirects]]
-#  from = "/*"
-#  to = "https://netlify.app"
-#  status = 200
-#  force = true
