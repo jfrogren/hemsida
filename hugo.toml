@@ -44,8 +44,8 @@ unsafe = true
   kategori = "kategorier"
   tag = "tags"
 
-# [permalinks]
-#  kategorier = "/kategorier/:slug/"
+[permalinks]
+  blogg = "/:slug/"
 
 [[menu.main]]
   name = "Alla blogginlägg"

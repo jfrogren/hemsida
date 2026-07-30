@@ -6,3 +6,9 @@
   to = "https://netlify.app"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/blogg/:slug/"
+  to = "/:slug/"
+  status = 301
+  force = false
