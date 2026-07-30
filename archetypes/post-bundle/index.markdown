@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-kategorier: [x,y]
+categories: [x,y]
 footnotes: false
 htmlwidgets: false
 mathjax: false

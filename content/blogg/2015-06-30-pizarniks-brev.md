@@ -2,7 +2,7 @@
 title: "Pizarniks brev"
 date: 2015-06-30T11:29:03+02:00
 draft: false
-kategorier: ["Litteratur", "Argentina", "Poesi", "Sydamerika"]
+categories: ["Litteratur", "Argentina", "Poesi", "Sydamerika"]
 description: "Alejandra Pizarnik beskriver livets upp- och nedgångar, kampen mellan hopp och hopplöshet i ett brev."
 ---
 

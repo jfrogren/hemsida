@@ -2,7 +2,7 @@
 title: "Salsa i L'Antiga Esquerra de l'Eixample"
 date: 2024-09-25T00:46:28+02:00
 draft: false
-kategorier: ["Musik", "Salsa", "Sydamerika"]
+categories: ["Musik", "Salsa", "Sydamerika"]
 description: "Se videoklippet tillhörande inlägget 'Salsa i L'Antiga Esquerra de l'Eixample' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/7kbjKCj-rMQ/maxresdefault.jpg"

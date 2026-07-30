@@ -2,7 +2,7 @@
 title: "Önskade Tagore-sånger"
 date: 2024-08-21T22:36:17+02:00
 draft: true
-kategorier: ["Musik", "Tagore", "Sydasien"]
+categories: ["Musik", "Tagore", "Sydasien"]
 images:
   - "/images/tagore-akash-bhora-surjo-tara.png"
 description: "Lars och Bubu bjöd på middag och jag fick önska sånger till kören. Mina val: 'Akash Bhora Surjo Tara', 'Amar Ei Poth Chawatei' och 'Hay Go Byathay Katha Jay'."

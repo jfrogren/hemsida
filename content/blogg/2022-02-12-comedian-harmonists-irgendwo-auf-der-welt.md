@@ -2,7 +2,7 @@
 title: "Comedian Harmonists - Irgendwo auf der Welt"
 date: 2022-02-12T11:29:03+02:00
 draft: false
-kategorier: ["Musik", "Tyskland"]
+categories: ["Musik", "Tyskland"]
 description: "Se videoklippet tillhörande inlägget 'Comedian Harmonists - Irgendwo auf der Welt' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/iaoSiklAXiU/maxresdefault.jpg"
