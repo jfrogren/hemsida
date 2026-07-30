@@ -44,6 +44,11 @@ unsafe = true
 [taxonomies]
   kategorier = "kategorier"
   taggar = "taggar"
+[languages.sv]
+  languageName = "Svenska"
+  [languages.sv.taxonomies]
+    category = "kategorier"
+    tag = "taggar"
 
 [permalinks]
   categories = "/kategorier/:slug/"
