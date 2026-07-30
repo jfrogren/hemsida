@@ -23,20 +23,51 @@
 <title>Joakim Frögren</title>
 <meta name="description" content="En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra.">
 
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://frogren.se">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Joakim Frögren">
-<meta property="og:description" content="En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra.">
-<meta property="og:image" content="https://opengraph.b-cdn.net/production/images/152220a3-babf-4a83-8936-f8d4c2e2d556.png?token=ffvL86EfnBYbkLgYBNxwRj0PsZ0_0yBpkT5Z-4hbW-I&height=512&width=512&expires=33259812368">
+<!-- Facebook Meta Tags (Open Graph) -->
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}"/>
+<meta property="og:locale" content="sv_SE">
+
+<!-- Dynamisk beskrivning för inlägg / startsida -->
+{{ if .Description -}}
+  <meta property="og:description" content="{{ .Description }}">
+{{ else if .IsPage -}}
+  <meta property="og:description" content="{{ .Summary | plainify }}">
+{{ else -}}
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+{{ end }}
+
+<!-- Dynamisk förhandsvisningsbild -->
+{{ if .Params.images -}}
+  {{ range first 1 .Params.images -}}
+    <meta property="og:image" content="{{ . | absURL }}">
+  {{ end }}
+{{ else -}}
+  <!-- Din fasta standardbild om inlägget saknar bild -->
+  <meta property="og:image" content="https://b-cdn.net">
+{{ end }}
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="frogren.se">
-<meta property="twitter:url" content="https://frogren.se">
-<meta name="twitter:title" content="Joakim Frögren">
-<meta name="twitter:description" content="En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra.">
-<meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/152220a3-babf-4a83-8936-f8d4c2e2d556.png?token=ffvL86EfnBYbkLgYBNxwRj0PsZ0_0yBpkT5Z-4hbW-I&height=512&width=512&expires=33259812368">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+
+{{ if .Description -}}
+  <meta name="twitter:description" content="{{ .Description }}">
+{{ else -}}
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+{{ end }}
+
+{{ if .Params.images -}}
+  {{ range first 1 .Params.images -}}
+    <meta name="twitter:image" content="{{ . | absURL }}">
+  {{ end }}
+{{ else -}}
+  <meta name="twitter:image" content="https://b-cdn.net">
+{{ end }}
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
