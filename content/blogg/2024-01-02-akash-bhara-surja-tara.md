@@ -2,9 +2,7 @@
 title: "Akash Bhara Surja Tara"
 date: 2024-01-02T02:16:55+01:00
 draft: false
-categories: ["Tagore", "Musik", "Film och teveserie", "Indien", "Sydasien"]
-aliases:
-  - /kategorier/
+kategorier: ["Tagore", "Musik", "Film och teveserie", "Indien", "Sydasien"]
 images:
     - "/images/akash-bhara.jpg"
 description: "Ritwik Ghatak, en svartsynt bengalisk filmskapare, jämförs med Satyajit Ray. Sången 'Akash Bhora Surjo Tara' från 'Komal Gandhar' berör djupt."

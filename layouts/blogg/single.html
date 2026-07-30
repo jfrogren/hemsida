@@ -6,13 +6,13 @@
 
       <div class="post-meta">
         <span class="post-time"> {{ .Date.Day }} {{ i18n (printf "long_month_%d" .PublishDate.Month) }} {{ .Date.Year }}</span>
-        {{ with .Params.categories -}}
-          <div class="post-category">
-            {{ range . -}}
-              <a href="{{ "categories" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
-            {{ end -}}
-          </div>
-        {{- end }}
+{{ with .Params.categories -}}
+  <div class="post-category">
+    {{ range . -}}
+      {{ partial "category-link.html" . }}
+    {{ end -}}
+  </div>
+{{- end }}
         {{- if .Site.Params.moreMeta }}
           <span class="more-meta"> {{ T "wordCount" .WordCount }} </span>
           <span class="more-meta"> {{ T "readingTime" .ReadingTime }} </span>

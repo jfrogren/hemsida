@@ -2,9 +2,7 @@
 title: "Barnvagnen"
 date: 2023-10-16T19:16:46+02:00
 draft: false
-categories: ["Film och teveserie", "Sverige"]
-aliases:
-  - /kategorier/
+kategorier: ["Film och teveserie", "Sverige"]
 og_type: article
 og_image: /images/barnvagnen.png
 images:

@@ -2,9 +2,7 @@
 title: "Flugan i litteraturen"
 date: 2019-06-18T18:34:32+02:00
 draft: false
-categories: ["Litteratur", "Djur och natur", "Frankrike", "Algeriet", "Afrika"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Djur och natur", "Frankrike", "Algeriet", "Afrika"]
 description: "Flugan symboliserar det okontrollerade i litteraturen, som visas av Bouraoui och Duras i sina verk."
 ---
 

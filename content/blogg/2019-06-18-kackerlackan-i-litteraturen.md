@@ -2,9 +2,7 @@
 title: "Kackerlackan i litteraturen"
 date: 2019-06-18T18:36:44+02:00
 draft: false
-categories: ["Litteratur", "Brasilien", "Italien", "Djur och natur"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Brasilien", "Italien", "Djur och natur"]
 description: "I *Passionen enligt G.H.* utmanar en kackerlacka protagonistens syn på mänsklighet och natur, likt ynglingen i Pasolinis _Teorema_."
 ---
 

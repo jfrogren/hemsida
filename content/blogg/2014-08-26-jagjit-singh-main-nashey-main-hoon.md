@@ -2,9 +2,7 @@
 title: "Jagjit Singh - Main nashey main hoon"
 date: 2014-08-26T11:29:03+02:00
 draft: false
-categories: ["Musik", "Indien", "Poesi", "Ghazal", "Sydasien"]
-aliases:
-  - /kategorier/
+kategorier: ["Musik", "Indien", "Poesi", "Ghazal", "Sydasien"]
 images:
   - "https://img.youtube.com/vi/AjRAws8ShJ0/maxresdefault.jpg"
 description: "Ghazalen *Main nashey main hoon* av Shahid Kabir, tolkad av Jagjit Singh, är en personlig favorit."

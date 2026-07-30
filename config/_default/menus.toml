@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "all-posts"
+  name = "Alla blogginlägg"
+  url = "/blogg"
+  weight = 1
+
+[[main]]
+  identifier = "categories"
+  name = "Kategorier"
+  url = "/kategorier"
+  weight = 2

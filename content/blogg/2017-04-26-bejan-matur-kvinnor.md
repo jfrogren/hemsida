@@ -2,9 +2,7 @@
 title: "Kvinnor"
 date: 2017-04-26T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "Turkiet"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Poesi", "Turkiet"]
 images:
     - "/images/bejan-matur.jpg"
 description: "Kvinnor med blå tatueringar och ärr står vid elden, bär ved, kämpar med minnen och ålder, och ger sig till jorden."

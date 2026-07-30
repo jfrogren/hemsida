@@ -63,22 +63,24 @@ unsafe = true
  # url = "/aktuellt"
  # weight = 5.0
 
-  [[menu.main]]
+[taxonomies]
+  kategorier = "kategorier"
+
+[permalinks]
+  kategorier = "/kategorier/:slug/"
+
+  
+[[menu.main]]
   name = "Alla blogginlägg"
   url = "/blogg"
   weight = 1.0
 
-  [[menu.main]]
+[[menu.main]]
   name = "Kategorier"
-  url = "/kategorier"
+  url = "/kategorier/"
   weight = 2.0
 
-[taxonomies]
-  categories = "categories"
-  tags = "tags"
-[permalinks]
-  categories = "/kategorier/:slug/"
-  tags = "/taggar/:slug/"
+
 
 [params]
   showSummary = true        # Tvingar Even-tematet att respektera brytpunkter för sammanfattningar

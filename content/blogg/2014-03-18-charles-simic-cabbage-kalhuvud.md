@@ -2,9 +2,7 @@
 title: "Cabbage/ Kålhuvud"
 date: 2014-03-18T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "USA"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Poesi", "USA"]
 description: "Kärlekens mysterier kan påverka beslut, som när en kvinna klyver ett kålhuvud efter en öm kyss."
 ---
 

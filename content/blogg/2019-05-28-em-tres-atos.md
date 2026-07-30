@@ -2,9 +2,7 @@
 title: "Em Três Atos"
 date: 2019-05-28T14:34:53+02:00
 draft: false
-categories: ["Film och teveserie", "Brasilien", "Litteratur", "Frankrike", "Åldrande"]
-aliases:
-  - /kategorier/
+kategorier: ["Film och teveserie", "Brasilien", "Litteratur", "Frankrike", "Åldrande"]
 description: "Se videoklippet tillhörande inlägget 'Em Três Atos' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/CTrMTRinA5Q/maxresdefault.jpg"

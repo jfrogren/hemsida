@@ -2,9 +2,7 @@
 title: "Piers Morgan Uncensored"
 date: 2023-11-06T10:15:24+01:00
 draft: false
-categories: ["Politik", "Religion", "Journalistik"]
-aliases:
-  - /kategorier/
+kategorier: ["Politik", "Religion", "Journalistik"]
 images:
   - "https://img.youtube.com/vi/kv8dmelNRk8/maxresdefault.jpg"
 description: "Piers Morgan skapar en plattform för öppna diskussioner om Israel-Hamas-konflikten, vilket väcker både beundran och kritik."

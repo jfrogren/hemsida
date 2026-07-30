@@ -2,9 +2,7 @@
 title: "10 maj 1994"
 date: 2018-03-18T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "Nederländerna"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Poesi", "Nederländerna"]
 description: "En reflektion över livets förgänglighet och minnen av en bortgången, där språk och tecken kvarstår i tystnaden."
 ---
 

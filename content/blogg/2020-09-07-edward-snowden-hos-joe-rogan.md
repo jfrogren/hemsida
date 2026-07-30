@@ -2,9 +2,7 @@
 title: "Edward Snowden hos Joe Rogan"
 date: 2020-09-07T23:35:44+02:00
 draft: false
-categories: ["USA", "Politik", "Ryssland"]
-aliases:
-  - /kategorier/
+kategorier: ["USA", "Politik", "Ryssland"]
 images:
   - "https://img.youtube.com/vi/efs3QRr8LWw/maxresdefault.jpg"
 description: "Joe Rogans samtal med Edward Snowden bjuder på en fängslande berättelse om hans liv i Ryssland och framtida upprättelse."

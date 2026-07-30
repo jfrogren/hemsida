@@ -1,0 +1,26 @@
+{{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
+
+{{- define "main" -}}
+<div class="terms">
+  <div class="terms-title">
+    {{ $terms := .Data.Terms.ByCount -}}
+    {{ $length := len $terms -}}
+    
+    {{/* Visar antalet kategorier med temats inbyggda översättning */}}
+    {{ if eq $length 0 -}} 
+      {{ T "zeroCategoryCounter" }} 
+    {{- else -}} 
+      {{ T "categoryCounter" $length }} 
+    {{- end }}
+  </div>
+
+  <div class="terms-tags">
+    {{ range $key, $value := $terms -}}
+    <a class="terms-link" href="{{ $value.Term | urlize | lower | printf "/kategorier/%s/" }}">
+      {{ $value.Term }}
+      <span class="terms-count">({{ len $value.Pages }})</span>
+    </a>
+    {{ end -}}
+  </div>
+</div>
+{{- end }}

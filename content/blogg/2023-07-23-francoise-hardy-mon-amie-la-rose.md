@@ -2,9 +2,7 @@
 title: "Françoise Hardy - Mon amie la rose (1964)"
 date: 2023-07-23T01:18:35+02:00
 draft: false
-categories: ["Musik", "Frankrike"]
-aliases:
-  - /kategorier/
+kategorier: ["Musik", "Frankrike"]
 description: "Se videoklippet tillhörande inlägget 'Françoise Hardy - Mon amie la rose (1964)' på Joakim Frögrens blogg."
 images:
  - "/images/mon-amie-la-rose.jpg"

@@ -2,9 +2,7 @@
 title: "Harry Moberg"
 date: 2020-11-05T17:10:00+01:00
 draft: false
-categories: ["Konst", "Frankrike", "Sverige"]
-aliases:
-  - /kategorier/
+kategorier: ["Konst", "Frankrike", "Sverige"]
 images:
   - "https://img.youtube.com/vi/i84zrbxG798/maxresdefault.jpg"
 description: "Harry Moberg (1927-2018) skapade grafik, målningar och skulpturer. Hans artist books har fått uppmärksamhet i tidskriften Biblis."

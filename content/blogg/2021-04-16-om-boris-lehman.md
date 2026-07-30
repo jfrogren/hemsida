@@ -2,9 +2,7 @@
 title: "Om Boris Lehman"
 date: 2021-04-16T00:27:44+02:00
 draft: false
-categories: ["Film och teveserie", "Belgien", "Filosofi", "Musik"]
-aliases:
-  - /kategorier/
+kategorier: ["Film och teveserie", "Belgien", "Filosofi", "Musik"]
 images:
   - "/images/boris-lehman.png"
 description: "Boris Lehman utforskar livets arv och arkivens betydelse i ett tankeväckande radioprogram. Musik och artiklar kompletterar temat."

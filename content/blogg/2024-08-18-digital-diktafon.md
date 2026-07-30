@@ -2,9 +2,7 @@
 title: "Digital diktafon"
 date: 2024-08-18T05:12:34+02:00
 draft: false
-categories: ["Verktyg"]
-aliases:
-  - /kategorier/
+kategorier: ["Verktyg"]
 images:
   - "https://img.youtube.com/vi/hJavRskWdW0/maxresdefault.jpg"
 description: "För bättre ljudinspelningar rekommenderas Sony UX 570, Rode VideoMicro och Aputure A.Lav EZ Lapel Mic för intervjuer och ljudlandskap."

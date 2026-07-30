@@ -2,9 +2,7 @@
 title: "Tomas Tranströmer på Runmarö"
 date: 2015-09-28T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi"]
-aliases:
-  - /kategorier/
+kategorier: ["Litteratur", "Poesi"]
 images:
   - "https://img.youtube.com/vi/oOLJu31Si1c/maxresdefault.jpg"
 description: "Tranströmer diskuterar sin poesi och reciterar dikten *Allegro* i ett teveinslag från 1980."

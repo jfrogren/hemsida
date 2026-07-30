@@ -3,9 +3,7 @@ title: "Grupo Niche - Una Aventura"
 date: 2026-07-18T12:00:00+02:00
 slug: "grupo-niche-una-aventura"
 draft: false
-categories: ["Musik", "Salsa", "Sydamerika"]
-aliases:
-  - /kategorier/
+kategorier: ["Musik", "Salsa", "Sydamerika"]
 images:
   - "https://img.youtube.com/vi/KOBV5HKWok8/maxresdefault.jpg"
 description: "Minnesvärd sommarkväll i Barcelona med italienska musikminnen från 1990-1991. Känslan av liv och kontinental atmosfär!"

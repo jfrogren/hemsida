@@ -2,9 +2,7 @@
 title: "Two Sevens Clash"
 date: 2023-10-31T13:00:15+01:00
 draft: false
-categories: ["Musik", "Reggae", "Jamaica"]
-aliases:
-  - /kategorier/
+kategorier: ["Musik", "Reggae", "Jamaica"]
 description: "Föll för flera spår i Soul Jazz-samlingen från Joe Gibbs Productions, särskilt en låt av Culture."
 ---
 

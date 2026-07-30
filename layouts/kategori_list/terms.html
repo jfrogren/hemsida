@@ -1,0 +1,27 @@
+{{- define "title" }}Kategorier - {{ .Site.Title }}{{ end -}}
+
+{{- define "main" -}}
+<div class="terms">
+  <div class="terms-title">
+    <h1>Kategorier</h1>
+  </div>
+
+  <div class="terms-tags">
+    {{ $kategorier := .Site.Taxonomies.kategorier }}
+    {{ if $kategorier }}
+      <ul class="terms-list">
+        {{ range $name, $taxonomy := $kategorier }}
+          <li>
+            <a class="terms-link" href="/kategorier/{{ $name | urlize }}/">
+              {{ $name | humanize }}
+              <span class="terms-count">({{ len $taxonomy.Pages }})</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>Inga kategorier hittades. Kontrollera din front matter.</p>
+    {{ end }}
+  </div>
+</div>
+{{- end }}
