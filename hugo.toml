@@ -51,7 +51,7 @@ unsafe = true
     tag = "taggar"
 
 [permalinks]
-  categories = "/kategorier/:slug/"
+  kategorier = "/kategorier/:slug/"
   taggar = "/taggar/:slug/"
 
 [menu]
