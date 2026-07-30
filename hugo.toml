@@ -19,6 +19,9 @@ defaultContentLanguage = "sv"
 [params]
   showSummary = true
 
+[security]
+  allowContent = [".*"]
+
 [languages]
   [languages.sv]
     languageName = "Svenska"
@@ -27,6 +30,3 @@ defaultContentLanguage = "sv"
     [languages.sv.taxonomies]
       kategorier = "kategorier"
       taggar = "taggar"
-
-# Sitemap, rss, author och övriga generella inställningar kan läggas till efter behov.
-
