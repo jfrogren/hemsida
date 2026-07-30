@@ -1,4 +1,5 @@
 ---
+slug: "les-shleu-shleu-dans-la-vie"
 title: "Les Shleu Shleu - Dans la vie"
 date: 2014-12-09
 draft: false

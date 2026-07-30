@@ -1,4 +1,5 @@
 ---
+slug: "jagjit-singh-main-nashey-main-hoon"
 title: "Jagjit Singh - Main nashey main hoon"
 date: 2014-08-26T11:29:03+02:00
 draft: false

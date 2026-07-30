@@ -1,4 +1,5 @@
 ---
+slug: "jazz-pa-la-fontaine"
 title: "Jazz på La Fontaine"
 date: 2024-02-10T00:59:06+01:00
 draft: false

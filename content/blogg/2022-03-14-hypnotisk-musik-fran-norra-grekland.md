@@ -1,4 +1,5 @@
 ---
+slug: "hypnotisk-musik-fran-norra-grekland"
 title: "Hypnotisk musik från norra Grekland"
 date: 2022-03-14T11:29:03+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "en-teckning-av-laetitia-benat"
 title: "En teckning av Laetitia Bénat"
 date: 2015-09-01T11:29:03+02:00
 draft: false

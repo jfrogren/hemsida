@@ -1,4 +1,5 @@
 ---
+slug: "heideggers-i-varlden-varo-forklarat"
 title: "Heideggers 'i-världen-varo' förklarat"
 date: 2021-07-27T15:06:38+02:00
 draft: false

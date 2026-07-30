@@ -1,4 +1,5 @@
 ---
+slug: "anna-swirszczynska-tararna"
 title: "Tårarna"
 date: 2016-03-22T11:29:03+02:00
 draft: false

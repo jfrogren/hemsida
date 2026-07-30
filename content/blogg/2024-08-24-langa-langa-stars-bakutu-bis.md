@@ -1,4 +1,5 @@
 ---
+slug: "langa-langa-stars-bakutu-bis"
 title: "Langa Langa Stars - Bakutu Bis (1981)"
 date: 2024-08-24T02:09:57+02:00
 draft: false

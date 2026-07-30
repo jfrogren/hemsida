@@ -1,4 +1,5 @@
 ---
+slug: "alva-dahl-om-kate-zambreno"
 title: "Alva Dahl om Kate Zambreno"
 date: 2025-03-18T23:13:23+01:00
 draft: false

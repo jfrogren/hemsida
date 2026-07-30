@@ -1,4 +1,5 @@
 ---
+slug: "baluji-shrivastav"
 title: "Baluji Shrivastav"
 date: 2015-04-08T11:29:03+02:00
 draft: false

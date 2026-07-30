@@ -1,4 +1,5 @@
 ---
+slug: "two-sevens-clash"
 title: "Two Sevens Clash"
 date: 2023-10-31T13:00:15+01:00
 draft: false

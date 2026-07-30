@@ -1,4 +1,5 @@
 ---
+slug: "om-litteratur-och-litteraturvarlden"
 title: "Om litteratur och litteraturvärlden"
 date: 2024-09-10T13:10:11+02:00
 draft: false

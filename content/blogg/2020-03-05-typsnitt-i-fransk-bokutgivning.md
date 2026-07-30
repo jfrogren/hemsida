@@ -1,4 +1,5 @@
 ---
+slug: "typsnitt-i-fransk-bokutgivning"
 title: "Typsnitt i fransk bokutgivning"
 date: 2020-03-15T13:08:07+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "lars-gustafsson"
 Title: Lars Gustafssons humor och intellekt
 Date: 2020-03-09
 Draft: false

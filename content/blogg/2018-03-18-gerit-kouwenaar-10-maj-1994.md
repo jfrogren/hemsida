@@ -1,4 +1,5 @@
 ---
+slug: "gerit-kouwenaar-10-maj-1994"
 title: "10 maj 1994"
 date: 2018-03-18T11:29:03+02:00
 draft: false

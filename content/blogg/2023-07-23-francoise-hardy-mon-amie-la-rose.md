@@ -1,4 +1,5 @@
 ---
+slug: "francoise-hardy-mon-amie-la-rose"
 title: "Françoise Hardy - Mon amie la rose (1964)"
 date: 2023-07-23T01:18:35+02:00
 draft: false

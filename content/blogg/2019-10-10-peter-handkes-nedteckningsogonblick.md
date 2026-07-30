@@ -1,4 +1,5 @@
 ---
+slug: "peter-handkes-nedteckningsogonblick"
 title: "Peter Handkes nedteckningsögonblick"
 date: 2019-10-10T12:44:40+02:00
 draft: false

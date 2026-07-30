@@ -1,4 +1,5 @@
 ---
+slug: "mark-fishers-k-punk"
 title: "Mark Fishers k-punk"
 date: 2019-05-19T18:29:59+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "effortless-superiority"
 title: "Effortless Superiority"
 date: 2019-06-27T20:42:35+02:00
 draft: false

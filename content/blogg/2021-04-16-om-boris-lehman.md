@@ -1,4 +1,5 @@
 ---
+slug: "om-boris-lehman"
 title: "Om Boris Lehman"
 date: 2021-04-16T00:27:44+02:00
 draft: false

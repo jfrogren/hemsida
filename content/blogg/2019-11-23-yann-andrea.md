@@ -1,4 +1,5 @@
 ---
+slug: "yann-andrea"
 title: "Yann Andréa"
 date: 2019-11-23T04:08:48+02:00
 draft: false

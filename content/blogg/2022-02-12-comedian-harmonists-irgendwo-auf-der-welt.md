@@ -1,4 +1,5 @@
 ---
+slug: "comedian-harmonists-irgendwo-auf-der-welt"
 title: "Comedian Harmonists - Irgendwo auf der Welt"
 date: 2022-02-12T11:29:03+02:00
 draft: false

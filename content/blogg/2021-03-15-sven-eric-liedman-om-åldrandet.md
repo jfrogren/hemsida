@@ -1,4 +1,5 @@
 ---
+slug: "sven-eric-liedman-om-åldrandet"
 title: "Sven-Eric Liedman om att åldras"
 date: 2021-03-15T14:44:06+01:00
 draft: false

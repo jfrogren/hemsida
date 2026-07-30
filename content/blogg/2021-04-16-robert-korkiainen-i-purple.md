@@ -1,4 +1,5 @@
 ---
+slug: "robert-korkiainen-i-purple"
 title: "Robert Korkiainen i Purple"
 date: 2021-04-16T01:18:56+02:00
 draft: false

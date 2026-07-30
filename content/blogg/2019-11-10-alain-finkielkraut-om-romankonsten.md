@@ -1,4 +1,5 @@
 ---
+slug: "alain-finkielkraut-om-romankonsten"
 title: "Alain Finkielkraut om romankonsten"
 date: 2019-11-10T15:51:57+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "orquesta-aragon-yo-tengo-una-muneca"
 title: "Orquesta Aragon - Yo tengo una muneca"
 date: 2022-10-08T11:29:03+02:00
 draft: false

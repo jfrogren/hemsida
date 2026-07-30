@@ -1,4 +1,5 @@
 ---
+slug: "tva-tolkningar-av-embraceable-you"
 title: "Två tolkningar av 'Embraceable You'"
 date: 2015-06-13T11:29:03+02:00
 draft: false

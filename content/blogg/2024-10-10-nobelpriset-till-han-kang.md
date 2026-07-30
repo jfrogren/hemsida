@@ -1,4 +1,5 @@
 ---
+slug: "nobelpriset-till-han-kang"
 title: "Nobelpriset i litteratur till Han Kang"
 date: 2024-10-10T01:07:47+02:00
 draft: false

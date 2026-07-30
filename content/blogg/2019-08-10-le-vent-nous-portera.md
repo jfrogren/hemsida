@@ -1,4 +1,5 @@
 ---
+slug: "le-vent-nous-portera"
 title: "Le vent nous portera"
 date: 2019-08-10T04:54:37+02:00
 draft: false

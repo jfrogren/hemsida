@@ -1,4 +1,5 @@
 ---
+slug: "on-a-desert-isle"
 title: "C.W. Stoneking - On a Desert Isle"
 date: 2023-12-07T03:10:33+01:00
 draft: false

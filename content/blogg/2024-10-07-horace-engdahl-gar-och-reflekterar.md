@@ -1,4 +1,5 @@
 ---
+slug: "horace-engdahl-gar-och-reflekterar"
 title: "Horace Engdahl går och reflekterar i nytt SVT-porträtt"
 date: 2024-10-07T12:31:40+02:00
 draft: false

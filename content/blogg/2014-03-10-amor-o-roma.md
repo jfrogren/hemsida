@@ -1,4 +1,5 @@
 ---
+slug: "amor-o-roma"
 title: "Amor o Romã"
 date: 2014-03-10T11:29:03+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "don-cherrys-lätthet"
 title: "Don Cherrys lätthet"
 date: 2019-06-20T18:59:50+02:00
 draft: false

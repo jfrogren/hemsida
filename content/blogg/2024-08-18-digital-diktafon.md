@@ -1,4 +1,5 @@
 ---
+slug: "digital-diktafon"
 title: "Digital diktafon"
 date: 2024-08-18T05:12:34+02:00
 draft: false

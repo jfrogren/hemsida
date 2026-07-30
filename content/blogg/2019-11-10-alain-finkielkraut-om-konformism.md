@@ -1,4 +1,5 @@
 ---
+slug: "alain-finkielkraut-om-konformism"
 title: "Alain Finkielkraut om konformism"
 date: 2019-11-10T16:03:12+02:00
 draft: false

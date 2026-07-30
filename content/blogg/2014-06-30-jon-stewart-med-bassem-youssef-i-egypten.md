@@ -1,4 +1,5 @@
 ---
+slug: "jon-stewart-med-bassem-youssef-i-egypten"
 title: "Jon Stewart med Bassem Youssef i Egypten"
 date: 2014-06-30T11:29:03+02:00
 draft: false

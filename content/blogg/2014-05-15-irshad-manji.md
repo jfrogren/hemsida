@@ -1,4 +1,5 @@
 ---
+slug: "irshad-manji"
 title: "Irshad Manji"
 date: 2014-05-15T17:14:44+01:00
 draft: false

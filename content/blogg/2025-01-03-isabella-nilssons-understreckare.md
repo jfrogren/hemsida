@@ -1,4 +1,5 @@
 ---
+slug: "isabella-nilssons-understreckare"
 title: "Isabella Nilssons understreckare"
 date: 2025-01-03T08:33:04+01:00
 draft: false

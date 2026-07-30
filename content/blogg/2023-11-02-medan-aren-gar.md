@@ -1,4 +1,5 @@
 ---
+slug: "medan-aren-gar"
 title: "Medan åren går"
 date: 2023-11-02T02:19:46+01:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "kaurismäkis-nya"
 title: "Kaurismäkis nya"
 date: 2023-10-14T17:19:32+02:00
 draft: false

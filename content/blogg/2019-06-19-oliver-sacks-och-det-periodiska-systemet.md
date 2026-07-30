@@ -1,4 +1,5 @@
 ---
+slug: "oliver-sacks-och-det-periodiska-systemet"
 title: "Oliver Sacks och det periodiska systemet"
 date: 2019-06-19T18:43:09+02:00
 draft: false

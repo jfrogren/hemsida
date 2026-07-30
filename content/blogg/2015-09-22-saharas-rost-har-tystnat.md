@@ -1,4 +1,5 @@
 ---
+slug: "saharas-rost-har-tystnat"
 title: "Saharas röst har tystnat"
 date: 2015-09-22T12:29:03+02:00
 draft: false

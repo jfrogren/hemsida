@@ -1,4 +1,5 @@
 ---
+slug: "dh-lawrence-pomegranate"
 title: "Pomegranate"
 date: 2017-03-10T11:29:03+02:00
 draft: false

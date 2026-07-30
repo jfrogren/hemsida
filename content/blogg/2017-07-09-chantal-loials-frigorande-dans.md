@@ -1,4 +1,5 @@
 ---
+slug: "chantal-loials-frigorande-dans"
 title: "Chantal Loïals frigörande dans"
 date: 2017-07-09T12:29:03+02:00
 draft: false

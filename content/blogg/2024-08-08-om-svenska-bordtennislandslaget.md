@@ -1,4 +1,5 @@
 ---
+slug: "om-svenska-bordtennislandslaget"
 title: "Om svenska bordtennislandslaget"
 date: 2024-08-08T18:29:02+02:00
 draft: false

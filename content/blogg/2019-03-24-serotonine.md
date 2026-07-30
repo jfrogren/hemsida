@@ -1,4 +1,5 @@
 ---
+slug: "serotonine"
 title: "Sérotonine"
 date: 2019-03-24T02:29:03+02:00
 draft: false

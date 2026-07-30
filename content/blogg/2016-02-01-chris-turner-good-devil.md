@@ -1,4 +1,5 @@
 ---
+slug: "chris-turner-good-devil"
 title: "Chris Turner - G(O)OD - (D)EVIL"
 date: 2016-02-01T11:29:03+02:00
 draft: false

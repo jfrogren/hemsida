@@ -1,4 +1,5 @@
 ---
+slug: "anne-goyen-arbres-soyez"
 title: "Anne Goyen - Arbres, soyez"
 date: 2015-03-25T11:29:03+02:00
 draft: false

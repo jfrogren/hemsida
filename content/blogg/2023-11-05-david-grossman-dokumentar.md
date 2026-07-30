@@ -1,4 +1,5 @@
 ---
+slug: "david-grossman-dokumentar"
 title: "David Grossman-dokumentär"
 date: 2023-11-05T08:51:34+01:00
 draft: false

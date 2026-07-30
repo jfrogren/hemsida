@@ -1,4 +1,5 @@
 ---
+slug: "piers-morgan-uncensored"
 title: "Piers Morgan Uncensored"
 date: 2023-11-06T10:15:24+01:00
 draft: false

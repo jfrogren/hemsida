@@ -1,4 +1,5 @@
 ---
+slug: "atlantpaktens-klocka-klamtar"
 title: "Atlantpaktens klocka klämtar"
 date: 2025-02-22T23:32:49+01:00
 draft: false

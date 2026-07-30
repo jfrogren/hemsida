@@ -1,4 +1,5 @@
 ---
+slug: "charles-simic-cabbage-kalhuvud"
 title: "Cabbage/ Kålhuvud"
 date: 2014-03-18T11:29:03+02:00
 draft: false

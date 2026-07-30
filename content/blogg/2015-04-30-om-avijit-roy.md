@@ -1,4 +1,5 @@
 ---
+slug: "om-avijit-roy"
 title: "Om Avijit Roy"
 date: 2015-04-30T11:29:03+02:00
 draft: false

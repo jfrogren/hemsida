@@ -1,4 +1,5 @@
 ---
+slug: "bengt-anderberg-regn-efter-fylla"
 title: "Regn efter fylla"
 date: 2014-02-18T11:29:03+02:00
 draft: false

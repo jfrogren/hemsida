@@ -1,4 +1,5 @@
 ---
+slug: "lars-gustafsson-om-detaljer-och-sammanhang"
 title: "Lars Gustafsson om detaljer och sammanhang"
 date: 2019-08-08T23:10:11+02:00
 draft: false

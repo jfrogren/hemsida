@@ -1,4 +1,5 @@
 ---
+slug: "om-AI-och-risken-for-fordumning"
 title: "Om AI och risken för fördumning"
 date: 2025-01-15T00:39:30+01:00
 draft: false

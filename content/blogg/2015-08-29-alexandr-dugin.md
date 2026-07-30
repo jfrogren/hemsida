@@ -1,4 +1,5 @@
 ---
+slug: "alexandr-dugin"
 title: "Alexandr Dugin"
 date: 2015-08-29T17:29:03+02:00
 draft: false

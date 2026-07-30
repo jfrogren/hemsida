@@ -1,4 +1,5 @@
 ---
+slug: "duras-forsta-mening"
 title: "Duras första mening"
 date: 2019-11-26T12:35:02+02:00
 draft: false

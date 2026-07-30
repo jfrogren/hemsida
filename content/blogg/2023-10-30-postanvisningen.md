@@ -1,4 +1,5 @@
 ---
+slug: "postanvisningen"
 title: "Postanvisningen"
 date: 2023-10-30T11:22:41+01:00
 draft: false

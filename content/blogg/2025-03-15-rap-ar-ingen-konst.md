@@ -1,4 +1,5 @@
 ---
+slug: "rap-ar-ingen-konst"
 title: "Rap är ingen konst"
 date: 2025-03-15T00:13:11+01:00
 draft: false

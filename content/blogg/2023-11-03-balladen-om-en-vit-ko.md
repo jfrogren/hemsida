@@ -1,4 +1,5 @@
 ---
+slug: "balladen-om-en-vit-ko"
 title: "Balladen om en vit ko"
 date: 2023-11-03T02:30:43+01:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "sportlovssnack-i-sturebadets-bastu"
 title: "Sportlovssnack i Sturebadets bastu"
 date: 2025-02-27T23:48:17+01:00
 draft: false

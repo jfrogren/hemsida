@@ -1,4 +1,5 @@
 ---
+slug: "situationen-i-bangladesh-forklarad"
 title: "Situationen i Bangladesh förklarad"
 date: 2024-08-07T18:14:55+02:00
 draft: false

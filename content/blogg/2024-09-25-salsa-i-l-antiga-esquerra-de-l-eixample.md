@@ -1,4 +1,5 @@
 ---
+slug: "salsa-i-l-antiga-esquerra-de-l-eixample"
 title: "Salsa i L'Antiga Esquerra de l'Eixample"
 date: 2024-09-25T00:46:28+02:00
 draft: false

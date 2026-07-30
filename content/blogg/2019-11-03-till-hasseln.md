@@ -1,4 +1,5 @@
 ---
+slug: "till-hasseln"
 title: "Till hasseln - dikt av Czesław Miłosz"
 date: 2019-11-03T16:36:32+02:00
 draft: false

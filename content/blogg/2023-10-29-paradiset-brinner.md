@@ -1,4 +1,5 @@
 ---
+slug: "paradiset-brinner"
 title: "Paradiset brinner"
 date: 2023-10-29T18:39:40+01:00
 draft: false

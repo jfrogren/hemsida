@@ -1,4 +1,5 @@
 ---
+slug: "trilling-om-flyktingkrisen"
 title: "Trilling om flyktingkrisen"
 date: 2017-08-26T12:29:03+02:00
 draft: false

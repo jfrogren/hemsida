@@ -1,4 +1,5 @@
 ---
+slug: "fem-favoritlatar-av-simaro-lutumba"
 title: "Fem favoritlåtar av Simaro Lutumba"
 date: 2016-08-11T12:29:03+02:00
 draft: false

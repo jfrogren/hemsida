@@ -1,4 +1,5 @@
 ---
+slug: "purcell-nyman-och-pet-shop-boys"
 title: "Purcell, Nyman och Pet Shop Boys"
 date: 2023-10-26T12:30:31+02:00
 draft: false

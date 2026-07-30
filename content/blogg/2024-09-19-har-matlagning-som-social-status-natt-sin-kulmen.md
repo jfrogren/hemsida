@@ -1,4 +1,5 @@
 ---
+slug: "har-matlagning-som-social-status-natt-sin-kulmen"
 title: "Har matlagning som social status nått sin kulmen?"
 date: 2024-09-19T21:29:51+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "nog-var-han-en-van-keps"
 title: "Nog var han en vän-keps"
 date: 2024-08-20T22:22:22+02:00
 draft: false

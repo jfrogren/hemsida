@@ -1,4 +1,5 @@
 ---
+slug: "jean-giono-om-intellektuell-och-sensuell-medvetenhet"
 title: "Jean Giono om intellektuell och sensuell medvetenhet"
 date: 2019-11-11T14:34:38+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "nina-simone-baltimore"
 title: "Nina Simone - Baltimore"
 date: 2017-10-29T11:29:03+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "blue-blue-electric-blue-skrivmaskin"
 title: "Blue, blue, electric blue...  skrivmaskin"
 date: 2017-07-12T12:29:03+02:00
 draft: false

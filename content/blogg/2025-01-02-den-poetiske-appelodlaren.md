@@ -1,4 +1,5 @@
 ---
+slug: "den-poetiske-appelodlaren"
 title: "Den poetiske äppelodlaren"
 date: 2025-01-02T09:14:08+01:00
 draft: false

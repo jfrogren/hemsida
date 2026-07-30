@@ -1,4 +1,5 @@
 ---
+slug: "manu-larcenet"
 title: "Manu Larcenet"
 date: 2020-10-26T00:10:13+01:00
 draft: false

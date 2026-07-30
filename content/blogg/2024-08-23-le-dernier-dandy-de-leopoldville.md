@@ -1,4 +1,5 @@
 ---
+slug: "le-dernier-dandy-de-leopoldville"
 title: "Le dernier dandy de Léopoldville"
 date: 2024-08-23
 draft: false

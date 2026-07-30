@@ -1,4 +1,5 @@
 ---
+slug: "hommage-national-a-samuel-paty"
 title: "Hommage national à Samuel Paty"
 date: 2020-10-22T15:16:03+01:00
 draft: false

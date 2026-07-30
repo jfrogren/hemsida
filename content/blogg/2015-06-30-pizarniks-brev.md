@@ -1,4 +1,5 @@
 ---
+slug: "pizarniks-brev"
 title: "Pizarniks brev"
 date: 2015-06-30T11:29:03+02:00
 draft: false

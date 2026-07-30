@@ -1,4 +1,5 @@
 ---
+slug: "kristoffer-nilsson-konstnar-och-tidningsbud"
 title: "Kristoffer Nilsson - Konstnär och tidningsbud"
 date: 2024-10-20T22:32:12+02:00
 draft: false

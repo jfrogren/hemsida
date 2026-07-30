@@ -1,4 +1,5 @@
 ---
+slug: "tomas-transtromer-pa-runmaro"
 title: "Tomas Tranströmer på Runmarö"
 date: 2015-09-28T11:29:03+02:00
 draft: false

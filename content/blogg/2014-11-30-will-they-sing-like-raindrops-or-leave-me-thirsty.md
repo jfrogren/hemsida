@@ -1,4 +1,5 @@
 ---
+slug: "will-they-sing-like-raindrops-or-leave-me-thirsty"
 title: "Will They Sing Like Raindrops or Leave Me Thirsty"
 date: 2014-11-30T11:29:03+02:00
 draft: false

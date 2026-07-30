@@ -1,4 +1,5 @@
 ---
+slug: "morning-coffee-in-aleppo-syria"
 title: "Morning coffee in Aleppo, Syria"
 date: 2015-08-30T11:29:03+02:00
 draft: false

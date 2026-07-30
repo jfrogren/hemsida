@@ -1,4 +1,5 @@
 ---
+slug: "bejan-matur-kvinnor"
 title: "Kvinnor"
 date: 2017-04-26T11:29:03+02:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "flugan-i-litteraturen"
 title: "Flugan i litteraturen"
 date: 2019-06-18T18:34:32+02:00
 draft: false

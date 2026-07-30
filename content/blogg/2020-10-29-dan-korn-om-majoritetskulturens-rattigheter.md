@@ -1,4 +1,5 @@
 ---
+slug: "dan-korn-om-majoritetskulturens-rattigheter"
 title: "Dan Korn om majoritetskulturens rättigheter"
 date: 2020-10-29T14:51:53+01:00
 draft: false

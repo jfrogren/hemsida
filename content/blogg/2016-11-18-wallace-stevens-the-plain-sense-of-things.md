@@ -1,4 +1,5 @@
 ---
+slug: "wallace-stevens-the-plain-sense-of-things"
 title: "The Plain Sense of Things"
 date: 2016-11-18T11:29:03+02:00
 draft: false

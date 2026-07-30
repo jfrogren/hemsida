@@ -1,4 +1,5 @@
 ---
+slug: "three-piece-suit"
 title: "Three Piece Suit"
 date: 2023-11-01T13:19:50+01:00
 draft: false

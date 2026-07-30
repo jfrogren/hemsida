@@ -1,4 +1,5 @@
 ---
+slug: "francoise-hardy-si-cest-ca"
 title: "Françoise Hardy - Si c'est ça (1966)"
 date: 2021-07-16T01:12:03+02:00
 draft: false

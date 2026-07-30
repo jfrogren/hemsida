@@ -1,4 +1,5 @@
 ---
+slug: "harry-moberg"
 title: "Harry Moberg"
 date: 2020-11-05T17:10:00+01:00
 draft: false

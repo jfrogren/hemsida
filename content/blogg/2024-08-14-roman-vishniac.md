@@ -1,4 +1,5 @@
 ---
+slug: "roman-vishniac"
 title: "Roman Vishniac"
 date: 2024-08-14T01:45:14+02:00
 draft: false

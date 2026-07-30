@@ -1,4 +1,5 @@
 ---
+slug: "varldens-vackraste-moped"
 title: "Världens vackraste moped?"
 date: 2024-09-15T21:07:03+02:00
 draft: false

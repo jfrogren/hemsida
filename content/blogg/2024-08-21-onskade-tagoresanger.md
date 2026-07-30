@@ -1,4 +1,5 @@
 ---
+slug: "onskade-tagoresanger"
 title: "Önskade Tagore-sånger"
 date: 2024-08-21T22:36:17+02:00
 draft: true

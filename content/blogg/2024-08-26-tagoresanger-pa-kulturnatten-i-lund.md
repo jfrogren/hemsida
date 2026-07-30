@@ -1,4 +1,5 @@
 ---
+slug: "tagoresanger-pa-kulturnatten-i-lund"
 title: "Tagoresånger på Kulturnatten i Lund"
 date: 2024-08-26T22:39:19+02:00
 draft: false

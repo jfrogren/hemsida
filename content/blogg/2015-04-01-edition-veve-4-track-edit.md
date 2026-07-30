@@ -1,4 +1,5 @@
 ---
+slug: "edition-veve-4-track-edit"
 title: "Édition Vévé - 4 Track Edit"
 date: 2015-04-01T11:29:03+02:00
 draft: false

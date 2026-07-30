@@ -1,4 +1,5 @@
 ---
+slug: "jai-hamid-bashir-laser-ur-sin-debutdiktsamling"
 title: "Jai Hamid Bashir läser ur sin debutdiktsamling"
 date: 2024-10-11T01:32:51+02:00
 draft: false

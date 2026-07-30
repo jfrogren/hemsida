@@ -1,4 +1,5 @@
 ---
+slug: "andre-bjerke-berceuse"
 title: "Berceuse"
 date: 2014-02-26T11:29:03+02:00
 draft: false

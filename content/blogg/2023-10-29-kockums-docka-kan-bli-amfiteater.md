@@ -1,4 +1,5 @@
 ---
+slug: "kockums-docka-kan-bli-amfiteater"
 title: "Kockums docka kan bli amfiteater"
 date: 2023-10-29T12:53:01+01:00
 draft: false

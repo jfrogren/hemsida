@@ -1,4 +1,5 @@
 ---
+slug: "hamed-abdel-samad-om-islamofobi"
 title: "Hamed Abdel-Samad om islamofobi"
 date: 2020-10-30T14:47:52+01:00
 draft: false

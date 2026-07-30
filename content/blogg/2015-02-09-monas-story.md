@@ -1,4 +1,5 @@
 ---
+slug: "monas-story"
 title: "Mona's story"
 date: 2015-02-09T11:29:03+02:00
 draft: false

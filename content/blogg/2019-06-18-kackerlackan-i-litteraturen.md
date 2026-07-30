@@ -1,4 +1,5 @@
 ---
+slug: "kackerlackan-i-litteraturen"
 title: "Kackerlackan i litteraturen"
 date: 2019-06-18T18:36:44+02:00
 draft: false

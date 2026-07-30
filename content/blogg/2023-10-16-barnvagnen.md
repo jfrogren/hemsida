@@ -1,4 +1,5 @@
 ---
+slug: "barnvagnen"
 title: "Barnvagnen"
 date: 2023-10-16T19:16:46+02:00
 draft: false

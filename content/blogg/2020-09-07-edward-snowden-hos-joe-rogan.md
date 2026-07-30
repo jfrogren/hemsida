@@ -1,4 +1,5 @@
 ---
+slug: "edward-snowden-hos-joe-rogan"
 title: "Edward Snowden hos Joe Rogan"
 date: 2020-09-07T23:35:44+02:00
 draft: false

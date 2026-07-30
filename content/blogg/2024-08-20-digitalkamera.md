@@ -1,4 +1,5 @@
 ---
+slug: "digitalkamera"
 title: "Digitalkamera"
 date: 2024-08-20T05:39:07+02:00
 draft: false

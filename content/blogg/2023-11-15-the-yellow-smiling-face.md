@@ -1,4 +1,5 @@
 ---
+slug: "the-yellow-smiling-face"
 title: "The Yellow Smiling Face"
 date: 2023-11-15T07:28:30+01:00
 draft: false

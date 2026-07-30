@@ -1,4 +1,5 @@
 ---
+slug: "ostordheten-som-klass-och-konsprivilegium"
 title: "Ostördheten som klass- och könsprivilegium"
 date: 2019-06-18T18:28:29+02:00
 draft: false

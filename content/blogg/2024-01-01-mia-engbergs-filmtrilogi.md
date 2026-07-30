@@ -1,4 +1,5 @@
 ---
+slug: "mia-engbergs-filmtrilogi"
 title: "Mia Engbergs filmtrilogi"
 date: 2024-01-01T23:52:10+01:00
 draft: false

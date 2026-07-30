@@ -1,4 +1,5 @@
 ---
+slug: "durs-grunbein-nagon-annanstans"
 title: "Någon annanstans"
 date: 2018-04-27T11:29:03+02:00
 draft: false

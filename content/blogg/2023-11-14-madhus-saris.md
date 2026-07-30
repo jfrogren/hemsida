@@ -1,4 +1,5 @@
 ---
+slug: "madhus-saris"
 title: "Madhu's Saris"
 date: 2023-11-14T23:20:07+01:00
 draft: false

@@ -1,4 +1,5 @@
 ---
+slug: "francoise-hardy-tous-les-garcons-et-les-filles"
 title: "Françoise Hardy - Tous les garçons et les filles (1962)"
 date: 2024-08-10T18:40:56+02:00
 draft: false
