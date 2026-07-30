@@ -2,7 +2,7 @@
 title: "Effortless Superiority"
 date: 2019-06-27T20:42:35+02:00
 draft: false
-categories: ["Litteratur", "Politik", "Storbritannien", "USA"]
+kategorier: ["Litteratur", "Politik", "Storbritannien", "USA"]
 description: "James Wood jämför Eton med Lundsberg och beskriver en '规格effortless superiority'规格 hos privilegierade ledare som Cameron och Johnson, som inte speglar de flesta britters verklighet."
 ---
 

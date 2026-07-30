@@ -2,7 +2,7 @@
 title: "Czesław Miłosz om drömmens kraft och lycka"
 date: 2019-11-03T13:57:44+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "Polen"]
+kategorier: ["Litteratur", "Poesi", "Polen"]
 description: "Czesław Miłosz reflekterar i _Snabba steg_ över livets cykler, där drömmen om barndomen ger en bittersöt känsla av nostalgi och närvaro."
 ---
 

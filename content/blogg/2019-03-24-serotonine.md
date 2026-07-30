@@ -2,7 +2,7 @@
 title: "Sérotonine"
 date: 2019-03-24T02:29:03+02:00
 draft: false
-categories: ["Litteratur", "Frankrike"]
+kategorier: ["Litteratur", "Frankrike"]
 description: "Michel Houellebecqs '规格Sérotonine'规格 fångar samtidens frågor med cynisk samhällskritik och ömma personporträtt. Utmanande men givande läsning."
 ---
 

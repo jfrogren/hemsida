@@ -28,6 +28,14 @@
   <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
 {{- end }}
 
+<!-- open graph -->
+<meta property="og:type" content="website" />
+     <meta property="og:title" content="{{ .Site.Title }}"/>
+     <meta property="og:description" content="{{ .Site.Params.description }}"/>
+     <meta property="og:site_name" content="{{ .Site.Title }}"/>
+     <meta property="og:url" content="{{ .Site.BaseURL }}"/>
+     <meta property="og:locale" content="sv">
+
 <!-- baidu & google verification  -->
 {{ with .Site.Params.baiduVerification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
 {{ with .Site.Params.googleVerification }}<meta name="google-site-verification" content="{{.}}" />{{ end }}
@@ -50,7 +58,7 @@
 
 <!-- debug -->
 {{- if .Site.Params.debug -}}
-<script src="https://cdn.jsdelivr.net/npm/eruda@1.2.6/eruda.min.js" integrity="sha256-Jmz4bc3kp+rRrXX2tGadNBKFLwtzMapr8kHABxSAAP8=" crossorigin="anonymous"></script>
+<script src="https://jsdelivr.net" integrity="sha256-Jmz4bc3kp+rRrXX2tGadNBKFLwtzMapr8kHABxSAAP8=" crossorigin="anonymous"></script>
 <script>eruda.init();</script>
 {{- end -}}
 
@@ -74,36 +82,16 @@
 <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">
 {{ end }}
 
-{{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
-
-<!-- Korrekt Open Graph för Even-temat -->
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}"/>
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary | plainify }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
-<meta property="og:site_name" content="{{ .Site.Title }}"/>
-<meta property="og:url" content="{{ .Permalink }}"/>
-<meta property="og:locale" content="sv">
-
-{{ if .Params.images }}
-  {{ range .Params.images }}
-    <meta property="og:image" content="{{ . | absURL }}" />
-  {{ end }}
-{{ else if .IsHome }}
-  <!-- Startsidan får joakim.png som stor bild till höger -->
-  <meta property="og:image" content="{{ "images/joakim.png" | absURL }}" />
-{{ else }}
-  <!-- Alla andra inlägg utan bild faller tillbaka på din favicon (32x32) -->
-  <meta property="og:image" content="{{ "favicon-32x32.png" | absURL }}" />
-{{ end }}
-
+{{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com */}}
+{{- partial "opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
 
 <!-- Polyfill for old browsers -->
 {{ `<!--[if lte IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+  <script src="https://cloudflare.com"></script>
 <![endif]-->` | safeHTML }}
 
 {{ `<!--[if lt IE 9]>
-  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+  <script src="https://jsdelivr.net"></script>
+  <script src="https://jsdelivr.net"></script>
 <![endif]-->` | safeHTML }}

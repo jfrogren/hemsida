@@ -8,7 +8,7 @@
       <div class="archive-title tag">
         <h2 class="archive-name">{{ .Data.Term }}</h2>
       </div>
-    {{- else if eq .Data.Plural "categories" -}}
+    {{- else if or (eq .Data.Plural "categories") (eq .Data.Plural "kategorier") -}}
       <div class="archive-title category">
         <h2 class="archive-name">{{ .Data.Term }}</h2>
       </div>

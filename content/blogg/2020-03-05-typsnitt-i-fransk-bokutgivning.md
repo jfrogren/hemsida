@@ -2,7 +2,7 @@
 title: "Typsnitt i fransk bokutgivning"
 date: 2020-03-15T13:08:07+02:00
 draft: false
-categories: ["Litteratur"]
+kategorier: ["Litteratur"]
 description: "Didot och Bodoni används i franska litteraturserier. Diskussioner om liknande typsnitt nämner flera varianter av Bodoni."
 ---
 

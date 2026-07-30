@@ -2,7 +2,7 @@
 title: "Tagoresånger på Kulturnatten i Lund"
 date: 2024-08-26T22:39:19+02:00
 draft: false
-categories: ["Musik", "Tagore", "Sydasien"]
+kategorier: ["Musik", "Tagore", "Sydasien"]
 images:
   - "https://img.youtube.com/vi/EA9x7-XDMzI/maxresdefault.jpg"
 description: "Tagore fångar nostalgi och glädje i sina verk. Teman om minnen, kärlek och livets skönhet genomsyrar hans poesi."

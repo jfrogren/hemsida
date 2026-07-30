@@ -2,7 +2,7 @@
 title: "Digitalkamera"
 date: 2024-08-20T05:39:07+02:00
 draft: false
-categories: ["Fotografi", "Verktyg"]
+kategorier: ["Fotografi", "Verktyg"]
 images:
   - "https://img.youtube.com/vi/2q7ctbEG2Ew/maxresdefault.jpg"
 description: "Söker en digitalkamera och överväger Ricoh GR IIIx för dess kompakthet och bildkvalitet samt Fujifilm X-T3 för systemkamerans mångsidighet."

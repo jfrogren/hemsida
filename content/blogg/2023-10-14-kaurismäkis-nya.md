@@ -2,7 +2,7 @@
 title: "Kaurismäkis nya"
 date: 2023-10-14T17:19:32+02:00
 draft: false
-categories: ["Film och teveserie", "Finland"]
+kategorier: ["Film och teveserie", "Finland"]
 images:
   - "/images/hostlov-som-faller.png"
 description: "Aki Kaurismäkis *Höstlöv som faller* bjuder på tragikomik och ömhet för den lilla människan i en kall värld. Minnen av starka scener dröjer kvar."

@@ -2,7 +2,7 @@
 title: "Françoise Hardy - Tous les garçons et les filles (1962)"
 date: 2024-08-10T18:40:56+02:00
 draft: false
-categories: ["Musik", "Frankrike"]
+kategorier: ["Musik", "Frankrike"]
 description: "Se videoklippet tillhörande inlägget 'Françoise Hardy - Tous les garçons et les filles (1962)' på Joakim Frögrens blogg."
 images:
  - "/images/tous-les-garcons.png"
