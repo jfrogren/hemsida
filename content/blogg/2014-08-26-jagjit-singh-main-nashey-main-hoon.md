@@ -4,7 +4,7 @@ date: 2014-08-26T11:29:03+02:00
 draft: false
 kategorier: ["Musik", "Indien", "Poesi", "Ghazal", "Sydasien"]
 images:
-  - "https://img.youtube.com/vi/AjRAws8ShJ0/maxresdefault.jpg"
+  - "https://img.youtube.com/vi/AjRAws8ShJ0/hqdefault.jpg"
 description: "Ghazalen 'Main nashey main hoon' av Shahid Kabir, tolkad av Jagjit Singh, är en personlig favorit."
 ---
 
