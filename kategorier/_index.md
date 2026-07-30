@@ -1,12 +1,12 @@
 ---
-title: "Kategorier - test"
+title: "Kategorier"
 draft: false
 ---
 
-## Lista på inlägg i 'kategorier'
+Antal kategorier: {{ len .Site.Taxonomies.kategorier }}
 
-{{ range (where .Site.RegularPages "Params.kategorier" "intersect" (slice "testkateg")) }}
-- [{{ .Title }}]({{ .RelPermalink }})
-{{ else }}
-Inga inlägg hittades för taxonomin.
+{{ range $name, $taxonomy := .Site.Taxonomies.kategorier }}
+**Kategori:** {{ $name }} innehåller {{ len $taxonomy }} inlägg.
 {{ end }}
+
+Om inget syns, betyder det att Hugo inte hittar några kategorier alls.
