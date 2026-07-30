@@ -42,8 +42,8 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  category = "kategorier"
+  tag = "taggar"
 
 [menu]
 
@@ -72,9 +72,9 @@ unsafe = true
   url = "/blogg"
   weight = 1.0
 
-  [[menu.main]]
+[[menu.main]]
   name = "Kategorier"
-  url = "/kategorier"
+  url = "/kategorier/"  # Lägg till ett / här på slutet
   weight = 2.0
 
 [permalinks]
