@@ -2,7 +2,7 @@
 title: "Chris Turner - G(O)OD - (D)EVIL"
 date: 2016-02-01T11:29:03+02:00
 draft: false
-kategorier: ["Videokonst", "Storbritannien"]
+categories: ["Videokonst", "Storbritannien"]
 description: "Se videoklippet tillhörande inlägget 'Chris Turner - G(O)OD - (D)EVIL' på Joakim Frögrens blogg."
 images:
   - "/images/chris-turner-good-devil.png"

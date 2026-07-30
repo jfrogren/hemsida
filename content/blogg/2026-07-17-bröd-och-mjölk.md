@@ -3,7 +3,7 @@ title: "Bröd och mjölk"
 date: 2026-07-17T12:00:00+02:00
 slug: "brod-och-mjolk"
 draft: true
-kategorier: ["Litteratur"]
+categories: ["Litteratur"]
 description: "Karolina Ramqvists _Bröd och mjölk_ gav mig en fantastisk läsupplevelse."
 ---
 

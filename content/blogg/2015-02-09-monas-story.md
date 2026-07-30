@@ -2,7 +2,7 @@
 title: "Mona's story"
 date: 2015-02-09T11:29:03+02:00
 draft: false
-kategorier: ["Litteratur", "Indien", "Sydasien"]
+categories: ["Litteratur", "Indien", "Sydasien"]
 description: "Mona växlar mellan manlig och kvinnlig identitet med lätthet, vilket fascinerar hennes vänner och grannar i Delhi."
 ---
 

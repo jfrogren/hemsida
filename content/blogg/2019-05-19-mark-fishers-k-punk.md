@@ -2,7 +2,7 @@
 title: "Mark Fishers k-punk"
 date: 2019-05-19T18:29:59+02:00
 draft: false
-kategorier: ["Musik", "Politik", "Storbritannien"]
+categories: ["Musik", "Politik", "Storbritannien"]
 images:
   - "/images/mark-fisher.png"
 description: "Jenny Turner reflekterar över Mark Fishers begrepp 'Popular modernism' i sin essä, kopplad till hans nyligen utgivna texter."

@@ -2,7 +2,7 @@
 title: "Tårarna"
 date: 2016-03-22T11:29:03+02:00
 draft: false
-kategorier: ["Litteratur", "Poesi", "Polen"]
+categories: ["Litteratur", "Poesi", "Polen"]
 description: "En gammal kvinna gråter djupt, tårarna smeker hennes ansikte som varma djur, och ger en sista njutning av sorg."
 ---
 

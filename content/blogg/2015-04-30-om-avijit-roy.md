@@ -2,7 +2,7 @@
 title: "Om Avijit Roy"
 date: 2015-04-30T11:29:03+02:00
 draft: false
-kategorier: ["Politik", "Ateism", "Religion", "Bangladesh"]
+categories: ["Politik", "Ateism", "Religion", "Bangladesh"]
 description: "Avijit Roy kämpade för en samhälle fri från dogmer, baserat på förnuft, medmänsklighet och vetenskap. Han blev en symbol för rörelsen."
 ---
 

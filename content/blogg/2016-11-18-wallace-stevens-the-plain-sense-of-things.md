@@ -2,7 +2,7 @@
 title: "The Plain Sense of Things"
 date: 2016-11-18T11:29:03+02:00
 draft: false
-kategorier: ["Litteratur", "Poesi", "USA"]
+categories: ["Litteratur", "Poesi", "USA"]
 description: "Efter lövens fall återvänder vi till tingens enkla mening, där föreställningar försvunnit och tystnaden råder."
 ---
 

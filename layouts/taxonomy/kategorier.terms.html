@@ -7,9 +7,10 @@
   </div>
 
   <div class="terms-tags">
-    {{ $kategorier := .Site.Taxonomies.kategorier }}
-    {{ if $kategorier }}
-      {{ range $name, $taxonomy := $kategorier }}
+    {{/* Hämtar taxonomiregistret som är kopplat till din svenska front matter */}}
+    {{ $categories := .Site.Taxonomies.categories }}
+    {{ if $categories }}
+      {{ range $name, $taxonomy := $categories }}
         <a class="terms-link" href="/kategorier/{{ $name | urlize }}/">
           {{ $name | humanize }}
           <span class="terms-count">({{ len $taxonomy.Pages }})</span>
