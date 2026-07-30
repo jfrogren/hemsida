@@ -1,6 +1,9 @@
 MetaDataFormat = "toml"
 baseurl = "https://frogren.se/"
 title = "Joakim Frögren"
+[taxonomies]
+  category = "kategorier"
+  tag = "taggar"
 images = ["android-chrome-512x512.png", "android-chrome-192x192.png", "apple-touch-icon.png", "favicon-16x16.png", "favicon-32x32.png", "favicon.ico", "mstile-150x150.png", "safari-pinned-tab.svg"]
 keywords = ["blogg", "hemsida", "sajt"]
 pluralizelisttitles = false
@@ -41,8 +44,6 @@ unsafe = true
 [services.rss]
   limit = 20
 
-
-
 [menu]
 
  # [[menu.main]]
@@ -72,7 +73,7 @@ unsafe = true
 
   [[menu.main]]
   name = "Kategorier"
-  url = "/categories"
+  url = "/kategorier"
   weight = 2.0
 
 [permalinks]
