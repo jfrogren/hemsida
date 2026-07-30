@@ -42,7 +42,7 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  category = "categories"
+  category = "kategorier"
   tag = "taggar"
 
 [menu]
