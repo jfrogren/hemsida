@@ -42,7 +42,7 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  category = "kategorier"
+  category = "categories"
   tag = "taggar"
 
 [menu]
@@ -74,12 +74,12 @@ unsafe = true
 
   [[menu.main]]
   name = "Kategorier"
-  url = "/categories"
+  url = "/kategorier"
   weight = 2.0
 
-  
 [permalinks]
-#blog = "/blogg/arkiv/:year/:month/:day/:slug"
+  categories = "/kategorier/:slug/"
+  taggar = "/taggar/:slug/"
 
 [params]
   showSummary = true        # Tvingar Even-tematet att respektera brytpunkter för sammanfattningar
