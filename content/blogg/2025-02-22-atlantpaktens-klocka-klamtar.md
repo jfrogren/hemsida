@@ -3,6 +3,8 @@ title: "Atlantpaktens klocka klämtar"
 date: 2025-02-22T23:32:49+01:00
 draft: false
 categories: ["Politik", "USA", "Ryssland"]
+aliases:
+  - /kategorier/
 description: "Joakim Rönning och Jacob Bursell analyserar världsläget och politiska ambitioner hos Trump och Putin i podden *Marknaden*."
 ---
 

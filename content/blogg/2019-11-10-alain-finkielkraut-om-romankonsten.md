@@ -3,6 +3,8 @@ title: "Alain Finkielkraut om romankonsten"
 date: 2019-11-10T15:51:57+02:00
 draft: false
 categories: ["Litteratur", "Frankrike", "Filosofi"]
+aliases:
+  - /kategorier/
 description: "Finkielkraut återfår tron på romankonsten genom Kundera och Proust, som visar romanens värde som en väg till mänsklig förståelse."
 ---
 

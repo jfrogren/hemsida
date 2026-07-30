@@ -3,6 +3,8 @@ title: "Jai Hamid Bashir läser ur sin debutdiktsamling"
 date: 2024-10-11T01:32:51+02:00
 draft: false
 categories: ["Litteratur", "Poesi", "USA", "Sydasien", "Danmark"]
+aliases:
+  - /kategorier/
 images:
   - "https://img.youtube.com/vi/id/maxresdefault.jpg"
 description: "Jai Hamid Bashir debuterar med diktsamlingen *Desire/Halves*. Hennes genuina röst och sydasiatiska rötter fängslar läsare."

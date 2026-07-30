@@ -3,6 +3,8 @@ title: "Isabella Nilssons understreckare"
 date: 2025-01-03T08:33:04+01:00
 draft: false
 categories: ["Litteratur", "Sverige", "Filosofi", "Frankrike", "Portugal"]
+aliases:
+  - /kategorier/
 description: "Isabella Nilsson briljerar i sina understreckare med svart humor och skarpa insikter om litteratur och livets utmaningar."
 ---
 

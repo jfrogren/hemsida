@@ -3,6 +3,8 @@ title: "Kristoffer Nilsson - Konstnär och tidningsbud"
 date: 2024-10-20T22:32:12+02:00
 draft: false
 categories: ["Litteratur", "Teckning", "Konst", "Sverige"]
+aliases:
+  - /kategorier/
 images:
     - "/images/kristoffer-nilsson.jpg"
 description: "Kristoffer Nilsson, tidningsbud och konstnär, skapar grafik och illustrationer. Han har nyligen ställt ut och publicerat fler böcker."

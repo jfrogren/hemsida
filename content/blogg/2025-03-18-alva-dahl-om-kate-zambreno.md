@@ -3,6 +3,8 @@ title: "Alva Dahl om Kate Zambreno"
 date: 2025-03-18T23:13:23+01:00
 draft: false
 categories: ["Litteratur", "Sverige", "USA", "Feminism"]
+aliases:
+  - /kategorier/
 description: "Alva Dahl skriver om Kate Zambrenos 'Mutter', en genreblandning som utforskar relationen till en döende mor. Fascinerande läsning!"
 ---
 

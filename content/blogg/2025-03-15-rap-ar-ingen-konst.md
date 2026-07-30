@@ -3,6 +3,8 @@ title: "Rap är ingen konst"
 date: 2025-03-15T00:13:11+01:00
 draft: false
 categories: ["Musik", "Sverige"]
+aliases:
+  - /kategorier/
 description: "Se videoklippet tillhörande inlägget 'Rap är ingen konst' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/id/maxresdefault.jpg"

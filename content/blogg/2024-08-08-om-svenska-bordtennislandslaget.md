@@ -3,6 +3,8 @@ title: "Om svenska bordtennislandslaget"
 date: 2024-08-08T18:29:02+02:00
 draft: false
 categories: ["Sverige", "Idrott och sport"]
+aliases:
+  - /kategorier/
 description: "Pingis förenar Sverige med gemenskap och tradition. OS-laget, med Truls, Anton och Kristian, känns som grannpojkar från småstäder."
 ---
 

@@ -3,6 +3,8 @@ title: "Peter Handkes nedteckningsögonblick"
 date: 2019-10-10T12:44:40+02:00
 draft: false
 categories: ["Litteratur", "Österrike", "Minne", "Frankrike", "Slovenien"]
+aliases:
+  - /kategorier/
 description: "Peter Handke, 2019 års Nobelpristagare, beskriver platser och minnen unikt. Hans verk utforskar hur språket formar vår förståelse av det förflutna."
 ---
 

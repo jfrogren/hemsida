@@ -3,6 +3,8 @@ title: "Mia Engbergs filmtrilogi"
 date: 2024-01-01T23:52:10+01:00
 draft: false
 categories: ["Film och teveserie", "Frankrike", "Sverige"]
+aliases:
+  - /kategorier/
 images:
   - "/images/belleville-baby.png"
 description: "Mia Engberg är en svensk filmskapare känd för filmer som 'Belleville baby', 'Lucky One' och 'Hypermoon'."

@@ -3,6 +3,8 @@ title: "Face à l'info med Éric Zemmour och Michel Onfray"
 date: 2020-10-25T22:54:11+01:00
 draft: false
 categories: ["Politik", "Frankrike", "Religion"]
+aliases:
+  - /kategorier/
 description: "I 'Face à l'info' diskuterar Éric Zemmour och Michel Onfray civilisationsfrågor, religion och samtidens utmaningar med intellektuell respekt."
 ---
 

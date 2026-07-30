@@ -3,6 +3,8 @@ title: "Om AI och risken för fördumning"
 date: 2025-01-15T00:39:30+01:00
 draft: false
 categories: ["Litteratur", "Filosofi", "AI"]
+aliases:
+  - /kategorier/
 description: "Fredrik Sjöberg och Ulf Danielsson betonar vikten av mänskliga möten och traditionell undervisning som motvikt till AI:s efterapning."
 ---
 

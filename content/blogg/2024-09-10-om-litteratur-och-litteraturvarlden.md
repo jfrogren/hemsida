@@ -3,6 +3,8 @@ title: "Om litteratur och litteraturvärlden"
 date: 2024-09-10T13:10:11+02:00
 draft: false
 categories: ["Litteratur", "Sverige", "Kunskap"]
+aliases:
+  - /kategorier/
 description: "Anna Axfors betonar vikten av genuint litteraturintresse för sinnesfrid, snarare än ytlig positionering i litteraturvärlden."
 ---
 

@@ -3,6 +3,8 @@ title: "Jon Stewart med Bassem Youssef i Egypten"
 date: 2014-06-30T11:29:03+02:00
 draft: false
 categories: ["Politik", Humor", "Egypten", "USA", "Afrika"]
+aliases:
+  - /kategorier/
 images:
   - "https://img.youtube.com/vi/kEO2Rd3sJbA/maxresdefault.jpg"
 description: "Bassem Youssef, populär komiker och politisk satiriker, avslutade sitt program 'Al Bernameg' 2014 efter flera framgångsrika år."

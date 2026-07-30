@@ -3,6 +3,8 @@ title: "Trilling om flyktingkrisen"
 date: 2017-08-26T12:29:03+02:00
 draft: false
 categories: ["Politik"]
+aliases:
+  - /kategorier/
 description: "Daniel Trilling diskuterar flyktingkrisen och vikten av att stödja människors rätt att flytta och skapa nya band."
 ---
 

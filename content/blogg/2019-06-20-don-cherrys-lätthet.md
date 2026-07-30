@@ -3,6 +3,8 @@ title: "Don Cherrys lätthet"
 date: 2019-06-20T18:59:50+02:00
 draft: false
 categories: ["Musik", "Jazz", "USA", "Litteratur"]
+aliases:
+  - /kategorier/
 images:
   - "/images/don-cherry.png"
 description: "Don Cherry förenade lätthet och djup i sin musik, frigjorde jazzen från bebop och banade väg för världsmusik."

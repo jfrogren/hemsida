@@ -3,6 +3,8 @@ title: "Org-Roam BibTeX - det ultimata akademiska arbetsverktyget?"
 date: 2021-04-18T14:35:25+02:00
 draft: false
 categories: ["Verktyg"]
+aliases:
+  - /kategorier/
 images:
   - "https://img.youtube.com/vi/Wy9WvF5gWYg/maxresdefault.jpg"
 description: "Doom Emacs förenar Vim och Emacs. Org-mode visar fördelar över Markdown i akademiskt arbete, trots klumpigare syntax."

@@ -3,6 +3,8 @@ title: "Three Piece Suit"
 date: 2023-11-01T13:19:50+01:00
 draft: false
 categories: ["Musik", "Reggae", "Jamaica"]
+aliases:
+  - /kategorier/
 description: "Trinitys spår, särskilt *Three Piece Suit*, är inspirerat av Marcia Aitkens *I'm Still in Love with You* och påminner om Althea & Donnas *Uptown Top Ranking*."
 ---
 

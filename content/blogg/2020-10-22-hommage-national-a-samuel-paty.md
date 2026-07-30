@@ -3,6 +3,8 @@ title: "Hommage national à Samuel Paty"
 date: 2020-10-22T15:16:03+01:00
 draft: false
 categories: ["Politik", "Islam", "Religion", "Frankrike"]
+aliases:
+  - /kategorier/
 images:
   - "https://img.youtube.com/vi/L8bX52eE6Vw/maxresdefault.jpg"
 description: "Mordet på Samuel Paty skakar Frankrike. Ceremonin vid Sorbonne visade stark sammanhållning, men oroar över ökande intolerans i Europa."

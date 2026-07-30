@@ -3,6 +3,8 @@ title: "Will They Sing Like Raindrops or Leave Me Thirsty"
 date: 2014-11-30T11:29:03+02:00
 draft: false
 categories: ["Fotografi", "Indien", "Sydasien"]
+aliases:
+  - /kategorier/
 description: "Se videoklippet tillhörande inlägget 'Will They Sing Like Raindrops or Leave Me Thirsty' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/tHhJmFwLbeE/maxresdefault.jpg"

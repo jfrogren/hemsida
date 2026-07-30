@@ -41,8 +41,6 @@ unsafe = true
 [services.rss]
   limit = 20
 
-
-
 [menu]
 
  # [[menu.main]]
@@ -72,11 +70,15 @@ unsafe = true
 
   [[menu.main]]
   name = "Kategorier"
-  url = "/categories"
+  url = "/kategorier"
   weight = 2.0
 
+[taxonomies]
+  categories = "categories"
+  tags = "tags"
 [permalinks]
-#blog = "/blogg/arkiv/:year/:month/:day/:slug"
+  categories = "/kategorier/:slug/"
+  tags = "/taggar/:slug/"
 
 [params]
   showSummary = true        # Tvingar Even-tematet att respektera brytpunkter för sammanfattningar

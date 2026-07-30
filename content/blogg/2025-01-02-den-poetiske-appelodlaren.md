@@ -3,6 +3,8 @@ title: "Den poetiske äppelodlaren"
 date: 2025-01-02T09:14:08+01:00
 draft: false
 categories: ["Litteratur", "Norge", "Poesi"]
+aliases:
+  - /kategorier/
 description: "I Vällingby hittade jag dikter av Olav H. Hauge. Intressanta porträtt och hyllningar väcker nyfikenhet på Söderbloms bok, som är slutsåld."
 ---
 

@@ -3,6 +3,8 @@ title: "Roman Vishniac"
 date: 2024-08-14T01:45:14+02:00
 draft: false
 categories: ["Fotografi", "Judendom", "Religion"]
+aliases:
+  - /kategorier/
 images:
   - "https://img.youtube.com/vi/a35SB438NHc/maxresdefault.jpg"
 description: "Roman Vishniac uppmärksammas nu med en ny dokumentär, utställning och bok som lyfter fram hans fotografier."

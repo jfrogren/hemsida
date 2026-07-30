@@ -3,6 +3,8 @@ title: "Saharas röst har tystnat"
 date: 2015-09-22T12:29:03+02:00
 draft: false
 categories: ["Musik", "Algeriet", "Afrika"]
+aliases:
+  - /kategorier/
 description: "Sångerskan Mariem Hassan, känd som 'Saharas röst', har avlidit 57 år gammal i ett flyktingläger i Algeriet."
 ---
 
