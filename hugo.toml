@@ -42,8 +42,8 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  category = "kategorier"
-  tag = "taggar"
+  category = "categorier"
+  tag = "tags"
 
 [menu]
 
