@@ -9,7 +9,6 @@ rssLimit = 20
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-languageCode = "sv"
 enableEmoji = false
 theme = ["hugo-video", "even"]
 
@@ -62,12 +61,11 @@ unsafe = true
  # weight = 5.0
 
 [taxonomies]
-  category = "categories"    # Detta gör att Even-tematet och dina poster visar kategorierna rätt
-  tag = "tags"               # Samma för taggarna
+  category = "categories"
+  tag = "tags"
 
 [permalinks]
-  categories = "/kategorier/:slug/"  # Detta tvingar mappen att heta /kategorier/ online!
-  tags = "/taggar/:slug/"            # Samma för /taggar/
+  # Vi tar helt bort raderna som döper om mapparna, det är de som kraschar temat!
 
 [[menu.main]]
   name = "Alla blogginlägg"
@@ -76,7 +74,7 @@ unsafe = true
 
 [[menu.main]]
   name = "Kategorier"
-  url = "/kategorier/"
+  url = "/categories/"  # Det STÅR Kategorier i menyn, men länken går till den mapp temat kräver!
   weight = 2.0
 
 
@@ -177,4 +175,12 @@ unsafe = true
 [security]
   allowContent = ['.*']
 
+[languages.sv]
+  languageCode = "sv"
+  [languages.sv.taxonomies]
+    category = "categories"
+    tag = "tags"
+  [languages.sv.taxonomies.titles]
+    category = "Kategorier"     # Detta ändrar texten i webbläsarfliken!
+    tag = "Taggar"
 
