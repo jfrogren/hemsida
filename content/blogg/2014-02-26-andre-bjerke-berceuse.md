@@ -2,7 +2,7 @@
 title: "Berceuse"
 date: 2014-02-26T11:29:03+02:00
 draft: false
-categories: ["Litteratur", "Poesi", "Musik"]
+kategorier: ["Litteratur", "Poesi", "Musik"]
 images:
   - "https://img.youtube.com/vi/MbonlsGeKpo/maxresdefault.jpg"
 description: "Dikten *Berceuse* av André Bjerke utforskar livets dröm, ensamhet och sömnens tröst. En poetisk reflektion över existensen."

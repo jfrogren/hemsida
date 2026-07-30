@@ -2,7 +2,7 @@
 title: "Robert Korkiainen i Purple"
 date: 2021-04-16T01:18:56+02:00
 draft: false
-categories: ["Fotografi", "Purple", "Frankrike", "Norge", "Sverige", "Åldrande"]
+kategorier: ["Fotografi", "Purple", "Frankrike", "Norge", "Sverige", "Åldrande"]
 images:
   - "/images/robert-korkiainen.png"
 description: "Robert Korkiainen kände Kim Ramberghaug och Jessika Thörnqvist, vilket visar hur sammanlänkade liv kan vara. Döden är ofattbar och obarmhärtig."

@@ -2,7 +2,7 @@
 title: "Le vent nous portera"
 date: 2019-08-10T04:54:37+02:00
 draft: false
-Categories: ["Frankrike", "Litauen", "Musik"]
+Kategorier: ["Frankrike", "Litauen", "Musik"]
 images:
   - "https://img.youtube.com/vi/NrgcRvBJYBE/maxresdefault.jpg"
 description: "Noir Désirs låt från 2001 väcker starka känslor och frågor om makt och hopp. Bernard Cantats brott skapar en mörk kontrast till musiken."

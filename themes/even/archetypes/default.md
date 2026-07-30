@@ -6,7 +6,7 @@ draft: true
 keywords: []
 description: ""
 tags: []
-categories: []
+kategorier: []
 author: ""
 
 # You can also close(false) or open(true) something for this content.

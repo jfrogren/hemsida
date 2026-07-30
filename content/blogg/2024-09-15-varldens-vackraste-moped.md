@@ -2,7 +2,7 @@
 title: "Världens vackraste moped?"
 date: 2024-09-15T21:07:03+02:00
 draft: false
-categories: ["Fordon", "Italien"]
+kategorier: ["Fordon", "Italien"]
 description: "Se videoklippet tillhörande inlägget 'Världens vackraste moped?' på Joakim Frögrens blogg."
 images:
   - "/images/moped.png"

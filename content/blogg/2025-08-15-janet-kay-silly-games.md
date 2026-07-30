@@ -3,7 +3,7 @@ title: "Janet Kay - Silly Games"
 date: 2025-08-15T12:00:00+02:00
 slug: "janet-kay-silly-games"
 draft: false
-categories: ["Musik", "Reggae", "Storbritannien", "Film och teveserie"]
+kategorier: ["Musik", "Reggae", "Storbritannien", "Film och teveserie"]
 images:
   - "https://img.youtube.com/vi/qCVR5XR04Mo/maxresdefault.jpg"
 description: "Scenen i _Lovers Rock_ fångar gemenskap och motstånd mot rasism genom musik och dans på ett reggae-husparty i London 1980."

@@ -2,7 +2,7 @@
 title: "Yann Andréa"
 date: 2019-11-23T04:08:48+02:00
 draft: false
-categories: ["Frankrike", "Litteratur"]
+kategorier: ["Frankrike", "Litteratur"]
 images:
   - "/images/yann-andrea.png"
 description: "Yann Andréas bok om sin relation med Marguerite Duras väcker igenkänning, men hans stil känns ibland tom och parodisk."

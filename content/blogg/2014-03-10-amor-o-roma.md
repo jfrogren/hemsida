@@ -2,7 +2,7 @@
 title: "Amor o Romã"
 date: 2014-03-10T11:29:03+02:00
 draft: false
-categories: ["Film och teveserie", "Frukt och grönt", "Portugal"]
+kategorier: ["Film och teveserie", "Frukt och grönt", "Portugal"]
 description: "Se videoklippet tillhörande inlägget 'Amor o Romã' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/DK6DW4FStiU/maxresdefault.jpg"

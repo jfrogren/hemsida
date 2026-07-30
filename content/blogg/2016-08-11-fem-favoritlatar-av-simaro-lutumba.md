@@ -2,7 +2,7 @@
 title: "Fem favoritlåtar av Simaro Lutumba"
 date: 2016-08-11T12:29:03+02:00
 draft: false
-categories: ["Musik", "Kongo", "Soukous", "Afrika"]
+kategorier: ["Musik", "Kongo", "Soukous", "Afrika"]
 images:
   - "https://img.youtube.com/vi/6vtvtfSYiyk/maxresdefault.jpg"
 description: "1. Faute Ya Commerçant: En analys av handelsfel och dess påverkan på ekonomi.  

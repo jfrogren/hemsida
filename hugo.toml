@@ -42,8 +42,12 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  category = "kategorier"
-  tag = "taggar"
+  kategorier = "kategorier"
+  taggar = "taggar"
+
+[permalinks]
+  categories = "/kategorier/:slug/"
+  taggar = "/taggar/:slug/"
 
 [menu]
 
@@ -67,7 +71,7 @@ unsafe = true
  # url = "/aktuellt"
  # weight = 5.0
 
-  [[menu.main]]
+[[menu.main]]
   name = "Alla blogginlägg"
   url = "/blogg"
   weight = 1.0
@@ -76,10 +80,6 @@ unsafe = true
   name = "Kategorier"
   url = "/kategorier/"  # Lägg till ett / här på slutet
   weight = 2.0
-
-[permalinks]
-  categories = "/kategorier/:slug/"
-  taggar = "/taggar/:slug/"
 
 [params]
   showSummary = true        # Tvingar Even-tematet att respektera brytpunkter för sammanfattningar

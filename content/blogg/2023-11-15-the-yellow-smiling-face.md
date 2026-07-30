@@ -2,7 +2,7 @@
 title: "The Yellow Smiling Face"
 date: 2023-11-15T07:28:30+01:00
 draft: false
-categories: ["Film och teveserie", "Åldrande", "Rumänien"]
+kategorier: ["Film och teveserie", "Åldrande", "Rumänien"]
 description: "Se videoklippet tillhörande inlägget 'The Yellow Smiling Face' på Joakim Frögrens blogg."
 images:
   - "https://img.youtube.com/vi/8HDM6ERbBKA/maxresdefault.jpg"
