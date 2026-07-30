@@ -61,11 +61,11 @@ unsafe = true
  # weight = 5.0
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  category = "kategorier"   # Små bokstäver här! Detta ändrar fliken och rubriken till "Kategorier"
+  tag = "taggar"
 
 [permalinks]
-  # Vi tar helt bort raderna som döper om mapparna, det är de som kraschar temat!
+  # Lämna denna helt tom! Inga rader här för kategorier/taggar.
 
 [[menu.main]]
   name = "Alla blogginlägg"
@@ -74,7 +74,7 @@ unsafe = true
 
 [[menu.main]]
   name = "Kategorier"
-  url = "/categories/"  # Det STÅR Kategorier i menyn, men länken går till den mapp temat kräver!
+  url = "/kategorier/"     # Nu matchar denna adressen ovan perfekt!
   weight = 2.0
 
 
@@ -174,13 +174,4 @@ unsafe = true
 
 [security]
   allowContent = ['.*']
-
-[languages.sv]
-  languageCode = "sv"
-  [languages.sv.taxonomies]
-    category = "categories"
-    tag = "tags"
-  [languages.sv.taxonomies.titles]
-    category = "Kategorier"     # Detta ändrar texten i webbläsarfliken!
-    tag = "Taggar"
 
