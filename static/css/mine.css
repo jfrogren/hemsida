@@ -3,7 +3,7 @@
 @media screen and (max-width: 799px) {
     body {
         font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 1.0em !important; /* Mobilens storlek (100%) */
+        font-size: 0.97em !important; /* Något mindre än förut på mobil för ett smidigare utseende */
         line-height: 1.6em;
         background-color: #fefefe;
     }
@@ -27,16 +27,16 @@ h2, h3 {
 	font-style: normal;
 }
 
-/* =Datorskärmar - Din godkända storlek (Gäller ENBART för datorer)
+/* =Datorskärmar - (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
 @media screen and (min-width: 800px) {
     html {
-        font-size: 15px !important; /* Din godkända datorskala */
+        font-size: 15px !important; /* Behåller den bra grundskalan för marginaler/menyer */
     }
     
     body {
         font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 0.95em !important; /* Din godkända datorstorlek */
+        font-size: 1.0em !important; /* Höjt till 1.0em för att göra brödtexten något större på dator */
         line-height: 1.6em;
         background-color: #fefefe;
     }
