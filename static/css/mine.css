@@ -1,8 +1,12 @@
-/* =Typography - Standardinställningar (Gäller för mobiler först)
+/* =Typography - Mobilinställningar (Gäller för smartphones)
 -----------------------------------------------------------------------------*/
+html {
+    font-size: 15.5px !important; /* En lätt sänkning av grundskalan på mobil */
+}
+
 body {
 	font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-	font-size: 1.02em; /* Behåller en bra, lättläst storlek på mobiltelefoner */
+	font-size: 0.98em !important; /* Gör texten något mindre och smidigare på mobil */
 	line-height: 1.6em;
 	background-color: #fefefe;
 }
@@ -23,14 +27,14 @@ h2, h3 {
 	font-style: normal;
 }
 
-/* =Datorskärmar - Krymper texten ENBART på större skärmar
+/* =Datorskärmar - Krymper texten ytterligare enbart på större skärmar
 -----------------------------------------------------------------------------*/
 @media screen and (min-width: 800px) {
     html {
-        font-size: 15px !important; /* Minskar grundskalan enbart på dator */
+        font-size: 15px !important; /* Din godkända datorskala */
     }
     
     body {
-        font-size: 0.95em !important; /* Gör texten mer kompakt enbart på dator */
+        font-size: 0.95em !important; /* Din godkända datorstorlek */
     }
 }
