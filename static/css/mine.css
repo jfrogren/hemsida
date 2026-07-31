@@ -1,12 +1,8 @@
-/* =Typography
+/* =Typography - Standardinställningar (Gäller för mobiler först)
 -----------------------------------------------------------------------------*/
-html {
-    font-size: 15px !important; /* Minskar temats grundskala för alla komponenter */
-}
-
 body {
 	font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-	font-size: 0.95em !important; /* Sänker brödtexten till ett mer kompakt format */
+	font-size: 1.02em; /* Behåller en bra, lättläst storlek på mobiltelefoner */
 	line-height: 1.6em;
 	background-color: #fefefe;
 }
@@ -25,4 +21,16 @@ h2, h3, h4, h5 {
 h2, h3 {
 	font-family: 'Alegreya';
 	font-style: normal;
+}
+
+/* =Datorskärmar - Krymper texten ENBART på större skärmar
+-----------------------------------------------------------------------------*/
+@media screen and (min-width: 800px) {
+    html {
+        font-size: 15px !important; /* Minskar grundskalan enbart på dator */
+    }
+    
+    body {
+        font-size: 0.95em !important; /* Gör texten mer kompakt enbart på dator */
+    }
 }
