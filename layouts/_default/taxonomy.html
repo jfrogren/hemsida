@@ -10,7 +10,8 @@
       </div>
     {{- else if or (eq .Data.Plural "categories") (eq .Data.Plural "kategorier") -}}
       <div class="archive-title category">
-        <h2 class="archive-name">{{ .Data.Term }}</h2>
+        <!-- ÄNDRAD RAD: humanize fixar rubriken enligt svensk standard -->
+        <h2 class="archive-name">{{ humanize .Data.Term }}</h2>
       </div>
     {{- end }}
   {{- end }}

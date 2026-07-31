@@ -11,7 +11,8 @@
     <div class="terms-tags">
       {{ range $terms -}}
         <a class="terms-link" href="{{ .Page.RelPermalink }}">
-          {{ .Page.Title }}
+          <!-- ÄNDRAD RAD: humanize gör att bara första ordet blir stort -->
+          {{ humanize .Page.Title }}
           <span class="terms-count">{{ len .Pages }}</span>
         </a>
       {{ end -}}
