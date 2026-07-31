@@ -1,12 +1,16 @@
-/* =Typography - Mobilinställningar (Gäller för smartphones)
+/* =Typography - Mobilinställningar (Gäller ENBART för smartphones)
 -----------------------------------------------------------------------------*/
-body {
-	font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-	font-size: 1.0em !important; /* Landar exakt på 100% – aningen mindre än ditt original på 1.05em */
-	line-height: 1.6em;
-	background-color: #fefefe;
+@media screen and (max-width: 799px) {
+    body {
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-size: 1.0em !important; /* Mobilens storlek (100%) */
+        line-height: 1.6em;
+        background-color: #fefefe;
+    }
 }
 
+/* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
+-----------------------------------------------------------------------------*/
 h1, h2, h3, h4, h5 {
 	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: normal;
@@ -23,14 +27,17 @@ h2, h3 {
 	font-style: normal;
 }
 
-/* =Datorskärmar - Krymper texten till din godkända storlek på dator
+/* =Datorskärmar - Din godkända storlek (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
 @media screen and (min-width: 800px) {
     html {
-        font-size: 15px !important; /* Din godkända datorskala för menyer/marginaler */
+        font-size: 15px !important; /* Din godkända datorskala */
     }
     
     body {
-        font-size: 0.95em !important; /* Din godkända datorstorlek för brödtext */
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-size: 0.95em !important; /* Din godkända datorstorlek */
+        line-height: 1.6em;
+        background-color: #fefefe;
     }
 }
