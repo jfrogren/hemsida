@@ -80,9 +80,9 @@ h2, h3 {
         font-size: 1.15em !important; 
     }
 
-    /* LUFTIGARE RADAVSTÅND: Skapar mer vertikalt utrymme mellan varje rad i arkivlistan */
+    /* MER RADAVSTÅND: Ökat från 6px till 12px för mer luft mellan bloggraderna */
     .archive .archive-post {
-        padding: 6px 0 !important; /* Lägger till lite luft över och under varje rad */
+        padding: 12px 0 !important; 
     }
 
     /* Snyggar till radavståndet generellt på listtitlar */
@@ -91,7 +91,7 @@ h2, h3 {
     }
 
     /* ==========================================================================
-       BLOGGPOSTENS HUVUDRUBRIK & METADATA (Mjuk förändring)
+       BLOGGPOSTENS HUVUDRUBRIK & METADATA (Finjusterade avstånd)
        ========================================================================== */
     
     .post .post-title {
@@ -102,5 +102,18 @@ h2, h3 {
     .post .post-meta {
         margin-top: 2px !important;    
         margin-bottom: 22px !important; 
+    }
+
+    /* Centrerade punkter och kategorier på en rät linje */
+    .post-meta .post-category {
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important; 
+    }
+
+    .post-meta .post-category a {
+        margin-left: 0px !important;
+        margin-right: 0px !important; 
+        display: inline-block !important;
     }
 }
