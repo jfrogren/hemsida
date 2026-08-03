@@ -3,8 +3,8 @@
 @media screen and (max-width: 799px) {
     body {
         font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 0.97em !important; /* Något mindre än förut på mobil för ett smidigare utseende */
-        line-height: 1.6em;
+        font-size: 0.97em !important; 
+        line-height: 1.45em !important; /* Kompaktare radavstånd på mobil */
         background-color: #fefefe;
     }
 }
@@ -27,17 +27,37 @@ h2, h3 {
 	font-style: normal;
 }
 
+/* Minska storleken på rubriker inuti den enskilda bloggtexten */
+.post-content h1 { font-size: 1.7em !important; }
+.post-content h2 { font-size: 1.4em !important; }
+.post-content h3 { font-size: 1.2em !important; }
+
+
 /* =Datorskärmar - (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
 @media screen and (min-width: 800px) {
     html {
-        font-size: 15px !important; /* Behåller den bra grundskalan för marginaler/menyer */
+        font-size: 16px !important;
     }
     
-    body {
+    /* Harmoniserad textstorlek och mindre radavstånd för hela sajten */
+    body, .post-summary, p {
         font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 1.0em !important; /* Höjt till 1.0em för att göra brödtexten något större på dator */
-        line-height: 1.6em;
+        font-size: 1.06em !important;   
+        line-height: 1.45em !important;  /* Mindre radavstånd på dator */
         background-color: #fefefe;
+    }
+
+    /* Tvingar den enskilda bloggtexten att hålla EXAKT samma storlek som övriga sidor */
+    .post-content {
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-size: 1.06em !important;   /* Tar bort Even-temats inbyggda förstoring */
+        line-height: 1.45em !important;  /* Matchar det nya kompakta radavståndet */
+    }
+
+    /* MINDRE LUFT PÅ SIDORNA: Ökar maxbredden så att texten brer ut sig mer */
+    .container {
+        max-width: 850px !important;   /* Höjt från 680px för att minska marginalerna */
+        margin: 0 auto !important;
     }
 }
