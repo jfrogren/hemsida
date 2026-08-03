@@ -27,7 +27,7 @@ h2, h3 {
 	font-style: normal;
 }
 
-/* Minska storleken på rubriker inuti den enskilda bloggtexten */
+/* Justeringar av rubriker inuti själva brödtexten */
 .post-content h1 { font-size: 1.7em !important; }
 .post-content h2 { font-size: 1.4em !important; }
 .post-content h3 { font-size: 1.2em !important; }
@@ -40,24 +40,67 @@ h2, h3 {
         font-size: 16px !important;
     }
     
-    /* Harmoniserad textstorlek och mindre radavstånd för hela sajten */
-    body, .post-summary, p {
+    /* Grundläggande textinställning för datorer */
+    body, p {
         font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 1.06em !important;   
+        font-size: 1.09em !important;   
         line-height: 1.45em !important;  /* Mindre radavstånd på dator */
         background-color: #fefefe;
     }
 
-    /* Tvingar den enskilda bloggtexten att hålla EXAKT samma storlek som övriga sidor */
-    .post-content {
-        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
-        font-size: 1.06em !important;   /* Tar bort Even-temats inbyggda förstoring */
-        line-height: 1.45em !important;  /* Matchar det nya kompakta radavståndet */
+    /* Ändrar texten på startsidans förhandsvisningar */
+    .post-summary {
+        font-size: 1.09em !important;
+        line-height: 1.45em !important;
     }
 
-    /* MINDRE LUFT PÅ SIDORNA: Ökar maxbredden så att texten brer ut sig mer */
+    /* Den enskilda bloggtexten behåller sin korrekta storlek */
+    .post-content {
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-size: 1.09em !important;   
+        line-height: 1.45em !important;  
+    }
+
+    /* Mindre luft på sidorna (Bredare textyta) */
     .container {
-        max-width: 850px !important;   /* Höjt från 680px för att minska marginalerna */
+        max-width: 850px !important;   
         margin: 0 auto !important;
+    }
+
+    /* ==========================================================================
+       ARKIVSIDA ("Alla blogginlägg") & KATEGORISIDAN (/kategorier/)
+       ========================================================================== */
+    
+    /* Gör länkarna på både arkivlistan och den rena kategorisidan större */
+    .archive-post-time,
+    .archive-post-link,
+    .terms-item-name,
+    .terms-link {
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
+        font-size: 1.15em !important; 
+    }
+
+    /* LUFTIGARE RADAVSTÅND: Skapar mer vertikalt utrymme mellan varje rad i arkivlistan */
+    .archive .archive-post {
+        padding: 6px 0 !important; /* Lägger till lite luft över och under varje rad */
+    }
+
+    /* Snyggar till radavståndet generellt på listtitlar */
+    .archive .post-title, .terms .terms-title {
+        margin-bottom: 8px !important;
+    }
+
+    /* ==========================================================================
+       BLOGGPOSTENS HUVUDRUBRIK & METADATA (Mjuk förändring)
+       ========================================================================== */
+    
+    .post .post-title {
+        font-size: 28px !important; 
+        margin-bottom: 8px !important; 
+    }
+
+    .post .post-meta {
+        margin-top: 2px !important;    
+        margin-bottom: 22px !important; 
     }
 }
