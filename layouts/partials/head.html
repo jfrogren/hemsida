@@ -13,6 +13,8 @@
 <title>
   {{- if .IsHome -}}
     {{ .Site.Title }}
+  {{- else if eq .Kind "term" -}}
+    {{ .Data.Term }}
   {{- else -}}
     {{ .Title }}
   {{- end -}}
@@ -40,7 +42,7 @@
 <!-- open graph (Dynamisk för sociala medier och meddelandeappar) -->
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}"/>
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if eq .Kind "term" }}{{ .Data.Term }}{{ else }}{{ .Title }}{{ end }}"/>
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:locale" content="sv_SE">
 
@@ -64,7 +66,7 @@
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if eq .Kind "term" }}{{ .Data.Term }}{{ else }}{{ .Title }}{{ end }}">
 <meta name="twitter:description" content="{{ $description | safeHTML }}">
 <meta name="twitter:image" content="{{ $image }}">
 
