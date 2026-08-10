@@ -3,6 +3,8 @@ title: "Om mig"
 og_type: article
 image: /images/joakim.png
 description: "Kultur är mitt livselixir. I bloggen utforskar jag kreativitet genom musik, litteratur och film, med en personlig och humoristisk ton. Välkommen!"
+images:
+  - "/images/jfr.jpg"
 ---
 
 ![](/images/jfr.jpg)
