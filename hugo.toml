@@ -42,7 +42,7 @@ unsafe = true
   limit = 20
 
 [taxonomies]
-  kategori = "kategorier"
+  kategori = "Kategorier"
   tag = "tags"
 
 [permalinks]
