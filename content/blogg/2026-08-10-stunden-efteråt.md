@@ -14,5 +14,4 @@ Att redan sakna ett ögonblick medan det fortfarande pågår. Så kände jag då
 
 Nej, förgänglighetens lycka ligger nog i att den inte går att bibehålla, men jag önskade så innerligt då liksom nu att jag hade kunnat bevara den stunden för evigheten. 
 
-{{< youtube-enhanced PD3VY7joFm8 >}}
-  * [ ] 
+{{< youtube-enhanced PD3VY7joFm8 >}} 
