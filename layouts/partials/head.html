@@ -128,7 +128,8 @@
   <script src="https://jsdelivr.net"></script>
 <![endif]-->` | safeHTML }}
 
-<!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
+ <!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
+ 
 <style>
   /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
   body .main .post .post-header .post-meta .post-category::after,
@@ -192,5 +193,20 @@
           font-size: 25px !important; /* Justera denna siffra för att göra rubriken större/mindre */
           line-height: 1.3em !important;
       }
+  }
+
+</style>
+
+<!-- 
+  FIX FÖR GOOGLE TRANSLATE (BEHÅLL TYPSNITT)
+  Varför: Google Translate bäddar in den översatta texten i egna HTML-taggar (<font>). 
+  Dessa regler tvingar webbläsaren att behålla webbplatsens unika typsnitt (Alegreya) 
+  och förhindrar att sidan faller tillbaka på standardtypsnitt som Arial eller Roboto.
+-->
+<style>
+  font, 
+  .goog-text-highlight, 
+  .goog-text-highlight font {
+      font-family: 'Alegreya', alegreya-sans, serif !important;
   }
 </style>
