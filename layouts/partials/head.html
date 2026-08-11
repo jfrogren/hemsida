@@ -128,7 +128,7 @@
   <script src="https://jsdelivr.net"></script>
 <![endif]-->` | safeHTML }}
 
-<!-- INDIVIDUELL AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
+<!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
 <style>
   /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
   body .main .post .post-header .post-meta .post-category::after,
@@ -145,23 +145,46 @@
       color: #626262 !important;
   }
 
-  /* 3. PRICK 1 (Mellan datum och FÖRSTA kategorinamnet) */
-  body .main .post .post-header .post-meta .post-category a:first-child::before {
-      margin-left: 2px !important;  /* Avstånd till vänster (mot datumet) */
-      margin-right: 5px !important; /* Avstånd till höger (mot första ordet) */
-  }
-
-  /* 4. PRICK 2 (Mellan det första och ANDRA kategorinamnet) */
-  body .main .post .post-header .post-meta .post-category a + a::before {
-      margin-left: -3px !important;  /* Kompenserar för HTML-mellanslaget till vänster */
-      margin-right: 4px !important; /* Avstånd till höger (mot andra ordet) */
-  }
-
-  /* 5. Nollställ eventuell gammal luft runt länkarna */
+  /* 3. Nollställ eventuell gammal luft runt länkarna */
   body .main .post .post-header .post-meta .post-category a {
       display: inline-block !important;
       margin: 0 !important;
       padding: 0 !important;
   }
-</style>
 
+  /* ==========================================================================
+     DATORSKÄRMAR (Standardinställningar)
+     ========================================================================== */
+  
+  /* Prick 1: Mellan datum och FÖRSTA kategorinamnet (Dator) */
+  body .main .post .post-header .post-meta .post-category a:first-child::before {
+      margin-left: 3px !important;
+      margin-right: 6px !important;
+  }
+
+  /* Prick 2: Mellan det första och ANDRA kategorinamnet (Dator) */
+  body .main .post .post-header .post-meta .post-category a + a::before {
+      margin-left: -3px !important;  /* Håller pricken centrerad på dator */
+      margin-right: 4px !important;
+  }
+
+
+  /* ==========================================================================
+     MOBILA ENHETER (Aktiveras enbart på skärmar under 800px bredd)
+     ========================================================================== */
+  @media screen and (max-width: 799px) {
+      
+      /* Prick 1: Mellan datum och FÖRSTA kategorinamnet (Mobil) */
+      body .main .post .post-header .post-meta .post-category a:first-child::before {
+          margin-left: 5px !important;
+          margin-right: 5px !important;
+      }
+
+      /* Prick 2: Mellan det första och ANDRA kategorinamnet (Mobil) */
+      body .main .post .post-header .post-meta .post-category a + a::before {
+          /* Ökat från 2px till 4px för att trycka tillbaka pricken till mitten på mobilen */
+          margin-left: 4px !important;  
+          margin-right: 5px !important;
+      }
+  }
+</style>
