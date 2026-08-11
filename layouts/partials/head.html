@@ -195,18 +195,21 @@
       }
   }
 
+  /* TVINGA TYPSNITT VID GOOGLE TRANSLATE & SPRÅKVÄXLING */
+html[class*="translated-"],
+html[lang],
+body,
+.post,
+.post-content {
+    font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
+}
+
+/* Fixar även dina rubriker så de inte tappar stilen vid översättning */
+h1, h2, h3, h4, h5, .post-title {
+    font-family: 'Alegreya', 'Trebuchet MS', sans-serif !important;
+}
+
 </style>
 
-<!-- 
-  FIX FÖR GOOGLE TRANSLATE (BEHÅLL TYPSNITT)
-  Varför: Google Translate bäddar in den översatta texten i egna HTML-taggar (<font>). 
-  Dessa regler tvingar webbläsaren att behålla webbplatsens unika typsnitt (Alegreya) 
-  och förhindrar att sidan faller tillbaka på standardtypsnitt som Arial eller Roboto.
--->
-<style>
-  font, 
-  .goog-text-highlight, 
-  .goog-text-highlight font {
-      font-family: 'Alegreya', alegreya-sans, serif !important;
-  }
-</style>
+
+
