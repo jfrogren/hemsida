@@ -101,7 +101,6 @@
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 {{- end -}}
 
-
 <!-- Styles -->
 {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
 <link href="{{ $style.RelPermalink }}" rel="stylesheet">
@@ -128,3 +127,41 @@
   <script src="https://jsdelivr.net"></script>
   <script src="https://jsdelivr.net"></script>
 <![endif]-->` | safeHTML }}
+
+<!-- INDIVIDUELL AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
+<style>
+  /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
+  body .main .post .post-header .post-meta .post-category::after,
+  .post-meta .post-category::after,
+  .post-category::after {
+      content: "" !important;
+      display: none !important;
+  }
+
+  /* 2. Gemensamma regler för alla prickar framför kategorilänkarna */
+  body .main .post .post-header .post-meta .post-category a::before {
+      content: "·" !important;
+      display: inline-block !important;
+      color: #626262 !important;
+  }
+
+  /* 3. PRICK 1 (Mellan datum och FÖRSTA kategorinamnet) */
+  body .main .post .post-header .post-meta .post-category a:first-child::before {
+      margin-left: 2px !important;  /* Avstånd till vänster (mot datumet) */
+      margin-right: 5px !important; /* Avstånd till höger (mot första ordet) */
+  }
+
+  /* 4. PRICK 2 (Mellan det första och ANDRA kategorinamnet) */
+  body .main .post .post-header .post-meta .post-category a + a::before {
+      margin-left: -3px !important;  /* Kompenserar för HTML-mellanslaget till vänster */
+      margin-right: 4px !important; /* Avstånd till höger (mot andra ordet) */
+  }
+
+  /* 5. Nollställ eventuell gammal luft runt länkarna */
+  body .main .post .post-header .post-meta .post-category a {
+      display: inline-block !important;
+      margin: 0 !important;
+      padding: 0 !important;
+  }
+</style>
+
