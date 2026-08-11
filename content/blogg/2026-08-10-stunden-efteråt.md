@@ -5,7 +5,7 @@ draft: false
 kategorier: ["Musik", "Brasilien"]
 description: "Några rader om att sakna ett ögonblick medan det fortfarande pågår och hur förgänglighet nog är en förutsättning för den sanna lyckan."
 images:
-  -   - "https://img.youtube.com/vi/PD3VY7joFm8/maxresdefault.jpg"
+  - "https://img.youtube.com/vi/PD3VY7joFm8/maxresdefault.jpg"
 ---
 
 Att redan sakna ett ögonblick medan det fortfarande pågår. Så kände jag då och lyckan och saknaden sitter fortfarande i kroppen som ett fysiskt känslominne. Men det blir vagare och vagare i konturerna och det har ändå bara gått en vecka. 
