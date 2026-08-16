@@ -1,4 +1,4 @@
-MetaDataFormat = "toml"
+# MetaDataFormat = "toml"
 baseurl = "https://frogren.se"
 title = "Joakim Frögren"
 # titleCaseStyle = "none" 
