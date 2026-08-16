@@ -1,0 +1,7 @@
+<!-- En universell shortcode som gissar rätt filtyp baserat på filändelsen -->
+<div class="audio-player-wrapper" style="margin: 1.5rem 0; width: 100%;">
+    <audio controls style="width: 100%; border-radius: 4px;">
+        <source src="{{ .Get "src" | relURL }}">
+        Din webbläsare stöder inte ljudelementet.
+    </audio>
+</div>
