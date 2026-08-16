@@ -34,7 +34,13 @@
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
 -----------------------------------------------------------------------------*/
-h1, h2, h3, h4, h5 {
+/* Sajttiteln och menyer återgår till temats inbyggda font för att behålla kursiv stil */
+h1 {
+	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
+}
+
+/* Inläggens rubriker behåller systemfonten så att det rumänska ă fungerar */
+h2, h3, h4, h5 {
 	font-family: 'Alegreya-System', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	color: #34495e;
@@ -54,7 +60,6 @@ h2, h3 {
 .post-content h1 { font-size: 1.7em !important; }
 .post-content h2 { font-size: 1.4em !important; }
 .post-content h3 { font-size: 1.2em !important; }
-
 
 /* =Datorskärmar - (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
@@ -98,7 +103,7 @@ h2, h3 {
     .archive-post-link,
     .terms-item-name,
     .terms-link {
-        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif !important;
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
         font-size: 1.15em !important; 
     }
 
