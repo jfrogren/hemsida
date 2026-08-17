@@ -16,14 +16,6 @@
         font-size: 20px !important; 
     }
 
-    /* MOBILFALLBACK: Säkerställer egna rader för datum och Läs vidare även på små skärmar */
-    .posts .post-meta,
-    .post-time,
-    .posts .read-more-link,
-    .read-more-link {
-        display: block !important;
-        clear: both !important;
-    }
 }
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
@@ -149,15 +141,18 @@ h2, h3 {
         margin-bottom: 22px !important; 
     }
 
-    /* FIX: Tvingar fram en EGEN RAD för datumet ENBART på själva startsidan (grundsidan) */
-    .posts .post .post-header .post-meta,
-    .posts .post .post-meta,
-    .posts .post-meta {
-        display: block !important;       /* Tvingar ner texten på en egen rad online */
-        clear: both !important;
-        margin-top: 4px !important;      /* Ger ett litet avstånd från rubriken ovanför */
-        margin-bottom: 16px !important;  /* Ger ett vackert avstånd till texten under */
+    /* FIX: Bryter flexbox-linjen och tvingar fram en EGEN RAD för datumet ENBART på startsidan */
+    .posts .post .post-header {
+        display: flex !important;
+        flex-direction: column !important; /* Tvingar rubrik och datum att staplas på höjden */
+        align-items: flex-start !important; /* Håller texten snyggt vänsterjusterad */
     }
+
+    .posts .post .post-header .post-meta {
+        margin-top: 6px !important;       /* Ger ett snyggt avstånd från rubriken ovanför */
+        margin-bottom: 16px !important;   /* Ger ett vackert avstånd till brödtexten under */
+    }
+
 
 
     /* BEHÅLL: Säkerställer datumen i arkivlistan */
