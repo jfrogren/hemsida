@@ -129,8 +129,19 @@
 <![endif]-->` | safeHTML }}
 
  <!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
- 
+
 <style>
+ 
+/* Garanterar att Alegreya Sans laddas korrekt från din egen server */
+  @font-face {
+    font-family: 'Alegreya Sans';
+    src: url('/fonts/alegreya-sans-regular.woff2') format('woff2'),
+         url('/fonts/alegreyasans-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
   /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
   body .main .post .post-header .post-meta .post-category::after,
   .post-meta .post-category::after,
@@ -210,6 +221,3 @@ h1, h2, h3, h4, h5, .post-title {
 }
 
 </style>
-
-
-
