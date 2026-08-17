@@ -6,7 +6,7 @@ draft: false
 kategorier: ["Litteratur", "Rumänien", "Irland"]
 images:
   - "https://img.youtube.com/vi/XW9e2oMeaXc/maxresdefault.jpg"
-description: "Mircea Cărtărescu och Sean Cotter vann Dublin Literary Award 2024 för '规格Solenoid'规格 och diskuterade verket på festivalen. Cotter delade en pdf med text- och bildfragment kopplade till romanen."
+description: "Mircea Cărtărescu och Sean Cotter vann Dublin Literary Award 2024 för 'Solenoid' och diskuterade verket på festivalen. Cotter delade en pdf med text- och bildfragment kopplade till romanen."
 ---
 
 Mircea Cărtărescu och hans engelska översättare Sean Cotter vann Dublin Literary Award år 2024 för romanen Solenoid. I samband med det och som en del av International Literature Festival Dublin deltog de i ett samtal inför publik lett av Alex Clarke.
