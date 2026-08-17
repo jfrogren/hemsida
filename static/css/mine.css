@@ -79,16 +79,26 @@ h2, h3 {
     .terms-link {
         font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
         font-size: 1.15em !important; 
+        line-height: 1.5em !important;
     }
 
-    /* MER RADAVSTÅND: Ökat från 6px till 12px för mer luft mellan bloggraderna */
+    /* RADAVSTÅND: Justerat för perfekt luftighet mellan varje bloggpost */
     .archive .archive-post {
-        padding: 12px 0 !important; 
+        padding: 16px 0 !important; 
     }
 
     /* Snyggar till radavståndet generellt på listtitlar */
     .archive .post-title, .terms .terms-title {
         margin-bottom: 8px !important;
+    }
+
+    /* FIX: Ännu större space OVANFÖR helåren, men behåller närheten till inlägget UNDER */
+    .archive .archive-year {
+        margin-top: 55px !important;   
+        margin-bottom: 8px !important;  
+        display: block !important;
+        font-family: 'Alegreya-Global', Georgia, serif !important;
+        font-size: 1.4em !important;   
     }
 
     /* ==========================================================================
@@ -102,15 +112,20 @@ h2, h3 {
         margin-bottom: 8px !important; 
     }
 
-    /* Tvingar rätt font på tider, datum och kategorilänkar i inläggen */
+    /* FIX: Tvingar den raka Alegreya Sans på tider, datum och kategorilänkar i enskilda inlägg */
     .post .post-meta,
     .post-meta .post-category,
     .post-meta .post-category a,
-    .post-time,
-    .archive-post-time {
-        font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
+    .post-time {
+        font-family: 'Alegreya-Sans-Global', sans-serif !important;
+        font-size: 0.94em !important; 
         margin-top: 2px !important;    
         margin-bottom: 22px !important; 
+    }
+
+    /* BEHÅLL: Säkerställer datumen i arkivlistan */
+    .archive-post-time {
+        font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
     }
 
     .post-meta .post-category {
@@ -125,37 +140,40 @@ h2, h3 {
         display: inline-block !important;
     }
 
-    /* Tvingar Alegreya-Global på "Läs vidare..."-länken på startsidan */
+    /* Tvinga Alegreya-Global på "Läs vidare..."-länken på startsidan */
     .posts .post .read-more .read-more-link,
     .post .read-more .read-more-link,
     .read-more-link {
         font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
     }
-}
+} /* HÄR stängs datorskärmsblocket på ett säkert sätt! */
+
 
 /* ==========================================================================
-   HEADER-JUSTERING - Tvinga Alegreya Sans på namn och menyer överallt
+   GLOBAL HEADER-JUSTERING - Slår igenom på alla skärmar
    ========================================================================== */
 .header .logo-wrapper .logo,
 .header .logo-wrapper a {
     font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 28px !important; /* MINSKAT: Gör namnet något mindre och mer elegant */
+    font-size: 28.5px !important;       /* Nu kommer storleken garanterat att bita! */
+    font-weight: 600 !important;       
+    letter-spacing: -0.2px !important; 
 }
 
 .header .menu .menu-item,
 .header .menu .menu-item a {
     font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 1.05em !important; 
+    font-size: 1.08em !important;     
 }
 
 /* ==========================================================================
-   FOOTER-JUSTERING - Gör årtal och copyright-text snygg och läsbar
+   GLOBAL FOOTER-JUSTERING - Slår igenom på alla skärmar
    ========================================================================== */
 .footer,
 .footer .copyright,
 .footer .copyright .power-by,
 .footer .copyright .theme-info {
     font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
-    font-size: 1.22em !important;  /* ÖKAT: Gör årtalet och copyright-texten något större */
+    font-size: 1.22em !important;  
     line-height: 1.5em !important;
 }
