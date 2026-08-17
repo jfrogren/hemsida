@@ -20,7 +20,7 @@
         letter-spacing: -0.2px !important;
         /* NYA RADER: Aktiverar wrapping och flyttar texten i höjdled */
         display: inline-block !important; /* Gör att textblocket går att flytta fritt */
-        margin-top: 5px !important;      /* JUSTERA DENNA: Höj (t.ex. 16px) för att flytta texten NER. Sänk för att flytta den UPP. */
+        margin-top: 6px !important;      /* JUSTERA DENNA: Höj (t.ex. 16px) för att flytta texten NER. Sänk för att flytta den UPP. */
         margin-bottom: 0 !important;
     }
     }
