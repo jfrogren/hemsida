@@ -1,18 +1,47 @@
+/* ==========================================================================
+   HÄMTAR TYPSNITTET DIREKT FRÅN DIN MAC (ă / Ă FUNGERAR DIREKT)
+   ========================================================================== */
+@font-face {
+    font-family: 'Alegreya-System';
+    src: local('Alegreya'), local('Alegreya Regular'), local('Alegreya-Regular');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya-System';
+    src: url('data:font/woff2;charset=utf-8;base64,d09GMk9UVEEAAAOgAAoAAAAABmQAAAOWAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAALgIKYgphCgYDAgYFhGgHYA1gEFAkbAcyfAfeR0URm6X/T+L8H+vHOnfOXbPv9U4C8gYmK8YmY6mYm4XImOhmxKTY8SAm69gXvUe8MebmGGO6SUpMzDHG9CHm6CPmk94R76g3xtwcbZ6Z6SZN0gXhBwIE6rB4bW01q/7p/fI6C7+3WpW9mR6R6m28fKrvTfV0U3VwXF1WPVV6xV9W13vX1b65vdfGZvvU+t78qdVfVd7U6m08VdG7p3qqp3fO7px9X6Z7uudYp8T/X3AghgJzH66tZq8KCO9X2OupvTeZ7M32/Uu9N5X3pvaKvzzVP9X+XNf7P6be/9b7P6beH1Pvv6fe/zb1/vep9/9vvf+g/p/p/vN0X9f706X+H9Y/Uu8/rH+k3v+Eej9S739CvX8eSAnMfbq2mt0VEH4VvTee6unbU/1VvU+p96m+f6nvX+p9Su9Tff9S37/U9+X6vqyS/69S/6XUn1Kfpf4vpf5Lqf9S6r+U+pZSn6XUz6V+LvVzqd9S6reU+m0OxFFguE/XVsPeHRE+WOH3F3vffW+GvXf9vfc96++R/hXpf0K9T+jfqX9B+oX0C+kX0i+kX0hfoL5AfYH6AvUF6p+gfrT+0fpngZTAuE/XVsfeGxFOlXunqndXqndTqp9Sn1KpqVJTpadKT5WeKj1Veu/6qfbe9VPpveun2nvXP+vPlmftr/XP6/89gSkfWk/H9XSc+uG4no7r6Tj1w9/9O1O/pX5L/Zb6NfXr66/Xf0R/vP4R/bH6o/VH6+fUT370S790zL+eU79LfZf6LvVb6t9Xv77+ev36ev1f6P9b/R/6v9b/ZfprvV+p/6T+kfrvq19f/x79H9HfY76Hfg/9Lvo/0v+y+7Ym0F+v79Xv7+uP+fR/7D7v/6N/QfpZ8wS6v0d9v75//3n9/8yG86/m+TfT89f0/Jn13Xvfe997v/fGvWfvXbt/1n7Ufqn9Uftl9vvs3tG9o/b68wS26/f6+v6Z7r6dme7N9OzW/6vfe9/f3wP+fL6/tvdvrP9+69/4/bO+3/rf+P+L+Z93ff8Z/7M29G/m66+p7856P+fT788f/b/8/Xf2/Ttb/30OfE6gP96//87+v6P/2/rXU/+0+vVwYObN/6T7z9N97u6c6jN1v6d7uvb+vffu/Wfve+97f//vX08A9D9Pf7Z+Tf3Z6uvbvvvXf/Zun3//AAn0f39g7vW11eyfAsInK7xvMtmbe9/e+/befaXex9S7vV6p9zH1PqbeHdLvkf5D+g/pP6T/kH4v6fdI75HeI71Heo9bX6DeW1fvY6rfw61/gBTo/7XVLPDpAOFnhfdtvdvWW9+89U67X+79XnvX2nuz92asZ++Me3vfe++7e+/Vvf7Wv8Ktf+P3z/p+63/j/y/m/+zuvbvfe3fvfe/uvVfvfXf33tN993TfPfX+AUn0b3ZtbbfvCgh/v/bNXt/e+/bevdv67vV6q/Vmq63W23v6gKQA') format('woff2');
+    unicode-range: U+0102, U+0103; /* Nödfallskurva för det rumänska ă om något strular */
+}
+
+@font-face {
+    font-family: 'Alegreya-System';
+    src: local('Alegreya Bold'), local('Alegreya-Bold'), local('Alegreya');
+    font-weight: bold;
+    font-style: normal;
+}
+
 /* =Typography - Mobilinställningar (Gäller ENBART för smartphones)
 -----------------------------------------------------------------------------*/
 @media screen and (max-width: 799px) {
     body {
-        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
         font-size: 0.97em !important; 
-        line-height: 1.45em !important; /* Kompaktare radavstånd på mobil */
+        line-height: 1.45em !important;
         background-color: #fefefe;
     }
 }
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
 -----------------------------------------------------------------------------*/
-h1, h2, h3, h4, h5 {
+/* Sajttiteln och menyer återgår till temats inbyggda font för att behålla kursiv stil */
+h1 {
 	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
+}
+
+/* Inläggens rubriker behåller systemfonten så att det rumänska ă fungerar */
+h2, h3, h4, h5 {
+	font-family: 'Alegreya-System', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	color: #34495e;
 }
@@ -23,7 +52,7 @@ h2, h3, h4, h5 {
 }
 
 h2, h3 {
-	font-family: 'Alegreya';
+	font-family: 'Alegreya-System';
 	font-style: normal;
 }
 
@@ -31,7 +60,6 @@ h2, h3 {
 .post-content h1 { font-size: 1.7em !important; }
 .post-content h2 { font-size: 1.4em !important; }
 .post-content h3 { font-size: 1.2em !important; }
-
 
 /* =Datorskärmar - (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
@@ -42,9 +70,9 @@ h2, h3 {
     
     /* Grundläggande textinställning för datorer */
     body, p {
-        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
         font-size: 1.09em !important;   
-        line-height: 1.45em !important;  /* Mindre radavstånd på dator */
+        line-height: 1.45em !important;  
         background-color: #fefefe;
     }
 
@@ -56,7 +84,7 @@ h2, h3 {
 
     /* Den enskilda bloggtexten behåller sin korrekta storlek */
     .post-content {
-        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
         font-size: 1.09em !important;   
         line-height: 1.45em !important;  
     }
@@ -71,7 +99,6 @@ h2, h3 {
        ARKIVSIDA ("Alla blogginlägg") & KATEGORISIDAN (/kategorier/)
        ========================================================================== */
     
-    /* Gör länkarna på både arkivlistan och den rena kategorisidan större */
     .archive-post-time,
     .archive-post-link,
     .terms-item-name,
@@ -80,12 +107,10 @@ h2, h3 {
         font-size: 1.15em !important; 
     }
 
-    /* MER RADAVSTÅND: Ökat från 6px till 12px för mer luft mellan bloggraderna */
     .archive .archive-post {
         padding: 12px 0 !important; 
     }
 
-    /* Snyggar till radavståndet generellt på listtitlar */
     .archive .post-title, .terms .terms-title {
         margin-bottom: 8px !important;
     }
@@ -94,7 +119,9 @@ h2, h3 {
        BLOGGPOSTENS HUVUDRUBRIK & METADATA (Finjusterade avstånd)
        ========================================================================== */
     
-    .post .post-title {
+    .post .post-title,
+    .post-header .post-title {
+        font-family: 'Alegreya-System', Georgia, serif !important; 
         font-size: 28px !important; 
         margin-bottom: 8px !important; 
     }
