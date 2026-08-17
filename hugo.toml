@@ -107,10 +107,10 @@ unsafe = true
 
   baiduPush = false        # baidu push                  # 百度
 
-  # Link custom CSS and JS assets
+    # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = ['bigfoot-default.css','codeblock.css','mine.css','codeblock.css', 'dark.css']
-  customJS = ['bigfoot.min.js','codeblock.js']
+  customCSS = ['bigfoot-default.css','codeblock.css','mine.css', 'dark.css']
+  customJS = ['codeblock.js']
 
   uglyURLs = false          # please keep same with uglyurls setting
 

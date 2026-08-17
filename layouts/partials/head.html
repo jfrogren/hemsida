@@ -131,38 +131,31 @@
  <!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
 
 <style>
- 
-/* Garanterar att Alegreya Sans laddas korrekt från din egen server */
+
+  /* ==========================================================================
+     LOKAL SYSTEMFONT: Läser direkt från din Mac på 0 sekunder utan nätverk
+     ========================================================================== */
   @font-face {
-    font-family: 'Alegreya Sans';
-    src: url('/fonts/alegreya-sans-regular.woff2') format('woff2'),
-         url('/fonts/alegreyasans-regular.woff2') format('woff2');
+    font-family: 'Alegreya';
+    src: local('Alegreya'), local('Alegreya Regular'), local('Alegreya-Regular');
     font-weight: 400;
     font-style: normal;
-    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Alegreya';
+    src: local('Alegreya Italic'), local('Alegreya-Italic'), local('Alegreya');
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Alegreya';
+    src: local('Alegreya Bold'), local('Alegreya-Bold'), local('Alegreya');
+    font-weight: 700;
+    font-style: normal;
   }
 
   /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
   body .main .post .post-header .post-meta .post-category::after,
-  .post-meta .post-category::after,
-  .post-category::after {
-      content: "" !important;
-      display: none !important;
-  }
-
-  /* 2. Gemensamma regler för alla prickar framför kategorilänkarna */
-  body .main .post .post-header .post-meta .post-category a::before {
-      content: "·" !important;
-      display: inline-block !important;
-      color: #626262 !important;
-  }
-
-  /* 3. Nollställ eventuell gammal luft runt länkarna */
-  body .main .post .post-header .post-meta .post-category a {
-      display: inline-block !important;
-      margin: 0 !important;
-      padding: 0 !important;
-  }
 
   /* ==========================================================================
      DATORSKÄRMAR (Standardinställningar)
@@ -179,7 +172,6 @@
       margin-left: -3px !important;  /* Håller pricken centrerad på dator */
       margin-right: 4px !important;
   }
-
 
   /* ==========================================================================
      MOBILA ENHETER (Aktiveras enbart på skärmar under 800px bredd)
@@ -201,23 +193,23 @@
 
       /* NYTT: Minskar storleken på bloggpostens huvudrubrik på mobilen */
       body .main .post .post-title {
-          font-size: 25px !important; /* Justera denna siffra för att göra rubriken större/mindre */
+          font-size: 25px !important;
           line-height: 1.3em !important;
       }
   }
 
   /* TVINGA TYPSNITT VID GOOGLE TRANSLATE & SPRÅKVÄXLING */
-html[class*="translated-"],
-html[lang],
-body,
-.post,
-.post-content {
-    font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
-}
+  html[class*="translated-"],
+  html[lang],
+  body,
+  .post,
+  .post-content {
+      font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
+  }
 
-/* Fixar även dina rubriker så de inte tappar stilen vid översättning */
-h1, h2, h3, h4, h5, .post-title {
-    font-family: 'Alegreya', 'Trebuchet MS', sans-serif !important;
-}
-
+  /* Fixar även dina rubriker så de inte tappar stilen vid översättning */
+  h1, h2, h3, h4, h5, .post-title {
+      font-family: 'Alegreya', 'Trebuchet MS', sans-serif !important;
+  }
 </style>
+
