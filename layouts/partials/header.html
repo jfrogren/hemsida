@@ -6,7 +6,13 @@
       {{ .Site.Title }}
     {{- end -}}</a>&thinsp; &middot; &thinsp; 
 
-<a href="https://github.com" class="logo" title="GitHub"><img class="icon-svg" src = "/images/github.svg"></a>
+  <!-- NY SNYGG TEMA-VÄXLARE: Ersätter GitHub direkt efter pricken -->
+  <button id="theme-toggle-icon-btn" aria-label="Växla mellan ljust och mörkt läge" onclick="toggleSiteTheme()" style="background: transparent !important; border: none !important; cursor: pointer !important; padding: 0 !important; margin: 0 !important; display: inline-flex; align-items: center; vertical-align: middle;">
+    <!-- Stiliserad Sol (SVG) -->
+    <svg id="sun-icon" class="theme-svg-icon" xmlns="http://w3.org" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="18.36" x2="5.64" y2="19.78"></line><line x1="18.36" y1="4.22" x2="19.78" y2="4.22"></line></svg>
+    <!-- Stiliserad Måne (SVG) -->
+    <svg id="moon-icon" class="theme-svg-icon" xmlns="http://w3.org" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+  </button>
 </div>
 
 <nav class="site-navbar">

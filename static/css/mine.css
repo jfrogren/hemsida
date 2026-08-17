@@ -245,3 +245,80 @@ blockquote {
     margin: 24px 0 !important;            
 }
 
+/* ==========================================================================
+   INTEGRERAD TEMA-IKON - Frigjord från alla inbyggda spärrar
+   ========================================================================== */
+#theme-toggle-icon-btn {
+    color: #34495e !important;    
+    transition: transform 0.25s ease, color 0.2s ease !important;
+    
+    /* FIX: Krossar den osynliga ramen som tog emot i taket */
+    padding: 0 !important;
+    line-height: 0 !important;
+    background: transparent !important;
+    border: none !important;
+    
+    /* SKOTTÄKERT LYFT: Flyttar ikonen uppåt oberoende av temats dolda spärrar */
+    display: inline-flex !important;
+    position: relative !important;
+    top: -2px !important;         /* JUSTERA DENNA: Ändra till -5px eller -6px för att flytta den ännu mer UPP */
+}
+
+/* Blir helvit när mörkt läge aktiveras */
+body.dark-theme #theme-toggle-icon-btn {
+    color: #ffffff !important;
+}
+
+#theme-toggle-icon-btn:hover {
+    transform: rotate(15deg) scale(1.08) !important;
+}
+
+.theme-svg-icon {
+    width: 18px !important;       
+    height: 18px !important;
+    stroke-width: 2 !important;
+    vertical-align: top !important; /* Håller grafiken i absolut toppläge inuti knappen */
+}
+
+/* ==========================================================================
+   MÖRKT TEMA-RAMVERK - Textfärger och detaljer för din Ezhil-switch
+   ========================================================================== */
+
+/* Fixar alla rubriker så de blir helvita och skarpa mitt i mörkret */
+body.dark-theme h1, 
+body.dark-theme h2, 
+body.dark-theme h3, 
+body.dark-theme h4, 
+body.dark-theme h5, 
+body.dark-theme .post-title,
+body.dark-theme .archive-year,
+body.dark-theme .archive-section-title {
+    color: #ffffff !important;
+}
+
+/* Fixar ditt namn och menyerna i headern så de syns vackert i mörkret */
+body.dark-theme .header .logo-wrapper .logo,
+body.dark-theme .header .logo-wrapper a,
+body.dark-theme .header .menu .menu-item,
+body.dark-theme .header .menu .menu-item a {
+    color: #ffffff !important;
+}
+
+/* Vacker och läsbar kornblå länkfärg för alla länkar och datum i mörkt läge */
+body.dark-theme a,
+body.dark-theme .post-meta,
+body.dark-theme .post-time,
+body.dark-theme .archive-post-link,
+body.dark-theme .archive-post-time,
+body.dark-theme .posts .post .read-more .read-more-link {
+    color: #6495ed !important;           
+}
+
+/* Säkerställer att även footern i botten hänger med och blir ljusgrå */
+body.dark-theme .footer,
+body.dark-theme .footer .copyright,
+body.dark-theme .footer .copyright .power-by,
+body.dark-theme .footer .copyright .theme-info,
+body.dark-theme .footer a {
+    color: #aeaea3 !important;
+}
