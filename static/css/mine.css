@@ -8,14 +8,13 @@
         background-color: #fefefe;
     }
 
-    /* FIX FÖR MOBIL: Gör "Alla blogginlägg" mer kompakt och snygg på telefoner */
+/* FIX FÖR MOBIL: Gör "Alla blogginlägg" mer kompakt och snygg på telefoner */
     .archive h1,
     .archive h2,
     .archive .archive-title,
     .archive-section-title {
         font-size: 20px !important; 
     }
-
 }
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
@@ -141,17 +140,6 @@ h2, h3 {
         margin-bottom: 22px !important; 
     }
 
-    /* SKOTTÄKRAD FIX: Klipper textflödet och tvingar fram en EGEN RAD för datumet ENBART på startsidan */
-    .posts .post-meta,
-    .posts .post-time,
-    .posts .post .post-meta {
-        display: table !important;       /* Klipper av all text runt omkring och skapar en egen rad online */
-        clear: both !important;          /* Förhindrar att någon text flyter upp på sidorna */
-        margin-top: 6px !important;      /* Ger ett snyggt avstånd från rubriken ovanför */
-        margin-bottom: 16px !important;  /* Skapar ett vackert utrymme till brödtexten under */
-    }
-
-
     /* BEHÅLL: Säkerställer datumen i arkivlistan */
     .archive-post-time {
         font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
@@ -205,4 +193,16 @@ h2, h3 {
     font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
     font-size: 1.22em !important;  
     line-height: 1.5em !important;
+}
+
+/* ==========================================================================
+   STARTSIDANS DATUM-FIX: Tvingar fram egen rad för em-texten online
+   ========================================================================== */
+.posts .post .post-summary em,
+.posts .post em,
+.posts em {
+    display: block !important;    /* Tvingar ner datumet på en helt egen rad online */
+    clear: both !important;
+    margin-top: 4px !important;   /* Avstånd från rubriken ovanför */
+    margin-bottom: 14px !important;/* Avstånd till brödtexten under */
 }
