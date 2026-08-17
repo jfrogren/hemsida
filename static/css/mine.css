@@ -206,3 +206,24 @@ h2, h3 {
     margin-top: 4px !important;   /* Avstånd från rubriken ovanför */
     margin-bottom: 14px !important;/* Avstånd till brödtexten under */
 }
+
+/* ==========================================================================
+   CITATBLOCKS-FIX - Ljusgrå bakgrund, ingen textförändring & nollställ vit färg
+   ========================================================================== */
+.post-content blockquote,
+blockquote,
+.post-content blockquote p,
+blockquote p {
+    background-color: #ededed !important; /* Elegant ljusgrå bakgrundsfärg */
+    background: #ededed !important;       /* Dubbelsäkrar att alla vita mönster försvinner */
+    border-color: #0047ab !important;     /* Behåller din blå linje till vänster */
+}
+
+/* Ger själva huvudcontainern rätt luftighet runt den grå ytan */
+.post-content blockquote,
+blockquote {
+    border-left: 4px solid #0047ab !important;
+    padding: 15px 20px !important;        
+    margin: 24px 0 !important;            
+}
+
