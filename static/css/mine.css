@@ -144,3 +144,15 @@ h2, h3 {
         display: inline-block !important;
     }
 }
+
+/* ==========================================================================
+   FOOTERJUSTERING - Gör årtal och copyright-text större och mer läsbar
+   ========================================================================== */
+.footer,
+.footer .copyright,
+.footer .copyright .power-by,
+.footer .copyright .theme-info {
+    font-family: 'Alegreya-System', 'Hoefler Text', Times, serif !important; /* Säkerställ rätt font */
+    font-size: 1.05em !important;  /* Ökar storleken (Standard är runt 0.8em) */
+    line-height: 1.5em !important; /* Ger texten lite mer luft på höjden */
+}
