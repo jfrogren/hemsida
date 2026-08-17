@@ -149,12 +149,16 @@ h2, h3 {
         margin-bottom: 22px !important; 
     }
 
-     /* FIX: Tvingar fram en EGEN RAD för datumet ENBART på själva startsidan (grundsidan) */
+    /* FIX: Tvingar fram en EGEN RAD för datumet ENBART på själva startsidan (grundsidan) */
+    .posts .post .post-header .post-meta,
+    .posts .post .post-meta,
     .posts .post-meta {
         display: block !important;       /* Tvingar ner texten på en egen rad online */
         clear: both !important;
-        margin-bottom: 15px !important;  /* Ger ett snyggt avstånd till texten under */
+        margin-top: 4px !important;      /* Ger ett litet avstånd från rubriken ovanför */
+        margin-bottom: 16px !important;  /* Ger ett vackert avstånd till texten under */
     }
+
 
     /* BEHÅLL: Säkerställer datumen i arkivlistan */
     .archive-post-time {
