@@ -128,9 +128,46 @@
   <script src="https://jsdelivr.net"></script>
 <![endif]-->` | safeHTML }}
 
- <!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
+  <!-- MOBILANPASSAD AVSTÅNDSJUSTERING FÖR BÅDA PRICKARNA -->
  
 <style>
+  /* ==========================================================================
+     INTEGRERADE FONTFILER: Hämtas direkt från din server på 0 sekunder
+     ========================================================================== */
+  /* Alegreya (Med serifer/klackar för brödtext och rubriker) */
+  @font-face {
+    font-family: 'Alegreya-Global';
+    src: url('/fonts/alegreya-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Alegreya-Global';
+    src: url('/fonts/alegreya-italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Alegreya-Global';
+    src: url('/fonts/alegreya-bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  /* Alegreya Sans (Den raka varianten för ditt namn och menyerna) */
+  @font-face {
+    font-family: 'Alegreya-Sans-Global';
+    src: url('/fonts/alegreyasans-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Alegreya-Sans-Global';
+    src: url('/fonts/alegreyasans-italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+  }
+
   /* 1. Radera de gamla fasta prickarna på själva kategoricontainern */
   body .main .post .post-header .post-meta .post-category::after,
   .post-meta .post-category::after,
@@ -169,7 +206,6 @@
       margin-right: 4px !important;
   }
 
-
   /* ==========================================================================
      MOBILA ENHETER (Aktiveras enbart på skärmar under 800px bredd)
      ========================================================================== */
@@ -183,33 +219,22 @@
 
       /* Prick 2: Mellan det första och ANDRA kategorinamnet (Mobil) */
       body .main .post .post-header .post-meta .post-category a + a::before {
-          /* Ökat från 2px till 4px för att trycka tillbaka pricken till mitten på mobilen */
           margin-left: 3px !important;  
           margin-right: 5px !important;
       }
 
       /* NYTT: Minskar storleken på bloggpostens huvudrubrik på mobilen */
       body .main .post .post-title {
-          font-size: 25px !important; /* Justera denna siffra för att göra rubriken större/mindre */
+          font-size: 25px !important;
           line-height: 1.3em !important;
       }
   }
 
   /* TVINGA TYPSNITT VID GOOGLE TRANSLATE & SPRÅKVÄXLING */
-html[class*="translated-"],
-html[lang],
-body,
-.post,
-.post-content {
-    font-family: 'Alegreya', 'Hoefler Text', Times, serif !important;
-}
-
-/* Fixar även dina rubriker så de inte tappar stilen vid översättning */
-h1, h2, h3, h4, h5, .post-title {
-    font-family: 'Alegreya', 'Trebuchet MS', sans-serif !important;
-}
-
+  html[class*="translated-"], html[lang], body, .post, .post-content {
+      font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
+  }
+  h1, h2, h3, h4, h5, .post-title {
+      font-family: 'Alegreya-Global', 'Trebuchet MS', sans-serif !important;
+  }
 </style>
-
-
-
