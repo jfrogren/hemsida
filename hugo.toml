@@ -68,9 +68,6 @@ unsafe = true
   description = "En plats där jag reflekterar kring sånt som gör intryck och avtryck. Främst som ett sätt att själv minnas, men också med förhoppningen om att inspirera andra."
   keywords = ["blogg", "hemsida", "sajt"] # site info (optional)
 
-  # Tvingar Google Fonts att leverera den utökade europeiska teckenuppsättningen
-  googleFontsSubsets = ["latin", "latin-ext"]
-
   # paginate of archives, tags and categories
   # general archives
   archivePaginate = 25
