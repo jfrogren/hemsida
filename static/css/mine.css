@@ -109,7 +109,7 @@ h2, h3 {
     .post-header .post-title {
         font-family: 'Alegreya-Global', Georgia, serif !important;
         font-size: 28px !important; 
-        margin-bottom: 8px !important; 
+        margin-bottom: 6px !important; 
     }
 
     /* FIX: Tvingar den raka Alegreya Sans på tider, datum och kategorilänkar i enskilda inlägg */
@@ -118,7 +118,7 @@ h2, h3 {
     .post-meta .post-category a,
     .post-time {
         font-family: 'Alegreya-Sans-Global', sans-serif !important;
-        font-size: 0.94em !important; 
+        font-size: 0.98em !important; 
         margin-top: 2px !important;    
         margin-bottom: 22px !important; 
     }
