@@ -7,8 +7,20 @@
         line-height: 1.45em !important; /* Kompaktare radavstånd på mobil */
         background-color: #fefefe;
     }
+    /* MOBILJUSTERING: Krossar alla dolda temaspärrar och tvingar fram 38px enbart på mobil */
+    .header .logo-wrapper .logo,
+    .header .logo-wrapper a,
+    #header .logo,
+    .logo a,
+    a.logo {
+        font-family: 'Alegreya-Sans-Global', sans-serif !important;
+        font-size: 32px !important;       /* Nu kommer storleken garanterat att slå igenom! */
+        font-weight: 500 !important;
+        line-height: 1.1em !important;
+        letter-spacing: -0.2px !important; 
+    }
 
-/* FIX FÖR MOBIL: Gör "Alla blogginlägg" mer kompakt och snygg på telefoner */
+    /* FIX FÖR MOBIL: Gör "Alla blogginlägg" mer kompakt och snygg på telefoner */
     .archive h1,
     .archive h2,
     .archive .archive-title,
@@ -16,6 +28,7 @@
         font-size: 26px !important; 
     }
 }
+
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
 -----------------------------------------------------------------------------*/
