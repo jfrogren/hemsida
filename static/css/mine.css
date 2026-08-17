@@ -172,7 +172,7 @@ h2, h3 {
 .header .logo-wrapper .logo,
 .header .logo-wrapper a {
     font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 29px !important;       /* Nu kommer storleken garanterat att bita! */
+    font-size: 30px !important;       /* Nu kommer storleken garanterat att bita! */
     font-weight: 500 !important;       
     letter-spacing: 0px !important; 
 }
@@ -180,7 +180,7 @@ h2, h3 {
 .header .menu .menu-item,
 .header .menu .menu-item a {
     font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 1.08em !important;     
+    font-size: 1.04em !important;     
 }
 
 /* ==========================================================================
@@ -190,7 +190,7 @@ h2, h3 {
 .footer .copyright,
 .footer .copyright .power-by,
 .footer .copyright .theme-info {
-    font-family: 'Alegreya-Global', 'Hoefler Text', Times, serif !important;
+    font-family: 'Alegreya-Sans-Global', sans-serif !important;
     font-size: 1.15em !important;  
     line-height: 1.5em !important;
 }
