@@ -155,8 +155,8 @@ h2, h3 {
 .header .logo-wrapper .logo,
 .header .logo-wrapper a {
     font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 28px !important;       /* Nu kommer storleken garanterat att bita! */
-    font-weight: 400 !important;       
+    font-size: 29px !important;       /* Nu kommer storleken garanterat att bita! */
+    font-weight: 450 !important;       
     letter-spacing: -0.2px !important; 
 }
 
