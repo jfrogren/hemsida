@@ -2,23 +2,17 @@
 -----------------------------------------------------------------------------*/
 @media screen and (max-width: 799px) {
     body {
-        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
         font-size: 0.97em !important; 
-        line-height: 1.45em !important;
+        line-height: 1.45em !important; /* Kompaktare radavstånd på mobil */
         background-color: #fefefe;
     }
 }
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
 -----------------------------------------------------------------------------*/
-/* Sajttiteln och menyer återgår till temats inbyggda font för att behålla kursiv stil */
-h1 {
+h1, h2, h3, h4, h5 {
 	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
-}
-
-/* Inläggens rubriker behåller systemfonten så att det rumänska ă fungerar */
-h2, h3, h4, h5 {
-	font-family: 'Alegreya-System', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	color: #34495e;
 }
@@ -29,7 +23,7 @@ h2, h3, h4, h5 {
 }
 
 h2, h3 {
-	font-family: 'Alegreya-System';
+	font-family: 'Alegreya';
 	font-style: normal;
 }
 
@@ -37,6 +31,7 @@ h2, h3 {
 .post-content h1 { font-size: 1.7em !important; }
 .post-content h2 { font-size: 1.4em !important; }
 .post-content h3 { font-size: 1.2em !important; }
+
 
 /* =Datorskärmar - (Gäller ENBART för datorer)
 -----------------------------------------------------------------------------*/
@@ -47,9 +42,9 @@ h2, h3 {
     
     /* Grundläggande textinställning för datorer */
     body, p {
-        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
         font-size: 1.09em !important;   
-        line-height: 1.45em !important;  
+        line-height: 1.45em !important;  /* Mindre radavstånd på dator */
         background-color: #fefefe;
     }
 
@@ -61,7 +56,7 @@ h2, h3 {
 
     /* Den enskilda bloggtexten behåller sin korrekta storlek */
     .post-content {
-        font-family: 'Alegreya-System', 'Hoefler Text', Times, serif;
+        font-family: 'Alegreya', 'Hoefler Text', Times, serif;
         font-size: 1.09em !important;   
         line-height: 1.45em !important;  
     }
@@ -76,6 +71,7 @@ h2, h3 {
        ARKIVSIDA ("Alla blogginlägg") & KATEGORISIDAN (/kategorier/)
        ========================================================================== */
     
+    /* Gör länkarna på både arkivlistan och den rena kategorisidan större */
     .archive-post-time,
     .archive-post-link,
     .terms-item-name,
@@ -84,10 +80,12 @@ h2, h3 {
         font-size: 1.15em !important; 
     }
 
+    /* MER RADAVSTÅND: Ökat från 6px till 12px för mer luft mellan bloggraderna */
     .archive .archive-post {
         padding: 12px 0 !important; 
     }
 
+    /* Snyggar till radavståndet generellt på listtitlar */
     .archive .post-title, .terms .terms-title {
         margin-bottom: 8px !important;
     }
@@ -96,9 +94,7 @@ h2, h3 {
        BLOGGPOSTENS HUVUDRUBRIK & METADATA (Finjusterade avstånd)
        ========================================================================== */
     
-    .post .post-title,
-    .post-header .post-title {
-        font-family: 'Alegreya-System', Georgia, serif !important; 
+    .post .post-title {
         font-size: 28px !important; 
         margin-bottom: 8px !important; 
     }
@@ -120,27 +116,4 @@ h2, h3 {
         margin-right: 0px !important; 
         display: inline-block !important;
     }
-}
-
-/* ==========================================================================
-   FOOTERJUSTERING - Gör årtal och copyright-text större och mer läsbar
-   ========================================================================== */
-.footer,
-.footer .copyright,
-.footer .copyright .power-by,
-.footer .copyright .theme-info {
-    font-family: 'Alegreya-System', 'Hoefler Text', Times, serif !important; /* Säkerställ rätt font */
-    font-size: 1.05em !important;  /* Ökar storleken (Standard är runt 0.8em) */
-    line-height: 1.5em !important; /* Ger texten lite mer luft på höjden */
-}
-/* ==========================================================================
-   HEADER-JUSTERING - Tvinga fram Alegreya Sans på namn och menyer online
-   ========================================================================== */
-/* Ditt namn uppe till vänster (Logotypen/Sajttiteln) */
-.header .logo-wrapper .logo,
-.header .logo-wrapper a,
-/* Menyvalen: "Alla blogginlägg" och "Kategorier" */
-.header .menu .menu-item,
-.header .menu .menu-item a {
-    font-family: 'Alegreya Sans', sans-serif !important;
 }
