@@ -7,22 +7,31 @@
         line-height: 1.45em !important; /* Kompaktare radavstånd på mobil */
         background-color: #fefefe;
     }
-    /* MOBILJUSTERING: Krossar alla dolda temaspärrar och tvingar fram 38px enbart på mobil */
+
+    /* MOBILJUSTERING: Krossar alla dolda temaspärrar och tvingar fram 30px enbart på mobil */
     .header .logo-wrapper .logo,
     .header .logo-wrapper a,
     #header .logo,
     .logo a,
     a.logo {
         font-family: 'Alegreya-Sans-Global', sans-serif !important;
-        font-size: 30px !important;       /* Nu kommer storleken garanterat att slå igenom! */
+        font-size: 30px !important;       
         font-weight: 500 !important;
         line-height: 1.1em !important;
         letter-spacing: -0.2px !important;
-        /* NYA RADER: Aktiverar wrapping och flyttar texten i höjdled */
         display: inline-block !important; /* Gör att textblocket går att flytta fritt */
-        margin-top: 6px !important;      /* JUSTERA DENNA: Höj (t.ex. 16px) för att flytta texten NER. Sänk för att flytta den UPP. */
+        margin-top: 6px !important;      /* Höj denna om du vill flytta ditt NAMN längre ner */
         margin-bottom: 0 !important;
     }
+
+    /* MOBILJUSTERING: Sänker menyvalen (Alla bloggposter & Kategorier) en aning på smartphones */
+    .header .menu {
+        margin-top: 30px !important;     /* HÄR JUSTERAR DU: Öka till t.ex. 14px eller 18px om menyvalen ska längre NER på mobil */
+    }
+
+    .header .menu .menu-item {
+        display: inline-block !important;
+        vertical-align: middle !important;
     }
 
     /* FIX FÖR MOBIL: Gör "Alla blogginlägg" mer kompakt och snygg på telefoner */
@@ -32,7 +41,7 @@
     .archive-section-title {
         font-size: 26px !important; 
     }
-}
+} /* Denna parentes stänger nu HELA mobilavsnittet på ett skottsäkert sätt! */
 
 
 /* =Typography - Gemensamma regler för rubriker (Gäller alla skärmar)
@@ -185,21 +194,36 @@ h2, h3 {
 
 
 /* ==========================================================================
-   GLOBAL HEADER-JUSTERING - Slår igenom på alla skärmar
+   3. DATORINSTÄLLNINGAR (Gäller ENBART för datorskärmar över 800px bredd)
    ========================================================================== */
-.header .logo-wrapper .logo,
-.header .logo-wrapper a {
-    font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 28px !important;       /* Nu kommer storleken garanterat att bita! */
-    font-weight: 500 !important;       
-    letter-spacing: -0.2px !important; 
-}
+@media screen and (min-width: 800px) {
+    
+    /* ... dina andra datorinställningar för body, post-content etc ligger här ... */
 
-.header .menu .menu-item,
-.header .menu .menu-item a {
-    font-family: 'Alegreya-Sans-Global', sans-serif !important;
-    font-size: 1.04em !important;     
-}
+    /* HEADER-JUSTERING - Datorskärmar */
+    .header .logo-wrapper .logo,
+    .header .logo-wrapper a {
+        font-family: 'Alegreya-Sans-Global', sans-serif !important;
+        font-size: 29px !important;       
+        font-weight: 500 !important;       
+        letter-spacing: 0px !important; 
+    }
+
+    /* FIX FÖR DATOR: Sänker menyvalen så de hamnar i en harmonisk linje med namnet */
+    .header .menu {
+        margin-top: 21px !important;    /* Höj till t.ex. 22px om de ska ännu längre NER på datorn */
+    }
+
+    .header .menu .menu-item,
+    .header .menu .menu-item a {
+        font-family: 'Alegreya-Sans-Global', sans-serif !important;
+        font-size: 1.04em !important;     
+    }
+
+    /* ... dina inställningar för datorfootern ligger här ... */
+
+} /* Denna parentes stänger datorblocket helt och hållet! */
+
 
 /* ==========================================================================
    GLOBAL FOOTER-JUSTERING - Slår igenom på alla skärmar
