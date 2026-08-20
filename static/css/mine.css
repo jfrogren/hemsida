@@ -152,7 +152,7 @@ h2, h3 {
     .post .post-title,
     .post-header .post-title {
         font-family: 'Alegreya-Global', Georgia, serif !important;
-        font-size: 28px !important; 
+        font-size: 30px !important; 
         margin-bottom: 6px !important; 
     }
 
@@ -224,6 +224,29 @@ h2, h3 {
 
 } /* Denna parentes stänger datorblocket helt och hållet! */
 
+/* ==========================================================================
+   4. STORSKÄRMSINSTÄLLNINGAR (Aktiveras vid inkoppling till extern skärm)
+   ========================================================================== */
+@media screen and (min-width: 1600px) {
+    
+    /* Gör typsnittet 10% större på hela webbplatsen */
+    html {
+        font-size: 110% !important;
+    }
+
+    /* Gör marginalerna bredare genom att begränsa huvudinnehållets bredd */
+    .main, .content, .container {
+        max-width: 800px !important; 
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    /* Ger extra luft/marginaler på sidorna av själva inläggen */
+    .post {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    }
+}
 
 /* ==========================================================================
    GLOBAL FOOTER-JUSTERING - Slår igenom på alla skärmar

@@ -1,6 +1,6 @@
 ---
-slug: "mircea-cartarescu-och-hans-engelska-oversattare-i-samtal"
-title: "Mircea Cărtărescu och hans engelska översättare i samtal"
+slug: "mircea-cartarescu-i-samtal-med-engelsk-oversattare"
+title: "Mircea Cărtărescu i samtal med engelsk översättare"
 date: 2024-10-09T02:14:39+02:00
 draft: false
 kategorier: ["Litteratur", "Rumänien", "Irland"]
