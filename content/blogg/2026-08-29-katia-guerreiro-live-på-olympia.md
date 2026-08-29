@@ -41,3 +41,5 @@ kategorier: ["Musik", "Portugal", "Fado"]
 > ||: Sobe comigo a encosta  
 > Porque quando a gente gosta  
 > Ninguém cala o coração :||  
+
+
